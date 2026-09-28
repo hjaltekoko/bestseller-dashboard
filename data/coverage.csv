@@ -1,8 +1,8 @@
 Brand,Category,Head Buyer,In-stock bestsellers,Suggestions,Out of stock (ignored),Bestseller coverage,Average price above market,Median price above market,Products above market,Market Index,On campaign
-CeLaVi,2 kids,20415 lotte skovaa,1,5,0,0.1670,0.1230,0.0380,10.0000,113.0000,TRUE
-Jjxx,5 women,25070 adam massigeh,1,6,0,0.1430,0.2390,0.0670,103.0000,132.0000,TRUE
-Olaplex,8 cosmetics,21819 mariette buksti gram,1,10,0,0.0910,0.7670,0.6760,20.0000,59.0000,TRUE
-The Ordinary,8 cosmetics,21819 mariette buksti gram,1,17,0,0.0560,0.2590,0.1660,70.0000,85.0000,FALSE
+CeLaVi,2 kids,20415 lotte skovaa,1,5,0,0.1667,0.1363,0.0741,9,110.7888,TRUE
+Jjxx,5 women,25070 adam massigeh,1,6,0,0.1429,0.2432,0.0667,102,128.8907,TRUE
+Olaplex,8 cosmetics,21819 mariette buksti gram,1,10,0,0.0909,0.7354,0.6762,20,59.4054,TRUE
+The Ordinary,8 cosmetics,21819 mariette buksti gram,1,17,0,0.0556,0.2599,0.1658,68,85.9836,FALSE
 & Other Stories,,,0,5,0,0.0000,,,,,FALSE
 3M,,,0,2,0,0.0000,,,,,FALSE
 4her,,,0,1,0,0.0000,,,,,FALSE
@@ -12,17 +12,17 @@ The Ordinary,8 cosmetics,21819 mariette buksti gram,1,17,0,0.0560,0.2590,0.1660,
 A-DERMA,,,0,5,0,0.0000,,,,,FALSE
 A.Vogel,,,0,5,0,0.0000,,,,,FALSE
 ABUS,,,0,1,0,0.0000,,,,,FALSE
-AEG,,,0,7,0,0.0000,,,,,FALSE
+AEG,,,0,8,0,0.0000,,,,,FALSE
 AIRTOX,,,0,2,0,0.0000,,,,,FALSE
-AISO,8 cosmetics,75404 jonas linding berg,0,1,0,0.0000,,,,100.0000,FALSE
+AISO,8 cosmetics,75404 jonas linding berg,0,1,0,0.0000,,,,100.3859,FALSE
 AIVIQ,,,0,1,0,0.0000,,,,,FALSE
 ALCAZAR,,,0,1,0,0.0000,,,,,FALSE
 ALLTEST,,,0,1,0,0.0000,,,,,FALSE
 ALOHAS,,,0,2,0,0.0000,,,,,FALSE
 APOVIT,,,0,8,0,0.0000,,,,,FALSE
-ARKK Copenhagen,3 mens,,0,1,0,0.0000,0.0530,0.0030,3.0000,126.0000,TRUE
+ARKK Copenhagen,7 w access,,0,1,0,0.0000,0.2287,0.1239,14,111.5878,FALSE
 ASG,,,0,1,0,0.0000,,,,,FALSE
-ASICS,3 mens,20415 lotte skovaa,0,38,0,0.0000,0.2700,0.1550,197.0000,90.0000,TRUE
+ASICS,3 mens,20415 lotte skovaa,0,39,0,0.0000,0.2580,0.1441,206,89.6209,TRUE
 AYA,,,0,4,0,0.0000,,,,,FALSE
 Aankl,,,0,4,0,0.0000,,,,,FALSE
 Aankl Footwear,,,0,2,0,0.0000,,,,,FALSE
@@ -32,9 +32,9 @@ Absodry,,,0,1,0,0.0000,,,,,FALSE
 Accu-Chek,,,0,1,0,0.0000,,,,,FALSE
 Acrilex,,,0,1,0,0.0000,,,,,FALSE
 Adano,,,0,1,0,0.0000,,,,,FALSE
-Adax,7 w access,25070 adam massigeh,0,1,0,0.0000,0.3670,0.2500,201.0000,85.0000,FALSE
+Adax,7 w access,25070 adam massigeh,0,1,0,0.0000,0.3266,0.2500,102,84.5734,FALSE
 Aduro,,,0,2,0,0.0000,,,,,FALSE
-Aestura,8 cosmetics,,0,1,0,0.0000,0.8510,0.8510,1.0000,98.0000,FALSE
+Aestura,8 cosmetics,,0,1,0,0.0000,0.8505,0.8505,1,97.7350,FALSE
 Afnan,,,0,2,0,0.0000,,,,,FALSE
 Ahh Bra,,,0,1,0,0.0000,,,,,FALSE
 Airpure,,,0,1,0,0.0000,,,,,FALSE
@@ -49,15 +49,15 @@ Alpine,,,0,4,0,0.0000,,,,,FALSE
 Altra,,,0,2,0,0.0000,,,,,FALSE
 American Crew,,,0,1,0,0.0000,,,,,FALSE
 Anabox,,,0,1,0,0.0000,,,,,FALSE
-Angulus,7 w access,25070 adam massigeh,0,2,0,0.0000,0.1470,0.0670,71.0000,99.0000,TRUE
-Ankarsrum,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1740,0.1770,13.0000,88.0000,FALSE
-Anna Field,,,0,1,0,0.0000,,,,,FALSE
-Anua,8 cosmetics,21819 mariette buksti gram,0,8,0,0.0000,0.4550,0.3800,27.0000,73.0000,TRUE
+Angulus,7 w access,25070 adam massigeh,0,2,0,0.0000,0.3666,0.2502,65,87.3960,FALSE
+Ankarsrum,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1738,0.1767,13,88.0463,FALSE
+Anna Field,,,0,2,0,0.0000,,,,,FALSE
+Anua,8 cosmetics,21819 mariette buksti gram,0,8,0,0.0000,0.5349,0.3803,27,71.7620,TRUE
 Apple,,,0,7,0,0.0000,,,,,FALSE
 Arc'teryx,,,0,8,0,0.0000,,,,,FALSE
 Arencia official,,,0,1,0,0.0000,,,,,FALSE
 Arla,,,0,1,0,0.0000,,,,,FALSE
-Armani,8 cosmetics,21819 mariette buksti gram,0,10,0,0.0000,0.3460,0.2770,260.0000,86.0000,TRUE
+Armani,8 cosmetics,21819 mariette buksti gram,0,10,0,0.0000,0.3351,0.2727,275,85.9314,TRUE
 Artipoppe,,,0,1,0,0.0000,,,,,FALSE
 Artlink,,,0,2,0,0.0000,,,,,FALSE
 Athlecia,,,0,1,0,0.0000,,,,,FALSE
@@ -67,49 +67,49 @@ Avent,,,0,1,0,0.0000,,,,,FALSE
 Avène,,,0,3,0,0.0000,,,,,FALSE
 Axel Arigato,,,0,1,0,0.0000,,,,,FALSE
 Ayyildiz,,,0,1,0,0.0000,,,,,FALSE
-Azzaro,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.6400,0.5830,15.0000,62.0000,TRUE
+Azzaro,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.6294,0.5833,15,62.4777,TRUE
 BAMBUSA,,,0,1,0,0.0000,,,,,FALSE
-BARK™DNA,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.1110,0.1110,1.0000,107.0000,TRUE
+BARK™DNA,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.1107,0.1107,1,106.8953,TRUE
 BEBIRD,,,0,1,0,0.0000,,,,,FALSE
 BGA,,,0,2,0,0.0000,,,,,FALSE
-BIBS,2 kids,20415 lotte skovaa,0,9,0,0.0000,0.2370,0.2120,61.0000,83.0000,TRUE
+BIBS,2 kids,20415 lotte skovaa,0,9,0,0.0000,0.5156,0.4406,5,70.0970,TRUE
 BIELENDA,,,0,1,0,0.0000,,,,,FALSE
 BIODERMA,,,0,1,0,0.0000,,,,,FALSE
 BISSELL,,,0,1,0,0.0000,,,,,FALSE
-BLS Hafnia,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.7400,0.6700,7.0000,104.0000,TRUE
-BODUM,1 home,21819 mariette buksti gram,0,3,0,0.0000,0.2130,0.1240,49.0000,92.0000,TRUE
+BLS Hafnia,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.6166,0.6699,5,106.7389,TRUE
+BODUM,1 home,21819 mariette buksti gram,0,3,0,0.0000,0.2134,0.1238,49,91.9277,TRUE
 BORA,,,0,1,0,0.0000,,,,,FALSE
 BY NIGHT,,,0,1,0,0.0000,,,,,FALSE
-BY TERRY,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3190,0.2240,118.0000,86.0000,TRUE
-BYIC,5 women,,0,4,0,0.0000,0.3130,0.3330,100.0000,117.0000,FALSE
-BaByliss,8 cosmetics,,0,7,0,0.0000,0.2270,0.1660,24.0000,87.0000,TRUE
+BY TERRY,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3230,0.2282,117,85.6465,TRUE
+BYIC,5 women,,0,4,0,0.0000,0.3258,0.3334,158,107.0344,FALSE
+BaByliss,8 cosmetics,,0,7,0,0.0000,0.2305,0.1939,24,86.9003,TRUE
 Baby Brezza,,,0,2,0,0.0000,,,,,FALSE
 Baby Foot,,,0,1,0,0.0000,,,,,FALSE
 BabyDan,,,0,3,0,0.0000,,,,,FALSE
 Babymoov,,,0,1,0,0.0000,,,,,FALSE
 Bach,,,0,1,0,0.0000,,,,,FALSE
-Ballarini,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.0480,0.0430,9.0000,99.0000,TRUE
+Ballarini,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.0485,0.0425,9,98.7370,TRUE
 Bamboo,,,0,1,0,0.0000,,,,,FALSE
-Barbour,3 mens,20415 lotte skovaa,0,9,0,0.0000,0.3550,0.1550,111.0000,90.0000,FALSE
-Barebells,,,0,1,0,0.0000,,,,,FALSE
-Bareen,3 mens,25070 adam massigeh,0,4,0,0.0000,0.4810,0.3970,6.0000,109.0000,TRUE
+Barbour,3 mens,20415 lotte skovaa,0,9,0,0.0000,0.3981,0.1740,73,86.0623,FALSE
+Barebells,,,0,2,0,0.0000,,,,,FALSE
+Bareen,3 mens,25070 adam massigeh,0,5,0,0.0000,0.4973,0.3972,5,110.1104,TRUE
 Baseus,,,0,1,0,0.0000,,,,,FALSE
 Bauhaus,,,0,1,0,0.0000,,,,,FALSE
 Bayer,,,0,4,0,0.0000,,,,,FALSE
-Beauty of Joseon,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.6080,0.5710,24.0000,65.0000,TRUE
-Beauté Pacifique,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.0990,0.0890,94.0000,92.0000,TRUE
+Beauty of Joseon,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.6231,0.5900,24,63.9343,TRUE
+Beauté Pacifique,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.1015,0.0913,93,91.8270,TRUE
 Becel,,,0,1,0,0.0000,,,,,FALSE
-Becksöndergaard,7 w access,25070 adam massigeh,0,1,0,0.0000,0.4320,0.4310,147.0000,97.0000,TRUE
+Becksöndergaard,7 w access,25070 adam massigeh,0,1,0,0.0000,0.5452,0.4919,71,97.3528,TRUE
 Beemoo,,,0,1,0,0.0000,,,,,FALSE
 Benton,,,0,1,0,0.0000,,,,,FALSE
-Bershka,,,0,9,0,0.0000,,,,,FALSE
+Bershka,,,0,10,0,0.0000,,,,,FALSE
 Beslag Design,,,0,1,0,0.0000,,,,,FALSE
-Beurer,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.7420,0.7150,301.0000,67.0000,FALSE
-Bialetti,1 home,,0,1,0,0.0000,0.6150,0.6900,29.0000,69.0000,TRUE
-Bianco,7 w access,25070 adam massigeh,0,2,0,0.0000,0.2640,0.2500,86.0000,87.0000,TRUE
+Beurer,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.7679,0.7386,294,67.7101,FALSE
+Bialetti,1 home,,0,1,0,0.0000,0.6147,0.6895,29,69.2906,TRUE
+Bianco,7 w access,25070 adam massigeh,0,2,0,0.0000,0.2579,0.2500,86,86.4631,FALSE
 Bigso,,,0,2,0,0.0000,,,,,FALSE
 Bilbuster,,,0,1,0,0.0000,,,,,FALSE
-Billi Bi,7 w access,25070 adam massigeh,0,4,0,0.0000,0.1150,0.0030,15.0000,122.0000,TRUE
+Billi Bi,7 w access,25070 adam massigeh,0,4,0,0.0000,0.1926,0.1123,26,104.7106,FALSE
 Biltema,,,0,20,0,0.0000,,,,,FALSE
 Bio-Oil,,,0,1,0,0.0000,,,,,FALSE
 Bio-Strath,,,0,2,0,0.0000,,,,,FALSE
@@ -117,107 +117,110 @@ BioTechUSA,,,0,3,0,0.0000,,,,,FALSE
 Bioforce,,,0,3,0,0.0000,,,,,FALSE
 Biorepair,,,0,1,0,0.0000,,,,,FALSE
 Biosym,,,0,11,0,0.0000,,,,,FALSE
-Biotherm,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.1870,0.1520,117.0000,90.0000,TRUE
+Biotherm,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.1889,0.1663,117,89.6510,TRUE
 Biovita,,,0,1,0,0.0000,,,,,FALSE
-Birkenstock,7 w access,25070 adam massigeh,0,16,0,0.0000,0.5040,0.4480,90.0000,78.0000,TRUE
-Bison,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.4500,0.5990,8.0000,108.0000,TRUE
-Bitz,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1740,0.1420,33.0000,87.0000,TRUE
-Björn Borg,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.1850,0.0890,36.0000,104.0000,TRUE
+Birkenstock,7 w access,25070 adam massigeh,0,16,0,0.0000,0.5027,0.4399,90,78.3756,TRUE
+Bison,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.4499,0.5990,8,110.0486,TRUE
+Bitz,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1735,0.1422,33,87.0751,TRUE
+Björn Borg,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.1802,0.0816,31,104.3321,TRUE
 Black Colour,,,0,5,0,0.0000,,,,,FALSE
-Black Unicorn,,,0,1,0,0.0000,,,,,FALSE
+Black Unicorn,,,0,2,0,0.0000,,,,,FALSE
 Blomsterbergs,,,0,1,0,0.0000,,,,,FALSE
 Bloomingville,,,0,1,0,0.0000,,,,,FALSE
 Blue Rebel,,,0,1,0,0.0000,,,,,FALSE
-Blundstone,7 w access,25070 adam massigeh,0,3,0,0.0000,0.5150,0.4900,18.0000,68.0000,FALSE
+Blundstone,7 w access,25070 adam massigeh,0,4,0,0.0000,0.5332,0.5126,17,67.4015,FALSE
 Bodylab,,,0,12,0,0.0000,,,,,FALSE
 Bodymod,,,0,1,0,0.0000,,,,,FALSE
-Bodyologist,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1420,0.0020,10.0000,95.0000,TRUE
+Bodyologist,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1418,0.0020,10,94.9192,TRUE
 Boland,,,0,1,0,0.0000,,,,,FALSE
-Bondi Sands,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.8320,0.7960,46.0000,57.0000,TRUE
-Bongusta,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2960,0.0970,88.0000,94.0000,TRUE
+Bondi Sands,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.8289,0.7962,46,56.9745,TRUE
+Bongusta,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2962,0.0969,88,94.3779,TRUE
 Boom Butik,,,0,2,0,0.0000,,,,,FALSE
 Borg Living,,,0,10,0,0.0000,,,,,FALSE
 Borås Cotton,,,0,1,0,0.0000,,,,,FALSE
 Bosch,,,0,31,0,0.0000,,,,,FALSE
 Bows By Stær,,,0,1,0,0.0000,,,,,FALSE
-Braun,1 home,21819 mariette buksti gram,0,16,0,0.0000,0.1690,0.1510,25.0000,90.0000,TRUE
+Braun,1 home,21819 mariette buksti gram,0,17,0,0.0000,0.1672,0.1506,25,90.2139,TRUE
+Breathe Right,,,0,1,0,0.0000,,,,,FALSE
 Breathox,,,0,1,0,0.0000,,,,,FALSE
 Brilliant,,,0,1,0,0.0000,,,,,FALSE
 Brooks,,,0,2,0,0.0000,,,,,FALSE
 Bruder,,,0,1,0,0.0000,,,,,FALSE
 Budget Car Rental,,,0,1,0,0.0000,,,,,FALSE
-Bugaboo,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.2600,0.1930,69.0000,90.0000,TRUE
+Bugaboo,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.2953,0.1765,39,81.7582,FALSE
 Bulk,,,0,8,0,0.0000,,,,,FALSE
-Bundgaard,2 kids,25070 adam massigeh,0,12,0,0.0000,0.6520,0.6000,5.0000,98.0000,TRUE
-Burberry,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.7610,0.5730,63.0000,64.0000,TRUE
+Bundgaard,2 kids,25070 adam massigeh,0,12,0,0.0000,0.7928,0.7986,6,95.3049,TRUE
+Burberry,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.7792,0.5715,63,63.2692,TRUE
 C.P. Company,,,0,2,0,0.0000,,,,,FALSE
 CAIA,,,0,2,0,0.0000,,,,,FALSE
 CAT,,,0,1,0,0.0000,,,,,FALSE
 CERVA,,,0,1,0,0.0000,,,,,FALSE
 CEWE Photoworld,,,0,4,0,0.0000,,,,,FALSE
-CHANEL,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.1760,0.1140,617.0000,93.0000,FALSE
-CLEAN,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.5580,0.5450,84.0000,70.0000,TRUE
-CND,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.2220,0.0920,44.0000,102.0000,TRUE
-COLOR KIDS,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.1960,0.0500,23.0000,106.0000,TRUE
+CHANEL,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.1771,0.1146,617,92.6532,FALSE
+CLEAN,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.5455,0.5323,84,70.4979,TRUE
+CNC Flow Control,,,0,1,0,0.0000,,,,,FALSE
+CND,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.2223,0.0916,44,101.6209,TRUE
+COLOR KIDS,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.2022,0.0500,22,105.3534,TRUE
 CONTOUR,,,0,1,0,0.0000,,,,,FALSE
 COROS,,,0,1,0,0.0000,,,,,FALSE
 COSORI,,,0,1,0,0.0000,,,,,FALSE
-COSRX,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.5790,0.5330,65.0000,68.0000,FALSE
+COSRX,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.5778,0.5295,65,68.2636,FALSE
 CPH,,,0,1,0,0.0000,,,,,FALSE
 CURAPROX,,,0,1,0,0.0000,,,,,FALSE
 CYBEX,,,0,5,0,0.0000,,,,,FALSE
-Calvin Klein,6 lingerie,20415 lotte skovaa,0,5,0,0.0000,0.7220,0.4800,245.0000,95.0000,TRUE
+Calvin Klein,6 lingerie,20415 lotte skovaa,0,5,0,0.0000,0.7758,0.5401,223,93.3414,TRUE
 Cam Cam,,,0,2,0,0.0000,,,,,FALSE
 CamelBak,,,0,1,0,0.0000,,,,,FALSE
 Cana Care,,,0,1,0,0.0000,,,,,FALSE
 Candy,,,0,2,0,0.0000,,,,,FALSE
-Caramma,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.0000,0.0000,1.0000,116.0000,TRUE
+Caramma,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.0004,0.0004,1,115.9177,TRUE
 Carhartt,,,0,6,0,0.0000,,,,,FALSE
-Carolina Herrera,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.4450,0.3810,41.0000,73.0000,TRUE
+Carolina Herrera,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.4378,0.3813,41,72.9797,TRUE
 Carriwell,,,0,2,0,0.0000,,,,,FALSE
 Casper Sobczyk,,,0,4,0,0.0000,,,,,FALSE
-Caudalie,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1700,0.0980,23.0000,99.0000,TRUE
+Caudalie,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1484,0.0976,23,99.2465,TRUE
 Cavius,,,0,1,0,0.0000,,,,,FALSE
-Celimax,8 cosmetics,,0,1,0,0.0000,0.3080,0.3100,10.0000,78.0000,TRUE
+Celimax,8 cosmetics,,0,1,0,0.0000,0.3080,0.3098,10,77.9924,TRUE
 Centellian24,,,0,2,0,0.0000,,,,,FALSE
-CeraVe,,,0,17,0,0.0000,,,,,FALSE
-Chantelle,6 lingerie,20415 lotte skovaa,0,1,0,0.0000,0.1950,0.0630,152.0000,115.0000,TRUE
+CeraVe,,,0,19,0,0.0000,,,,,FALSE
+Chantelle,6 lingerie,20415 lotte skovaa,0,1,0,0.0000,0.2138,0.0680,146,115.3787,TRUE
 Chanti,,,0,3,0,0.0000,,,,,FALSE
-Charlotte Tilbury,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.0960,0.0760,146.0000,114.0000,FALSE
+Charlotte Tilbury,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.0979,0.0795,159,114.7167,FALSE
 Chic Antique,,,0,1,0,0.0000,,,,,FALSE
-Chloé,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6290,0.6150,47.0000,64.0000,TRUE
+Chloé,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6341,0.5968,47,63.9514,TRUE
 Cillit BANG,,,0,1,0,0.0000,,,,,FALSE
 Cisco,,,0,3,0,0.0000,,,,,FALSE
 Clarks,,,0,1,0,0.0000,,,,,FALSE
 Clatronic,,,0,1,0,0.0000,,,,,FALSE
-Claudio,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.0940,0.0660,16.0000,98.0000,TRUE
+Claudio,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.0939,0.0661,16,98.2872,TRUE
+Cleanfriend,,,0,2,0,0.0000,,,,,FALSE
 Clear Eyes,,,0,1,0,0.0000,,,,,FALSE
 Clearblue,,,0,1,0,0.0000,,,,,FALSE
-Clinique,8 cosmetics,21819 mariette buksti gram,0,10,0,0.0000,0.3230,0.2920,546.0000,82.0000,TRUE
+Clinique,8 cosmetics,21819 mariette buksti gram,0,10,0,0.0000,0.3205,0.2883,552,81.7012,TRUE
 Clique,,,0,2,0,0.0000,,,,,FALSE
 Co`Couture,,,0,2,0,0.0000,,,,,FALSE
-Color Wow,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.3750,0.2630,16.0000,75.0000,FALSE
+Color Wow,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.3749,0.2634,16,75.0894,FALSE
 Common Clouds,,,0,1,0,0.0000,,,,,FALSE
 Compeed,,,0,1,0,0.0000,,,,,FALSE
-Converse,3 mens,20415 lotte skovaa,0,7,0,0.0000,0.5460,0.4810,4.0000,80.0000,TRUE
+Converse,3 mens,20415 lotte skovaa,0,7,0,0.0000,0.5467,0.4825,4,79.9388,TRUE
 Cook & Baker,,,0,6,0,0.0000,,,,,FALSE
 Cooper,,,0,1,0,0.0000,,,,,FALSE
-Copenhagen Shoes,7 w access,,0,1,0,0.0000,0.4160,0.4020,9.0000,108.0000,TRUE
+Copenhagen Shoes,7 w access,,0,1,0,0.0000,0.3747,0.2564,10,107.1526,TRUE
 Cordell,,,0,1,0,0.0000,,,,,FALSE
 Corwin Elcykel,,,0,1,0,0.0000,,,,,FALSE
 Cosilana,,,0,1,0,0.0000,,,,,FALSE
 Crazy Color,,,0,1,0,0.0000,,,,,FALSE
 Creative-Cables,,,0,1,0,0.0000,,,,,FALSE
-Crocs,7 w access,25070 adam massigeh,0,8,0,0.0000,0.3700,0.2830,57.0000,94.0000,TRUE
+Crocs,7 w access,25070 adam massigeh,0,8,0,0.0000,0.3684,0.2834,59,90.2374,TRUE
 Croll and Denecke,,,0,2,0,0.0000,,,,,FALSE
 Cruz,,,0,1,0,0.0000,,,,,FALSE
-Culture,5 women,25070 adam massigeh,0,1,0,0.0000,0.4620,0.3330,145.0000,104.0000,TRUE
+Culture,5 women,25070 adam massigeh,0,1,0,0.0000,0.4443,0.3333,144,104.5976,TRUE
 Curver,,,0,1,0,0.0000,,,,,FALSE
 D-Co Copenhagen,,,0,1,0,0.0000,,,,,FALSE
 DANISH ENDURANCE,,,0,5,0,0.0000,,,,,FALSE
 DAP,,,0,1,0,0.0000,,,,,FALSE
 DAY,,,0,9,0,0.0000,,,,,FALSE
-DAY ET,7 w access,25070 adam massigeh,0,2,0,0.0000,0.2880,0.1770,58.0000,93.0000,TRUE
+DAY ET,7 w access,25070 adam massigeh,0,2,0,0.0000,0.4046,0.3333,18,88.9039,TRUE
 DEBEL,,,0,8,0,0.0000,,,,,FALSE
 DEWALT,,,0,1,0,0.0000,,,,,FALSE
 DFI,,,0,5,0,0.0000,,,,,FALSE
@@ -232,30 +235,30 @@ Dancover,,,0,4,0,0.0000,,,,,FALSE
 Danfoss,,,0,1,0,0.0000,,,,,FALSE
 Danmarks-Posen.Dk,,,0,1,0,0.0000,,,,,FALSE
 Dansand,,,0,1,0,0.0000,,,,,FALSE
-De'Longhi,1 home,21819 mariette buksti gram,0,10,0,0.0000,0.2760,0.2310,24.0000,83.0000,TRUE
+De'Longhi,1 home,21819 mariette buksti gram,0,10,0,0.0000,0.2720,0.1999,23,84.4713,TRUE
 Decubal,,,0,8,0,0.0000,,,,,FALSE
 Deerhunter,,,0,2,0,0.0000,,,,,FALSE
 Denver Electronics,,,0,4,0,0.0000,,,,,FALSE
-Depend,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1980,0.1180,210.0000,88.0000,TRUE
+Depend,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2260,0.2010,199,87.3756,TRUE
 Derma,,,0,2,0,0.0000,,,,,FALSE
 Dermaknowlogy,,,0,1,0,0.0000,,,,,FALSE
 Diamondart,,,0,1,0,0.0000,,,,,FALSE
 Diasocks,,,0,1,0,0.0000,,,,,FALSE
 Dickie Toys,,,0,1,0,0.0000,,,,,FALSE
-Dickies,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.8680,0.7360,23.0000,86.0000,TRUE
-Didriksons,3 mens,,0,6,0,0.0000,0.2880,0.1920,46.0000,88.0000,FALSE
+Dickies,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.9022,0.7408,22,85.7791,TRUE
+Didriksons,3 mens,,0,8,0,0.0000,0.2703,0.1849,40,88.1771,FALSE
 Digital Energy,,,0,1,0,0.0000,,,,,FALSE
-Dior,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.2650,0.2610,1034.0000,83.0000,FALSE
+Dior,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.2549,0.2455,1027,83.7235,FALSE
 Direct Signs,,,0,1,0,0.0000,,,,,FALSE
-Diverse,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.6300,0.6640,13.0000,66.0000,FALSE
+Diverse,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.8767,0.8940,4,62.8230,FALSE
 Dlf,,,0,2,0,0.0000,,,,,FALSE
 Dlg,,,0,1,0,0.0000,,,,,FALSE
-Dolce & Gabbana,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.7080,0.6720,86.0000,65.0000,TRUE
+Dolce & Gabbana,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.7552,0.6675,86,63.6087,TRUE
 Domestos,,,0,1,0,0.0000,,,,,FALSE
-Done by Deer,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.1650,0.1540,163.0000,88.0000,TRUE
-Dr. Althea,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.4350,0.3010,10.0000,75.0000,TRUE
+Done by Deer,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.1659,0.1606,109,86.9658,TRUE
+Dr. Althea,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.4506,0.3157,10,73.9324,TRUE
 Dr. Beckmann,,,0,1,0,0.0000,,,,,FALSE
-Dr. Martens,7 w access,25070 adam massigeh,0,2,0,0.0000,0.3230,0.2720,48.0000,90.0000,TRUE
+Dr. Martens,7 w access,25070 adam massigeh,0,2,0,0.0000,0.3241,0.2813,47,87.3978,TRUE
 Dreame,,,0,11,0,0.0000,,,,,FALSE
 DripDrop,,,0,1,0,0.0000,,,,,FALSE
 Ducray,,,0,4,0,0.0000,,,,,FALSE
@@ -265,12 +268,12 @@ Dulcolax,,,0,1,0,0.0000,,,,,FALSE
 Dunlop,,,0,1,0,0.0000,,,,,FALSE
 Duralex,,,0,1,0,0.0000,,,,,FALSE
 Dyberg Larsen,,,0,1,0,0.0000,,,,,FALSE
-Dyson,8 cosmetics,21819 mariette buksti gram,0,11,0,0.0000,0.1730,0.1760,24.0000,93.0000,FALSE
+Dyson,8 cosmetics,21819 mariette buksti gram,0,11,0,0.0000,0.1545,0.1511,22,94.1596,FALSE
 E-line,,,0,2,0,0.0000,,,,,FALSE
 EAN,,,0,1,0,0.0000,,,,,FALSE
 ECCO,,,0,2,0,0.0000,,,,,FALSE
 EGLO,,,0,1,0,0.0000,,,,,FALSE
-EN FANT,2 kids,20415 lotte skovaa,0,5,0,0.0000,0.2370,0.1140,20.0000,104.0000,TRUE
+EN FANT,2 kids,20415 lotte skovaa,0,6,0,0.0000,0.1939,0.0714,27,101.6362,TRUE
 ENJOY,,,0,1,0,0.0000,,,,,FALSE
 ERNE,,,0,1,0,0.0000,,,,,FALSE
 ESPA,,,0,2,0,0.0000,,,,,FALSE
@@ -278,25 +281,25 @@ ESYLUX,,,0,1,0,0.0000,,,,,FALSE
 EXCELLENT HOUSEWARE,,,0,2,0,0.0000,,,,,FALSE
 EYDA,,,0,1,0,0.0000,,,,,FALSE
 Easygrow,,,0,1,0,0.0000,,,,,FALSE
-Ecooking,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.0830,0.0080,98.0000,101.0000,TRUE
+Ecooking,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.0933,0.0081,96,101.4037,TRUE
 Ecostyle,,,0,7,0,0.0000,,,,,FALSE
 Ecotronic,,,0,1,0,0.0000,,,,,FALSE
 Ekulf,,,0,2,0,0.0000,,,,,FALSE
 Electrolux,,,0,15,0,0.0000,,,,,FALSE
 Elefanten,,,0,1,0,0.0000,,,,,FALSE
 Elite,,,0,1,0,0.0000,,,,,FALSE
-Elizabeth Arden,8 cosmetics,,0,2,0,0.0000,0.8090,0.6460,101.0000,63.0000,TRUE
+Elizabeth Arden,8 cosmetics,,0,2,0,0.0000,0.8043,0.6635,101,62.5258,TRUE
 Ellos,,,0,7,0,0.0000,,,,,FALSE
 Ellos Home,,,0,4,0,0.0000,,,,,FALSE
-Embryolisse,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.4030,0.3860,45.0000,78.0000,TRUE
-Endeavour,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1590,0.0690,40.0000,97.0000,TRUE
+Embryolisse,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.4139,0.3868,44,78.4494,TRUE
+Endeavour,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1619,0.0687,39,96.8459,TRUE
 Engel,,,0,1,0,0.0000,,,,,FALSE
-Envii,5 women,25070 adam massigeh,0,1,0,0.0000,0.2740,0.0670,91.0000,117.0000,TRUE
+Envii,5 women,25070 adam massigeh,0,1,0,0.0000,0.2611,0.0667,109,107.0738,TRUE
 Equip,,,0,1,0,0.0000,,,,,FALSE
-Erborian,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2430,0.1550,85.0000,84.0000,FALSE
-Estée Lauder,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.3520,0.2790,373.0000,82.0000,TRUE
+Erborian,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2575,0.1553,84,83.8947,FALSE
+Estée Lauder,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.3543,0.2894,370,82.0210,TRUE
 Eucalan,,,0,1,0,0.0000,,,,,FALSE
-Eva Solo,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.3080,0.1670,388.0000,84.0000,TRUE
+Eva Solo,1 home,21819 mariette buksti gram,0,10,0,0.0000,0.3087,0.1704,387,83.7358,TRUE
 Even&Odd,,,0,1,0,0.0000,,,,,FALSE
 Everlands,,,0,1,0,0.0000,,,,,FALSE
 Everlast,,,0,1,0,0.0000,,,,,FALSE
@@ -309,14 +312,15 @@ Fable and Mane,,,0,1,0,0.0000,,,,,FALSE
 Feather & Hare,,,0,1,0,0.0000,,,,,FALSE
 Femarelle,,,0,1,0,0.0000,,,,,FALSE
 Fenty Beauty,,,0,1,0,0.0000,,,,,FALSE
+Fibertex,,,0,1,0,0.0000,,,,,FALSE
 Fiestas Guirca,,,0,1,0,0.0000,,,,,FALSE
 Finish,,,0,1,0,0.0000,,,,,FALSE
 First Grade,,,0,2,0,0.0000,,,,,FALSE
 Fischer Möbel,,,0,1,0,0.0000,,,,,FALSE
-Fitbit,,,0,2,0,0.0000,,,,,FALSE
+Fitbit,,,0,1,0,0.0000,,,,,FALSE
 Fitness Pharma,,,0,8,0,0.0000,,,,,FALSE
 Fixoni,,,0,1,0,0.0000,,,,,FALSE
-Fjällräven,2 kids,20415 lotte skovaa,0,11,0,0.0000,0.4310,0.2500,5.0000,84.0000,TRUE
+Fjällräven,2 kids,20415 lotte skovaa,0,11,0,0.0000,0.2506,0.2262,4,90.3462,TRUE
 Fladen,,,0,1,0,0.0000,,,,,FALSE
 Flexfit,,,0,1,0,0.0000,,,,,FALSE
 FlexiComfort,,,0,1,0,0.0000,,,,,FALSE
@@ -326,16 +330,16 @@ Flügger,,,0,2,0,0.0000,,,,,FALSE
 Forever,,,0,2,0,0.0000,,,,,FALSE
 Forte S.A.,,,0,1,0,0.0000,,,,,FALSE
 Foster,,,0,1,0,0.0000,,,,,FALSE
-Fransa,5 women,25070 adam massigeh,0,4,0,0.0000,0.2130,0.1780,106.0000,135.0000,FALSE
+Fransa,5 women,25070 adam massigeh,0,4,0,0.0000,0.2128,0.1863,105,134.3148,FALSE
 Fred,,,0,1,0,0.0000,,,,,FALSE
-Frederik Bagger,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3340,0.1940,78.0000,95.0000,TRUE
+Frederik Bagger,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3340,0.1936,78,94.3992,TRUE
 Fresenius Kabi,,,0,1,0,0.0000,,,,,FALSE
-Fruit of the Loom,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.1740,0.1740,1.0000,98.0000,FALSE
-GARDANA,,,0,2,0,0.0000,,,,,FALSE
+Fruit of the Loom,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.1742,0.1742,1,98.2058,FALSE
+GARDANA,,,0,3,0,0.0000,,,,,FALSE
 GARDENA,,,0,5,0,0.0000,,,,,FALSE
-GARMIN,3 mens,,0,32,0,0.0000,0.1280,0.1280,1.0000,89.0000,FALSE
+GARMIN,,,0,34,0,0.0000,,,,,FALSE
 GASP,,,0,1,0,0.0000,,,,,FALSE
-GB by Gun-Britt,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,,,,113.0000,TRUE
+GB by Gun-Britt,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,,,,112.8884,TRUE
 GM,,,0,1,0,0.0000,,,,,FALSE
 GORI,,,0,1,0,0.0000,,,,,FALSE
 GOSH COPENHAGEN,,,0,3,0,0.0000,,,,,FALSE
@@ -345,19 +349,19 @@ GW Bicycles,,,0,1,0,0.0000,,,,,FALSE
 Gaggenau,,,0,1,0,0.0000,,,,,FALSE
 Garden,,,0,16,0,0.0000,,,,,FALSE
 Garden Life,,,0,1,0,0.0000,,,,,FALSE
-Garment Project,3 mens,25070 adam massigeh,0,1,0,0.0000,0.2080,0.0670,15.0000,97.0000,FALSE
-Garnier,,,0,5,0,0.0000,,,,,FALSE
-Gastrotools,1 home,21819 mariette buksti gram,0,3,0,0.0000,1.0170,1.0170,1.0000,99.0000,FALSE
+Garment Project,3 mens,25070 adam massigeh,0,1,0,0.0000,0.4853,0.3333,16,81.9038,FALSE
+Garnier,,,0,6,0,0.0000,,,,,FALSE
+Gastrotools,1 home,21819 mariette buksti gram,0,3,0,0.0000,1.0169,1.0169,1,98.7281,FALSE
 Gateway,,,0,3,0,0.0000,,,,,FALSE
 Gem Wear,,,0,1,0,0.0000,,,,,FALSE
-Georg Jensen,1 home,21819 mariette buksti gram,0,43,0,0.0000,0.2030,0.1250,158.0000,96.0000,TRUE
+Georg Jensen,1 home,21819 mariette buksti gram,0,43,0,0.0000,0.1982,0.1250,155,96.5604,TRUE
 Gillette,,,0,2,0,0.0000,,,,,FALSE
 Gina Tricot,,,0,9,0,0.0000,,,,,FALSE
-Glerups,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.1230,0.1110,3.0000,89.0000,FALSE
+Glerups,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.1464,0.1666,3,87.3389,FALSE
 Globe Studios,,,0,1,0,0.0000,,,,,FALSE
 GlowUp,,,0,1,0,0.0000,,,,,FALSE
-GoBabyGo,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.5130,0.3850,63.0000,95.0000,TRUE
-Google,,,0,1,0,0.0000,,,,,FALSE
+GoBabyGo,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.4754,0.2757,55,96.7347,TRUE
+Google,,,0,2,0,0.0000,,,,,FALSE
 Gorenje,,,0,7,0,0.0000,,,,,FALSE
 Gossia,,,0,2,0,0.0000,,,,,FALSE
 Gram,,,0,2,0,0.0000,,,,,FALSE
@@ -367,31 +371,31 @@ Green Comfort,,,0,2,0,0.0000,,,,,FALSE
 Greenchef,,,0,1,0,0.0000,,,,,FALSE
 Greenish,,,0,1,0,0.0000,,,,,FALSE
 Grenade,,,0,1,0,0.0000,,,,,FALSE
-Grunt,2 kids,20415 lotte skovaa,0,1,0,0.0000,1.5230,1.5230,2.0000,320.0000,FALSE
-Gucci,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6350,0.5790,64.0000,65.0000,TRUE
+Grunt,2 kids,20415 lotte skovaa,0,1,0,0.0000,1.5232,1.5232,2,319.7782,FALSE
+Gucci,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6303,0.5725,64,65.1473,TRUE
 H&G,,,0,1,0,0.0000,,,,,FALSE
-H&M,,,0,81,0,0.0000,,,,,FALSE
+H&M,,,0,82,0,0.0000,,,,,FALSE
 H2O - Sportswear,,,0,8,0,0.0000,,,,,FALSE
-HAY,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.1320,0.0430,927.0000,96.0000,TRUE
-HH Simonsen,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.6390,0.5860,10.0000,64.0000,FALSE
+HAY,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.1349,0.0426,927,96.2409,TRUE
+HH Simonsen,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.7028,0.6016,10,60.0195,FALSE
 HKSDK,,,0,2,0,0.0000,,,,,FALSE
 HOME,,,0,1,0,0.0000,,,,,FALSE
-HUDA BEAUTY,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.3420,0.1790,209.0000,98.0000,FALSE
+HUDA BEAUTY,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.3581,0.1750,191,98.9739,FALSE
 HUGO BOSS,,,0,6,0,0.0000,,,,,FALSE
 HUMA,,,0,1,0,0.0000,,,,,FALSE
 HYPE.,,,0,2,0,0.0000,,,,,FALSE
-Haakaa,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.3430,0.3430,2.0000,78.0000,FALSE
+Haakaa,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.0574,0.0574,1,94.5753,FALSE
 Hachette,,,0,1,0,0.0000,,,,,FALSE
-Haglöfs,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.2530,0.2320,82.0000,88.0000,TRUE
-HairLust,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.0560,0.0740,4.0000,121.0000,TRUE
+Haglöfs,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.2567,0.2539,41,88.8898,TRUE
+HairLust,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.0563,0.0737,4,120.9829,TRUE
 Halls Greenhouses,,,0,1,0,0.0000,,,,,FALSE
 Hama,,,0,1,0,0.0000,,,,,FALSE
-Hanne Bang,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1580,0.1470,6.0000,87.0000,TRUE
+Hanne Bang,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1579,0.1470,6,86.7605,TRUE
 Hansaplast,,,0,2,0,0.0000,,,,,FALSE
 Hanse Home,,,0,1,0,0.0000,,,,,FALSE
 Haps Nordic,,,0,3,0,0.0000,,,,,FALSE
 Haus Huberts,,,0,1,0,0.0000,,,,,FALSE
-Havaianas,7 w access,25070 adam massigeh,0,4,0,0.0000,0.7700,0.5310,11.0000,63.0000,FALSE
+Havaianas,7 w access,25070 adam massigeh,0,4,0,0.0000,0.7994,0.5315,9,62.5647,FALSE
 Havehandel,,,0,1,0,0.0000,,,,,FALSE
 Haws,,,0,2,0,0.0000,,,,,FALSE
 Head & Shoulders,,,0,1,0,0.0000,,,,,FALSE
@@ -399,47 +403,48 @@ Healthwell,,,0,2,0,0.0000,,,,,FALSE
 Heel,,,0,2,0,0.0000,,,,,FALSE
 Heles,,,0,1,0,0.0000,,,,,FALSE
 Helios,,,0,1,0,0.0000,,,,,FALSE
-Helly Hansen,3 mens,,0,6,0,0.0000,0.4680,0.4060,94.0000,82.0000,FALSE
+Helly Hansen,3 mens,,0,6,0,0.0000,0.4763,0.4313,72,80.5607,FALSE
 Helosan,,,0,2,0,0.0000,,,,,FALSE
 Hemmingsen Kids,,,0,1,0,0.0000,,,,,FALSE
 Henbrandt,,,0,1,0,0.0000,,,,,FALSE
 Herbatint,,,0,1,0,0.0000,,,,,FALSE
-Herrens Mark,,,0,1,0,0.0000,,,,,FALSE
-Herôme,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3240,0.2570,23.0000,79.0000,TRUE
+Herboxa,,,0,1,0,0.0000,,,,,FALSE
+Herrens Mark,,,0,2,0,0.0000,,,,,FALSE
+Herôme,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3241,0.2571,23,78.6800,TRUE
 High 5,,,0,3,0,0.0000,,,,,FALSE
 Hisense,,,0,3,0,0.0000,,,,,FALSE
 HoMedics,,,0,1,0,0.0000,,,,,FALSE
 Hoka One One,,,0,9,0,0.0000,,,,,FALSE
 Home-it,,,0,2,0,0.0000,,,,,FALSE
 Hortus,,,0,1,0,0.0000,,,,,FALSE
-Hot Wheels,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.7470,0.6040,22.0000,60.0000,FALSE
+Hot Wheels,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.8233,0.6490,16,57.4890,FALSE
 HotHands,,,0,1,0,0.0000,,,,,FALSE
-Hourglass,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0880,0.0350,51.0000,102.0000,FALSE
-House Doctor,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1550,0.0790,94.0000,99.0000,TRUE
+Hourglass,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0884,0.0351,48,103.3348,FALSE
+House Doctor,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1569,0.0793,92,98.8086,TRUE
 Housegard,,,0,1,0,0.0000,,,,,FALSE
 Huawei,,,0,1,0,0.0000,,,,,FALSE
 Huggies,,,0,1,0,0.0000,,,,,FALSE
 Hume Health,,,0,1,0,0.0000,,,,,FALSE
-Hummel,3 mens,20415 lotte skovaa,0,39,0,0.0000,0.4990,0.3680,319.0000,87.0000,TRUE
-Hunkøn,5 women,,0,1,0,0.0000,0.4310,0.3340,19.0000,99.0000,FALSE
-Hunter,7 w access,25070 adam massigeh,0,5,0,0.0000,0.4800,0.2830,26.0000,78.0000,FALSE
-Husk,,,0,3,0,0.0000,,,,,FALSE
+Hummel,3 mens,20415 lotte skovaa,0,39,0,0.0000,0.5069,0.3717,303,87.5956,TRUE
+Hunkøn,5 women,,0,1,0,0.0000,0.4947,0.3344,11,100.4864,FALSE
+Hunter,7 w access,25070 adam massigeh,0,5,0,0.0000,0.4928,0.3652,25,78.3600,FALSE
+Husk,,,0,4,0,0.0000,,,,,FALSE
 Husqvarna,,,0,3,0,0.0000,,,,,FALSE
-Huttelihut,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.3640,0.5000,14.0000,112.0000,TRUE
-Hübsch,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1790,0.1550,102.0000,88.0000,TRUE
+Huttelihut,2 kids,20415 lotte skovaa,0,5,0,0.0000,0.3606,0.4999,17,110.4583,TRUE
+Hübsch,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1797,0.1555,101,88.5403,TRUE
 ICEpower,,,0,1,0,0.0000,,,,,FALSE
 ID,,,0,2,0,0.0000,,,,,FALSE
-IITTALA,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1630,0.1040,448.0000,112.0000,TRUE
+IITTALA,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1628,0.1042,449,111.8216,TRUE
 IK Multimedia,,,0,1,0,0.0000,,,,,FALSE
 IMAK,,,0,2,0,0.0000,,,,,FALSE
-IT Cosmetics,8 cosmetics,,0,1,0,0.0000,0.0750,0.0420,92.0000,96.0000,TRUE
-Ichi,5 women,25070 adam massigeh,0,2,0,0.0000,0.5910,0.4140,165.0000,109.0000,FALSE
+IT Cosmetics,8 cosmetics,,0,1,0,0.0000,0.0768,0.0459,96,95.4026,TRUE
+Ichi,5 women,25070 adam massigeh,0,2,0,0.0000,0.5938,0.4335,166,107.1252,FALSE
 Id Hair,,,0,1,0,0.0000,,,,,FALSE
 Iherowebshop,,,0,1,0,0.0000,,,,,FALSE
 Il Mio Negozio,,,0,1,0,0.0000,,,,,FALSE
 Illux,,,0,1,0,0.0000,,,,,FALSE
 Ilva,,,0,9,0,0.0000,,,,,FALSE
-InWear,5 women,25070 adam massigeh,0,1,0,0.0000,0.4540,0.3330,167.0000,118.0000,FALSE
+InWear,5 women,25070 adam massigeh,0,1,0,0.0000,0.4642,0.3333,173,117.3282,FALSE
 Inatura,,,0,1,0,0.0000,,,,,FALSE
 Innersense Organic Beauty,,,0,2,0,0.0000,,,,,FALSE
 InnocareDenmark,,,0,1,0,0.0000,,,,,FALSE
@@ -448,87 +453,88 @@ Innovative Percussion,,,0,1,0,0.0000,,,,,FALSE
 Interflora,,,0,1,0,0.0000,,,,,FALSE
 Intimissimi,,,0,1,0,0.0000,,,,,FALSE
 Isbjörn of Sweden,,,0,1,0,0.0000,,,,,FALSE
-JACK & JONES,3 mens,20415 lotte skovaa,0,12,0,0.0000,0.3120,0.2500,267.0000,105.0000,TRUE
+JACK & JONES,3 mens,20415 lotte skovaa,0,12,0,0.0000,0.3016,0.2500,247,105.9995,TRUE
 JACQUELINE de YONG,,,0,19,0,0.0000,,,,,FALSE
 JAPCELL,,,0,1,0,0.0000,,,,,FALSE
-JBS,3 mens,20415 lotte skovaa,0,3,0,0.0000,0.2890,0.1370,140.0000,92.0000,TRUE
+JBS,3 mens,20415 lotte skovaa,0,3,0,0.0000,0.2944,0.1429,134,90.7135,TRUE
 JUL,,,0,1,0,0.0000,,,,,FALSE
 JUMI,,,0,1,0,0.0000,,,,,FALSE
-JURA,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2100,0.1000,31.0000,89.0000,FALSE
-JYSK,,,0,156,0,0.0000,,,,,FALSE
-Jane Iredale,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.4800,0.6000,310.0000,75.0000,TRUE
+JURA,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2103,0.1002,31,88.9130,FALSE
+JYSK,,,0,157,0,0.0000,,,,,FALSE
+Jane Iredale,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.4490,0.4449,319,75.4438,TRUE
 Jbm,,,0,1,0,0.0000,,,,,FALSE
-Jean Paul Gaultier,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.5270,0.4560,70.0000,67.0000,TRUE
-Joha,2 kids,20415 lotte skovaa,0,16,0,0.0000,0.4560,0.2440,103.0000,86.0000,TRUE
+Jean Paul Gaultier,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.5283,0.4565,70,67.3780,TRUE
+Joha,2 kids,20415 lotte skovaa,0,16,0,0.0000,0.4586,0.2441,101,85.6787,TRUE
 Joie,,,0,2,0,0.0000,,,,,FALSE
 Joseph Joseph,,,0,2,0,0.0000,,,,,FALSE
-Jotex,,,0,18,0,0.0000,,,,,FALSE
+Jotex,,,0,19,0,0.0000,,,,,FALSE
 JourneyLife,,,0,1,0,0.0000,,,,,FALSE
 Jumbo,,,0,1,0,0.0000,,,,,FALSE
-Juna,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2600,0.1850,100.0000,88.0000,TRUE
+Juna,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2600,0.1848,100,88.1836,TRUE
 Junckers,,,0,1,0,0.0000,,,,,FALSE
 Just For Men,,,0,1,0,0.0000,,,,,FALSE
-K18,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.2290,0.1500,13.0000,94.0000,TRUE
+K18,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.2296,0.1502,13,94.1315,TRUE
 KAD,,,0,1,0,0.0000,,,,,FALSE
 KARE Design,,,0,1,0,0.0000,,,,,FALSE
 KAY Jewelers,,,0,1,0,0.0000,,,,,FALSE
-KEEN,7 w access,25070 adam massigeh,0,7,0,0.0000,0.5120,0.2920,14.0000,86.0000,TRUE
-KEVIN.MURPHY,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2000,0.0670,87.0000,90.0000,TRUE
+KEEN,7 w access,25070 adam massigeh,0,8,0,0.0000,0.5121,0.2917,14,78.5109,TRUE
+KEVIN.MURPHY,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1998,0.0667,87,89.5608,TRUE
 KONTUR,,,0,1,0,0.0000,,,,,FALSE
-Kaffe,5 women,25070 adam massigeh,0,1,0,0.0000,0.4420,0.3260,229.0000,107.0000,TRUE
-Karamel Kompagniet,11 food,61164 jacob bøgeholdt nielsen,0,2,0,0.0000,0.2020,0.1330,18.0000,87.0000,FALSE
-Kay Bojesen,1 home,21819 mariette buksti gram,0,8,0,0.0000,0.3680,0.2180,100.0000,81.0000,TRUE
-Kayali,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2160,0.2310,58.0000,83.0000,FALSE
-Kenwood,1 home,,0,10,0,0.0000,0.3040,0.2570,19.0000,85.0000,TRUE
+Kaffe,5 women,25070 adam massigeh,0,1,0,0.0000,0.4254,0.2710,235,105.9885,TRUE
+Karamel Kompagniet,11 food,61164 jacob bøgeholdt nielsen,0,2,0,0.0000,0.2020,0.1333,18,86.6504,FALSE
+Kay Bojesen,1 home,21819 mariette buksti gram,0,8,0,0.0000,0.3683,0.2358,100,80.9193,TRUE
+Kayali,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2110,0.2312,47,85.6685,FALSE
+Kenwood,1 home,,0,10,0,0.0000,0.3040,0.2473,19,85.3573,TRUE
 Kersen,,,0,1,0,0.0000,,,,,FALSE
-Kiehl's,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1240,0.0630,92.0000,96.0000,TRUE
+Kiehl's,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1216,0.0743,93,96.0525,TRUE
 Kiko Milano,,,0,4,0,0.0000,,,,,FALSE
-KitchenAid,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2160,0.1320,94.0000,93.0000,TRUE
+KitchenAid,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2141,0.1315,93,93.3202,TRUE
 Kjell & Company,,,0,1,0,0.0000,,,,,FALSE
 Klar,,,0,2,0,0.0000,,,,,FALSE
-Klarborg,1 home,,0,1,0,0.0000,0.4410,0.3510,15.0000,70.0000,FALSE
+Klarborg,1 home,,0,1,0,0.0000,0.4408,0.3512,15,70.1868,FALSE
 Klean Kanteen,,,0,2,0,0.0000,,,,,FALSE
 Km Home,,,0,3,0,0.0000,,,,,FALSE
-Konges Sløjd,2 kids,20415 lotte skovaa,0,11,0,0.0000,0.0840,0.0670,212.0000,105.0000,TRUE
+Konges Sløjd,2 kids,20415 lotte skovaa,0,13,0,0.0000,0.1996,0.1225,169,99.3021,FALSE
 Kylie Cosmetics,,,0,1,0,0.0000,,,,,FALSE
 KÄLLA,,,0,1,0,0.0000,,,,,FALSE
-Kähler,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.3150,0.2580,137.0000,86.0000,TRUE
+Kähler,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.3174,0.2540,135,86.1653,TRUE
 Kärcher,,,0,6,0,0.0000,,,,,FALSE
-Kérastase,8 cosmetics,21819 mariette buksti gram,0,27,0,0.0000,0.1640,0.1040,124.0000,88.0000,TRUE
-L'OCCITANE,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2390,0.1470,68.0000,89.0000,TRUE
-L'Oréal Paris,8 cosmetics,21819 mariette buksti gram,0,18,0,0.0000,0.3020,0.2340,167.0000,80.0000,TRUE
+Kérastase,8 cosmetics,21819 mariette buksti gram,0,27,0,0.0000,0.1614,0.1046,124,88.5443,TRUE
+L'OCCITANE,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2205,0.1461,68,90.1667,TRUE
+L'Oréal Paris,8 cosmetics,21819 mariette buksti gram,0,18,0,0.0000,0.3022,0.2316,167,79.6303,TRUE
 L'amitié,,,0,1,0,0.0000,,,,,FALSE
-LAVINDE COPENHAGEN,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2780,0.1330,18.0000,85.0000,TRUE
+LAVINDE COPENHAGEN,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2781,0.1330,18,85.4481,TRUE
 LEDlife,,,0,5,0,0.0000,,,,,FALSE
-LEGO,2 kids,20415 lotte skovaa,0,5,0,0.0000,0.6170,0.6080,279.0000,62.0000,FALSE
+LEGO,2 kids,20415 lotte skovaa,0,5,0,0.0000,0.6440,0.6081,119,61.3977,FALSE
 LG,,,0,4,0,0.0000,,,,,FALSE
 LMTD,,,0,2,0,0.0000,,,,,FALSE
-La Marzocco,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.0200,0.0000,7.0000,98.0000,FALSE
-La Roche-Posay,,,0,26,0,0.0000,,,,,FALSE
+La Marzocco,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.0197,0.0002,7,98.2275,FALSE
+La Roche-Posay,,,0,27,0,0.0000,,,,,FALSE
 La Sportiva,,,0,1,0,0.0000,,,,,FALSE
 Lactocare,,,0,3,0,0.0000,,,,,FALSE
 Lactulose,,,0,1,0,0.0000,,,,,FALSE
-Lakrids by Bülow,11 food,61164 jacob bøgeholdt nielsen,0,1,0,0.0000,0.1630,0.1540,16.0000,96.0000,FALSE
-Lancôme,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.2640,0.2370,517.0000,84.0000,TRUE
+Lakrids by Bülow,11 food,61164 jacob bøgeholdt nielsen,0,2,0,0.0000,0.1674,0.1541,16,95.9208,FALSE
+Lancôme,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.2634,0.2388,510,84.6073,TRUE
+Lansinoh,,,0,1,0,0.0000,,,,,FALSE
 Lantz Copenhagen,,,0,1,0,0.0000,,,,,FALSE
 Lasita Maja,,,0,1,0,0.0000,,,,,FALSE
 Lattafa,,,0,1,0,0.0000,,,,,FALSE
 Laura Mercier,,,0,2,0,0.0000,,,,,FALSE
 Lavazza,,,0,1,0,0.0000,,,,,FALSE
-Le Creuset,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1960,0.1430,249.0000,102.0000,TRUE
+Le Creuset,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1874,0.1374,247,101.9820,TRUE
 Le Mini Macaron,,,0,1,0,0.0000,,,,,FALSE
 Lea,,,0,1,0,0.0000,,,,,FALSE
-Leander,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.1970,0.0020,22.0000,98.0000,TRUE
-Leifheit,1 home,21819 mariette buksti gram,0,4,0,0.0000,0.7230,0.5430,13.0000,63.0000,TRUE
+Leander,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.1761,0.0017,18,100.4402,TRUE
+Leifheit,1 home,21819 mariette buksti gram,0,4,0,0.0000,0.7226,0.5433,13,63.4217,TRUE
 Leonisa,,,0,2,0,0.0000,,,,,FALSE
 Leopold Bros.,,,0,1,0,0.0000,,,,,FALSE
-Levi’s,3 mens,20415 lotte skovaa,0,12,0,0.0000,0.4720,0.3380,121.0000,84.0000,TRUE
+Levi’s,3 mens,20415 lotte skovaa,0,12,0,0.0000,0.4748,0.3342,119,83.5957,TRUE
 Lexington Company,,,0,1,0,0.0000,,,,,FALSE
-Libero,,,0,3,0,0.0000,,,,,FALSE
-Liewood,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.2650,0.2000,227.0000,88.0000,TRUE
-Liiteguard,3 mens,20415 lotte skovaa,0,5,0,0.0000,0.1540,0.0050,52.0000,111.0000,TRUE
+Libero,,,0,5,0,0.0000,,,,,FALSE
+Liewood,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.3381,0.2607,115,81.4938,TRUE
+Liiteguard,3 mens,20415 lotte skovaa,0,5,0,0.0000,0.1575,0.0054,52,110.8828,TRUE
 Lille Kanin,,,0,1,0,0.0000,,,,,FALSE
-Lindbergh,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.3130,0.2000,369.0000,97.0000,TRUE
+Lindbergh,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.3157,0.1997,382,97.3337,TRUE
 Lindby,,,0,4,0,0.0000,,,,,FALSE
 Linuspro,,,0,1,0,0.0000,,,,,FALSE
 Lipati,,,0,1,0,0.0000,,,,,FALSE
@@ -536,7 +542,7 @@ Lippa,,,0,2,0,0.0000,,,,,FALSE
 Livol,,,0,3,0,0.0000,,,,,FALSE
 Locobase,,,0,3,0,0.0000,,,,,FALSE
 Logik,,,0,12,0,0.0000,,,,,FALSE
-Lollys Laundry,5 women,25070 adam massigeh,0,2,0,0.0000,0.3290,0.3330,126.0000,85.0000,FALSE
+Lollys Laundry,5 women,25070 adam massigeh,0,2,0,0.0000,0.3274,0.2524,119,85.0748,FALSE
 Longo Vital,,,0,4,0,0.0000,,,,,FALSE
 Loop,,,0,5,0,0.0000,,,,,FALSE
 Loop Earplugs,,,0,1,0,0.0000,,,,,FALSE
@@ -549,16 +555,16 @@ Lumene,,,0,1,0,0.0000,,,,,FALSE
 Luna Denmark,,,0,9,0,0.0000,,,,,FALSE
 Luxorparts,,,0,1,0,0.0000,,,,,FALSE
 Ly Sweden,,,0,1,0,0.0000,,,,,FALSE
-Lyngby Glas,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2790,0.2500,48.0000,79.0000,TRUE
-Lyngby Porcelæn,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.4640,0.3040,131.0000,78.0000,TRUE
+Lyngby Glas,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2791,0.2502,48,79.2244,TRUE
+Lyngby Porcelæn,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.4647,0.3040,131,77.9494,TRUE
 Lyngeshop,,,0,2,0,0.0000,,,,,FALSE
 Lyngsoe,,,0,1,0,0.0000,,,,,FALSE
 M&S,,,0,1,0,0.0000,,,,,FALSE
-M2 Beauté,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.6930,0.6560,10.0000,61.0000,TRUE
-MAKEUP BY MARIO,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,,,,125.0000,FALSE
+M2 Beauté,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.6928,0.6564,10,61.0012,TRUE
+MAKEUP BY MARIO,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,,,,124.9300,FALSE
 MAM,,,0,2,0,0.0000,,,,,FALSE
 MAMMOTION,,,0,1,0,0.0000,,,,,FALSE
-MANGO,5 women,25070 adam massigeh,0,4,0,0.0000,0.3660,0.3340,219.0000,115.0000,TRUE
+MANGO,5 women,25070 adam massigeh,0,5,0,0.0000,0.3851,0.3344,205,115.5216,TRUE
 MARELD,,,0,1,0,0.0000,,,,,FALSE
 MARTA,,,0,3,0,0.0000,,,,,FALSE
 ME-FA,,,0,1,0,0.0000,,,,,FALSE
@@ -567,67 +573,67 @@ MINISO,,,0,1,0,0.0000,,,,,FALSE
 MOXOM,,,0,3,0,0.0000,,,,,FALSE
 MP Denmark,,,0,6,0,0.0000,,,,,FALSE
 MULTI,,,0,1,0,0.0000,,,,,FALSE
-Maanesten,7 w access,20415 lotte skovaa,0,1,0,0.0000,0.3210,0.2500,294.0000,86.0000,FALSE
+Maanesten,7 w access,20415 lotte skovaa,0,1,0,0.0000,0.3077,0.0564,94,88.1947,FALSE
 Magic Chef,,,0,1,0,0.0000,,,,,FALSE
 Magna-Tiles,,,0,1,0,0.0000,,,,,FALSE
 Magnetbuen,,,0,1,0,0.0000,,,,,FALSE
-Maison Margiela,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6060,0.6270,46.0000,64.0000,FALSE
-Makita,,,0,8,0,0.0000,,,,,FALSE
+Maison Margiela,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6121,0.6273,46,64.1391,FALSE
+Makita,,,0,9,0,0.0000,,,,,FALSE
 Manic Panic,,,0,1,0,0.0000,,,,,FALSE
 Mank GmbH,,,0,1,0,0.0000,,,,,FALSE
 Manucurist Paris,,,0,1,0,0.0000,,,,,FALSE
-Maria Nila,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.3670,0.2640,118.0000,79.0000,TRUE
-Marie Jo,6 lingerie,20415 lotte skovaa,0,1,0,0.0000,0.7920,0.6030,50.0000,113.0000,FALSE
+Maria Nila,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.3538,0.2500,119,79.5496,TRUE
+Marie Jo,6 lingerie,20415 lotte skovaa,0,1,0,0.0000,0.8067,0.6667,49,113.5254,FALSE
 Mark,,,0,1,0,0.0000,,,,,FALSE
-Marmar Copenhagen,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.4660,0.2480,33.0000,115.0000,TRUE
+Marmar Copenhagen,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.4139,0.3342,115,83.9665,FALSE
 Marni,,,0,1,0,0.0000,,,,,FALSE
 Marvis,,,0,1,0,0.0000,,,,,FALSE
 Matas Striber,,,0,20,0,0.0000,,,,,FALSE
-Matinique,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.3540,0.3150,218.0000,121.0000,TRUE
-Max Factor,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6480,0.5940,200.0000,69.0000,TRUE
+Matinique,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.3404,0.2990,215,120.9430,TRUE
+Max Factor,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6622,0.6227,200,68.5335,TRUE
 Maxi-Cosi,,,0,1,0,0.0000,,,,,FALSE
-Maybelline,8 cosmetics,21819 mariette buksti gram,0,10,0,0.0000,0.2940,0.2240,169.0000,81.0000,TRUE
-Mbym,5 women,25070 adam massigeh,0,1,0,0.0000,0.6390,0.4290,69.0000,109.0000,TRUE
-McKINLEY,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.3260,0.2500,281.0000,109.0000,TRUE
+Maybelline,8 cosmetics,21819 mariette buksti gram,0,10,0,0.0000,0.2894,0.2237,169,81.4999,TRUE
+Mbym,5 women,25070 adam massigeh,0,1,0,0.0000,0.6509,0.4286,66,108.0622,TRUE
+McKINLEY,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.3219,0.2500,256,107.0744,TRUE
 Medela,,,0,5,0,0.0000,,,,,FALSE
-Medicube,8 cosmetics,21819 mariette buksti gram,0,9,0,0.0000,0.3790,0.2990,49.0000,79.0000,TRUE
+Medicube,8 cosmetics,21819 mariette buksti gram,0,9,0,0.0000,0.3804,0.2752,50,78.1275,TRUE
 Medidos,,,0,2,0,0.0000,,,,,FALSE
 Medimax,,,0,1,0,0.0000,,,,,FALSE
 Medisana,,,0,4,0,0.0000,,,,,FALSE
 Melissa,,,0,1,0,0.0000,,,,,FALSE
 Melitta,,,0,1,0,0.0000,,,,,FALSE
-Melton,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.5140,0.3000,54.0000,87.0000,TRUE
+Melton,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.5237,0.3566,54,88.8694,TRUE
 Mentholatum,,,0,1,0,0.0000,,,,,FALSE
-Meraki,1 home,21819 mariette buksti gram,0,5,0,0.0000,0.2510,0.2050,98.0000,82.0000,TRUE
+Meraki,1 home,21819 mariette buksti gram,0,5,0,0.0000,0.2548,0.2048,96,82.2851,TRUE
 Merit Beauty,8 cosmetics,,0,2,0,0.0000,,,,100.0000,FALSE
 Meroda,,,0,1,0,0.0000,,,,,FALSE
-Merrell,7 w access,,0,4,0,0.0000,0.3830,0.2390,7.0000,84.0000,FALSE
+Merrell,7 w access,,0,4,0,0.0000,0.3826,0.2390,7,84.4890,FALSE
 Merry Christmas,,,0,1,0,0.0000,,,,,FALSE
 Metamucil,,,0,1,0,0.0000,,,,,FALSE
 Mezina,,,0,2,0,0.0000,,,,,FALSE
 Microsoft,,,0,9,0,0.0000,,,,,FALSE
 Miele,,,0,12,0,0.0000,,,,,FALSE
 Mielle Organics,,,0,1,0,0.0000,,,,,FALSE
-Miild,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0280,0.0280,42.0000,114.0000,TRUE
-Mikk-Line,2 kids,20415 lotte skovaa,0,27,0,0.0000,0.5820,0.4980,71.0000,78.0000,TRUE
+Miild,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0276,0.0278,42,113.9599,TRUE
+Mikk-Line,2 kids,20415 lotte skovaa,0,29,0,0.0000,0.4081,0.3344,41,85.9454,TRUE
 Min Lille Mus,,,0,1,0,0.0000,,,,,FALSE
-Mini-Pop,2 kids,,0,1,0,0.0000,0.2640,0.2500,23.0000,108.0000,TRUE
+Mini-Pop,2 kids,,0,1,0,0.0000,0.2588,0.2019,24,105.3182,TRUE
 Mininor,,,0,3,0,0.0000,,,,,FALSE
 Minymo,,,0,2,0,0.0000,,,,,FALSE
 Miss Mary of Sweden,,,0,1,0,0.0000,,,,,FALSE
 Mobilex,,,0,1,0,0.0000,,,,,FALSE
-Modström,5 women,25070 adam massigeh,0,2,0,0.0000,0.5690,0.4250,106.0000,92.0000,FALSE
-Moebe,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.5280,0.4840,81.0000,70.0000,FALSE
+Modström,5 women,25070 adam massigeh,0,2,0,0.0000,0.5834,0.4296,104,91.7276,FALSE
+Moebe,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.5277,0.4842,81,70.0414,FALSE
 Molnlycke,,,0,2,0,0.0000,,,,,FALSE
 Mols,,,0,1,0,0.0000,,,,,FALSE
 Momkind,,,0,1,0,0.0000,,,,,FALSE
-Montblanc,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.8270,0.7500,41.0000,60.0000,TRUE
+Montblanc,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.8297,0.7500,41,59.9306,TRUE
 Moogco,,,0,1,0,0.0000,,,,,FALSE
 Moon Boot,,,0,1,0,0.0000,,,,,FALSE
-Moonboon,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.1110,0.0030,70.0000,92.0000,FALSE
-Moroccanoil,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.1950,0.1510,108.0000,92.0000,TRUE
-Morsø,1 home,,0,3,0,0.0000,,,,105.0000,FALSE
-Mos Mosh,5 women,25070 adam massigeh,0,9,0,0.0000,0.7890,0.6670,120.0000,75.0000,TRUE
+Moonboon,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.0841,0.0025,47,93.6065,FALSE
+Moroccanoil,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.1994,0.1575,109,92.0731,TRUE
+Morsø,1 home,,0,3,0,0.0000,,,,104.6733,FALSE
+Mos Mosh,5 women,25070 adam massigeh,0,9,0,0.0000,0.7780,0.6667,117,75.6462,TRUE
 Motorola,,,0,1,0,0.0000,,,,,FALSE
 Moud Home,,,0,1,0,0.0000,,,,,FALSE
 Mova,,,0,2,0,0.0000,,,,,FALSE
@@ -639,20 +645,20 @@ My Store,,,0,1,0,0.0000,,,,,FALSE
 MyHeritage DNA,,,0,1,0,0.0000,,,,,FALSE
 Mylan,,,0,4,0,0.0000,,,,,FALSE
 Myprotein,,,0,2,0,0.0000,,,,,FALSE
-M·A·C,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.2610,0.1600,742.0000,96.0000,TRUE
+M·A·C,8 cosmetics,21819 mariette buksti gram,0,7,0,0.0000,0.2627,0.1554,739,96.1982,TRUE
 Möller's,,,0,1,0,0.0000,,,,,FALSE
 N'goodso,,,0,1,0,0.0000,,,,,FALSE
-NA-KD,5 women,25070 adam massigeh,0,28,0,0.0000,1.0000,1.0000,1.0000,50.0000,FALSE
+NA-KD,5 women,25070 adam massigeh,0,31,0,0.0000,,,,,FALSE
 NAGA,,,0,1,0,0.0000,,,,,FALSE
-NAME IT,2 kids,20415 lotte skovaa,0,33,0,0.0000,0.2530,0.2000,158.0000,103.0000,TRUE
-NARS,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.0680,0.0020,274.0000,99.0000,FALSE
+NAME IT,2 kids,20415 lotte skovaa,0,36,0,0.0000,0.2229,0.1538,184,102.8902,TRUE
+NARS,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.0722,0.0018,276,98.3948,FALSE
 NDP,,,0,1,0,0.0000,,,,,FALSE
 NDS,,,0,1,0,0.0000,,,,,FALSE
 NOW,,,0,5,0,0.0000,,,,,FALSE
 NUA,,,0,1,0,0.0000,,,,,FALSE
-NYX Professional Makeup,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.2560,0.1670,264.0000,85.0000,TRUE
+NYX Professional Makeup,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.2617,0.1738,264,84.0663,TRUE
 Nail4you,,,0,1,0,0.0000,,,,,FALSE
-Nailberry,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2070,0.0510,42.0000,96.0000,TRUE
+Nailberry,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1877,0.0714,38,96.4637,TRUE
 Nailster,,,0,4,0,0.0000,,,,,FALSE
 Najell,,,0,4,0,0.0000,,,,,FALSE
 Nalgene,,,0,2,0,0.0000,,,,,FALSE
@@ -660,7 +666,7 @@ Namly Design,,,0,4,0,0.0000,,,,,FALSE
 Nani Loading Technology,,,0,1,0,0.0000,,,,,FALSE
 Nanolash,,,0,1,0,0.0000,,,,,FALSE
 Nardos,,,0,1,0,0.0000,,,,,FALSE
-National Geographic,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.4210,0.3390,21.0000,72.0000,FALSE
+National Geographic,2 kids,20415 lotte skovaa,0,2,0,0.0000,0.5095,0.5103,4,66.6850,FALSE
 Nattelyst,,,0,6,0,0.0000,,,,,FALSE
 Natur-Drogeriet,,,0,13,0,0.0000,,,,,FALSE
 Nature,,,0,3,0,0.0000,,,,,FALSE
@@ -669,76 +675,76 @@ Naturigin,,,0,1,0,0.0000,,,,,FALSE
 Naturligolie,,,0,1,0,0.0000,,,,,FALSE
 Nedis,,,0,2,0,0.0000,,,,,FALSE
 Nelly,,,0,7,0,0.0000,,,,,FALSE
-Neo Noir,5 women,20415 lotte skovaa,0,19,0,0.0000,0.4480,0.2500,351.0000,126.0000,TRUE
+Neo Noir,5 women,20415 lotte skovaa,0,19,0,0.0000,0.4530,0.2500,338,125.7728,TRUE
 Neonate,,,0,3,0,0.0000,,,,,FALSE
-Nespresso,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.2670,0.1670,23.0000,95.0000,TRUE
+Nespresso,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.2778,0.1771,22,93.9997,TRUE
 Nestlé,,,0,1,0,0.0000,,,,,FALSE
 Neutral,,,0,1,0,0.0000,,,,,FALSE
 Neutrogena,,,0,1,0,0.0000,,,,,FALSE
-New Balance,3 mens,25070 adam massigeh,0,39,0,0.0000,0.3750,0.2700,155.0000,88.0000,TRUE
-New Era,3 mens,,0,1,0,0.0000,0.3080,0.3230,31.0000,92.0000,TRUE
+New Balance,3 mens,25070 adam massigeh,0,44,0,0.0000,0.3446,0.2403,161,87.8127,TRUE
+New Era,3 mens,,0,1,0,0.0000,0.3520,0.3885,20,77.4396,TRUE
 New Look,,,0,1,0,0.0000,,,,,FALSE
-New Nordic,8 cosmetics,21819 mariette buksti gram,0,8,0,0.0000,0.1080,0.0930,10.0000,91.0000,TRUE
+New Nordic,8 cosmetics,21819 mariette buksti gram,0,8,0,0.0000,0.1372,0.1109,10,88.5551,TRUE
 Newbeing,,,0,1,0,0.0000,,,,,FALSE
-Newline HALO,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.6910,0.4450,20.0000,112.0000,FALSE
+Newline HALO,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.7360,0.9598,12,116.4318,TRUE
 Nicorette,,,0,3,0,0.0000,,,,,FALSE
 Nielsen Light,,,0,2,0,0.0000,,,,,FALSE
-Nike,3 mens,20415 lotte skovaa,0,85,0,0.0000,0.3480,0.2320,1502.0000,90.0000,TRUE
+Nike,3 mens,20415 lotte skovaa,0,86,0,0.0000,0.3506,0.2321,1412,89.6027,TRUE
 Nikwax,,,0,1,0,0.0000,,,,,FALSE
-Nilens Jord,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.0300,0.0270,212.0000,99.0000,TRUE
+Nilens Jord,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.0330,0.0096,77,104.2521,TRUE
 Nilfisk,,,0,10,0,0.0000,,,,,FALSE
 Nimara.Dk,,,0,7,0,0.0000,,,,,FALSE
 Ninepine,,,0,1,0,0.0000,,,,,FALSE
-Ninja,1 home,21819 mariette buksti gram,0,18,0,0.0000,0.5480,0.4180,17.0000,69.0000,FALSE
+Ninja,1 home,21819 mariette buksti gram,0,18,0,0.0000,0.5569,0.4181,17,68.3356,FALSE
 Nizoral,,,0,1,0,0.0000,,,,,FALSE
 Noella,,,0,6,0,0.0000,,,,,FALSE
-Noisy May,5 women,25070 adam massigeh,0,1,0,0.0000,0.4870,0.1500,46.0000,142.0000,TRUE
+Noisy May,5 women,25070 adam massigeh,0,1,0,0.0000,0.4622,0.1492,51,137.8923,TRUE
 Nordahl Andersen,,,0,1,0,0.0000,,,,,FALSE
-Nordal,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2250,0.0810,57.0000,104.0000,TRUE
+Nordal,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2145,0.0547,60,104.2743,TRUE
 Nordic Glow,,,0,1,0,0.0000,,,,,FALSE
 Nordic Lights,,,0,1,0,0.0000,,,,,FALSE
 Nordic Tests ApS,,,0,1,0,0.0000,,,,,FALSE
 Nordic Wellness,,,0,2,0,0.0000,,,,,FALSE
 Nordisk Family,,,0,1,0,0.0000,,,,,FALSE
-Nordlux,1 home,21819 mariette buksti gram,0,8,0,0.0000,0.2700,0.1820,20.0000,84.0000,TRUE
+Nordlux,1 home,21819 mariette buksti gram,0,8,0,0.0000,0.2700,0.1824,20,83.9547,TRUE
 Nordtronic,,,0,4,0,0.0000,,,,,FALSE
 Norr,5 women,,0,1,0,0.0000,,,,100.0000,FALSE
 Norwegian Lab,,,0,1,0,0.0000,,,,,FALSE
 Nupo,,,0,2,0,0.0000,,,,,FALSE
-NutriBullet,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.3440,0.1630,9.0000,89.0000,TRUE
+NutriBullet,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.3190,0.1477,10,87.7255,TRUE
 Nutridrink,,,0,1,0,0.0000,,,,,FALSE
-OBH Nordica,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.5710,0.4720,16.0000,73.0000,TRUE
+OBH Nordica,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.5751,0.4724,16,72.7729,TRUE
 OGX,,,0,1,0,0.0000,,,,,FALSE
 OKIDS,,,0,1,0,0.0000,,,,,FALSE
-OLEHENRIKSEN,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1560,0.2500,54.0000,93.0000,TRUE
+OLEHENRIKSEN,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1788,0.2500,45,93.5179,TRUE
 OMRON,,,0,1,0,0.0000,,,,,FALSE
-ONLY,5 women,25070 adam massigeh,0,26,0,0.0000,0.2290,0.0780,214.0000,127.0000,TRUE
-ONLY & SONS,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.2440,0.0770,84.0000,130.0000,TRUE
+ONLY,5 women,20415 lotte skovaa,0,26,0,0.0000,0.2263,0.0779,210,122.8903,TRUE
+ONLY & SONS,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.2395,0.0767,85,128.8335,TRUE
 ONYX COOKWARE,,,0,7,0,0.0000,,,,,FALSE
-OPI,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.7940,0.7940,2.0000,137.0000,FALSE
+OPI,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.7944,0.7944,2,137.1436,FALSE
 OUTTREK,,,0,1,0,0.0000,,,,,FALSE
 OYOY,,,0,1,0,0.0000,,,,,FALSE
-Oakley,7 w access,25070 adam massigeh,0,2,0,0.0000,0.4290,0.3970,16.0000,70.0000,TRUE
-Object,5 women,25070 adam massigeh,0,5,0,0.0000,0.2880,0.1430,145.0000,147.0000,TRUE
+Oakley,7 w access,25070 adam massigeh,0,2,0,0.0000,0.4418,0.4186,15,69.6249,TRUE
+Object,5 women,25070 adam massigeh,0,5,0,0.0000,0.2775,0.1161,139,143.4094,TRUE
 Ocean Sports,,,0,1,0,0.0000,,,,,FALSE
 Oh Naturel,,,0,1,0,0.0000,,,,,FALSE
 Oi Soi Oi,,,0,1,0,0.0000,,,,,FALSE
 Oksbøl-Savværk,,,0,1,0,0.0000,,,,,FALSE
 Olivy,,,0,2,0,0.0000,,,,,FALSE
-One Size,8 cosmetics,,0,1,0,0.0000,,,,109.0000,FALSE
+One Size,8 cosmetics,,0,1,0,0.0000,,,,105.1236,FALSE
 Onitsuka Tiger,,,0,1,0,0.0000,,,,,FALSE
 Ooni,,,0,1,0,0.0000,,,,,FALSE
 Optimalprint,,,0,2,0,0.0000,,,,,FALSE
 Optimize,,,0,1,0,0.0000,,,,,FALSE
 Optimum Nutrition,,,0,3,0,0.0000,,,,,FALSE
 OraCoat,,,0,1,0,0.0000,,,,,FALSE
-Oral-B,,,0,29,0,0.0000,,,,,FALSE
-Origins,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.2000,0.2000,66.0000,89.0000,TRUE
+Oral-B,,,0,30,0,0.0000,,,,,FALSE
+Origins,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.1932,0.1902,67,88.9184,TRUE
 Oslo Skin Lab,,,0,1,0,0.0000,,,,,FALSE
 OstroVit,,,0,2,0,0.0000,,,,,FALSE
 Otinova,,,0,1,0,0.0000,,,,,FALSE
 Otribebe,,,0,1,0,0.0000,,,,,FALSE
-Ouai,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1010,0.0350,14.0000,109.0000,TRUE
+Ouai,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0989,0.0449,16,108.8503,TRUE
 Oura,,,0,2,0,0.0000,,,,,FALSE
 Outcast,,,0,1,0,0.0000,,,,,FALSE
 Owala,,,0,1,0,0.0000,,,,,FALSE
@@ -746,46 +752,48 @@ Oysho,,,0,1,0,0.0000,,,,,FALSE
 P L A N E T // N U S A,,,0,1,0,0.0000,,,,,FALSE
 P. Lindberg,,,0,1,0,0.0000,,,,,FALSE
 PH Import,,,0,4,0,0.0000,,,,,FALSE
-PIECES,5 women,25070 adam massigeh,0,35,0,0.0000,0.2940,0.0690,221.0000,139.0000,TRUE
+PIECES,5 women,25070 adam massigeh,0,38,0,0.0000,0.3429,0.1429,171,134.6392,TRUE
 PORSANO,,,0,1,0,0.0000,,,,,FALSE
-PUMA,3 mens,20415 lotte skovaa,0,7,0,0.0000,0.4330,0.3310,537.0000,91.0000,TRUE
+PUMA,3 mens,20415 lotte skovaa,0,7,0,0.0000,0.4487,0.3345,525,89.4142,TRUE
 PURITO,,,0,2,0,0.0000,,,,,FALSE
 Paco Rabanne,,,0,1,0,0.0000,,,,,FALSE
 Palmako,,,0,1,0,0.0000,,,,,FALSE
-Panasonic,1 home,,0,2,0,0.0000,1.3490,1.3490,1.0000,43.0000,FALSE
-Parajumpers,3 mens,25070 adam massigeh,0,1,0,0.0000,0.0800,0.0800,2.0000,108.0000,FALSE
+Panasonic,1 home,,0,2,0,0.0000,1.3488,1.3488,1,42.5751,FALSE
+Parajumpers,5 women,25070 adam massigeh,0,1,0,0.0000,0.0803,0.0803,2,108.8782,FALSE
 Parkone,,,0,1,0,0.0000,,,,,FALSE
 Parodontax,,,0,1,0,0.0000,,,,,FALSE
-Part Two,5 women,25070 adam massigeh,0,1,0,0.0000,0.5420,0.4070,131.0000,118.0000,FALSE
+Part Two,5 women,25070 adam massigeh,0,1,0,0.0000,0.5440,0.4177,130,117.6358,FALSE
 Party Success,,,0,1,0,0.0000,,,,,FALSE
-Patagonia,3 mens,20415 lotte skovaa,0,3,0,0.0000,0.3670,0.3790,8.0000,85.0000,TRUE
-Paula's Choice,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.0540,0.0710,5.0000,111.0000,TRUE
-Pavement,7 w access,25070 adam massigeh,0,5,0,0.0000,0.2840,0.1430,50.0000,91.0000,TRUE
+Patagonia,3 mens,20415 lotte skovaa,0,3,0,0.0000,0.3936,0.4229,7,87.3978,TRUE
+Paula's Choice,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.0714,0.0714,1,112.6807,TRUE
+Pavement,7 w access,25070 adam massigeh,0,5,0,0.0000,0.5126,0.3738,57,74.1372,FALSE
 Pelly,,,0,3,0,0.0000,,,,,FALSE
 Pepsi,,,0,1,0,0.0000,,,,,FALSE
 Perrigo,,,0,1,0,0.0000,,,,,FALSE
-Perspirex,8 cosmetics,,0,2,0,0.0000,0.1030,0.1040,5.0000,95.0000,TRUE
+Perspirex,8 cosmetics,,0,2,0,0.0000,0.1297,0.1038,5,94.3206,TRUE
 Pest-Stop,,,0,3,0,0.0000,,,,,FALSE
-Peter Thomas Roth,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3830,0.3990,30.0000,75.0000,TRUE
+Peter Thomas Roth,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3861,0.3988,30,74.9613,TRUE
 Pharma Nord,,,0,10,0,0.0000,,,,,FALSE
 PharmaDrops,,,0,1,0,0.0000,,,,,FALSE
 Pharmovital,,,0,1,0,0.0000,,,,,FALSE
-Philips,1 home,21819 mariette buksti gram,0,40,0,0.0000,0.3360,0.2740,50.0000,79.0000,TRUE
+Philips,1 home,21819 mariette buksti gram,0,40,0,0.0000,0.3332,0.2576,50,79.4362,TRUE
 Philips Hue,,,0,9,0,0.0000,,,,,FALSE
 Pico,,,0,2,0,0.0000,,,,,FALSE
 Pigalle,,,0,1,0,0.0000,,,,,FALSE
-Pilgrim,7 w access,20415 lotte skovaa,0,3,0,0.0000,0.2310,0.1270,246.0000,106.0000,TRUE
+Pilgrim,7 w access,20415 lotte skovaa,0,3,0,0.0000,0.2720,0.1269,100,107.3008,TRUE
 Pitaya,,,0,10,0,0.0000,,,,,FALSE
 Pixum,,,0,2,0,0.0000,,,,,FALSE
+Planter,,,0,1,0,0.0000,,,,,FALSE
 Plantforce,,,0,1,0,0.0000,,,,,FALSE
-Playboy,3 mens,25070 adam massigeh,0,2,0,0.0000,0.5650,0.3340,24.0000,95.0000,TRUE
+Playboy,3 mens,25070 adam massigeh,0,2,0,0.0000,0.5646,0.3350,24,95.4365,TRUE
 Plum,,,0,2,0,0.0000,,,,,FALSE
 Point,,,0,5,0,0.0000,,,,,FALSE
+Polar,,,0,1,0,0.0000,,,,,FALSE
 Polax,,,0,1,0,0.0000,,,,,FALSE
-Pols Potten,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2330,0.2530,8.0000,95.0000,TRUE
+Pols Potten,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2332,0.2529,8,94.5220,TRUE
 Portwest,,,0,1,0,0.0000,,,,,FALSE
 Postera,,,0,1,0,0.0000,,,,,FALSE
-Prada,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.4670,0.3740,79.0000,73.0000,TRUE
+Prada,8 cosmetics,21819 mariette buksti gram,0,5,0,0.0000,0.4654,0.3739,78,73.6454,TRUE
 Pressalit,,,0,1,0,0.0000,,,,,FALSE
 Prima,,,0,1,0,0.0000,,,,,FALSE
 Princess,,,0,1,0,0.0000,,,,,FALSE
@@ -794,7 +802,7 @@ Probuilder,,,0,1,0,0.0000,,,,,FALSE
 Prosonic,,,0,1,0,0.0000,,,,,FALSE
 Pulito,,,0,1,0,0.0000,,,,,FALSE
 Pull&Bear,,,0,3,0,0.0000,,,,,FALSE
-Puori,,,0,4,0,0.0000,,,,,FALSE
+Puori,,,0,5,0,0.0000,,,,,FALSE
 Purely Professional,,,0,1,0,0.0000,,,,,FALSE
 Puzzleyou,,,0,1,0,0.0000,,,,,FALSE
 QAZQA,,,0,3,0,0.0000,,,,,FALSE
@@ -802,56 +810,56 @@ Qlima,,,0,2,0,0.0000,,,,,FALSE
 Qmed,,,0,1,0,0.0000,,,,,FALSE
 Queen Fashion,,,0,1,0,0.0000,,,,,FALSE
 Queisser Pharma,,,0,1,0,0.0000,,,,,FALSE
-RAINS,5 women,25070 adam massigeh,0,3,0,0.0000,0.6330,0.4540,119.0000,90.0000,FALSE
+RAINS,5 women,25070 adam massigeh,0,3,0,0.0000,0.7275,0.5104,88,87.8919,FALSE
 RAZE,,,0,1,0,0.0000,,,,,FALSE
 RFSU,,,0,2,0,0.0000,,,,,FALSE
-RICE,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.3440,0.0950,40.0000,96.0000,TRUE
-RIG-TIG,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3400,0.1430,74.0000,88.0000,TRUE
-RSVP International,,,0,5,0,0.0000,,,,,FALSE
+RICE,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.3440,0.0946,40,96.0157,TRUE
+RIG-TIG,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3400,0.1425,74,88.3826,TRUE
+RSVP International,,,0,6,0,0.0000,,,,,FALSE
 RUSSELL HOBBS,,,0,2,0,0.0000,,,,,FALSE
 Ragnarok,,,0,1,0,0.0000,,,,,FALSE
 Ralon Medical,,,0,1,0,0.0000,,,,,FALSE
 Ralph Lauren,,,0,1,0,0.0000,,,,,FALSE
-Rare Beauty,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0650,0.0150,13.0000,103.0000,FALSE
+Rare Beauty,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0895,0.0171,11,110.5612,FALSE
 Rarewaves,,,0,1,0,0.0000,,,,,FALSE
-Ray-Ban,7 w access,25070 adam massigeh,0,2,0,0.0000,0.3480,0.3520,30.0000,74.0000,TRUE
-Real Purity,8 cosmetics,,0,1,0,0.0000,0.0210,0.0210,1.0000,98.0000,TRUE
-Rebuilt,,,0,1,0,0.0000,,,,,FALSE
-Redken,8 cosmetics,21819 mariette buksti gram,0,8,0,0.0000,0.2750,0.2180,85.0000,80.0000,TRUE
+Ray-Ban,7 w access,25070 adam massigeh,0,2,0,0.0000,0.3472,0.3523,28,74.3649,TRUE
+Real Purity,8 cosmetics,,0,1,0,0.0000,0.0205,0.0205,1,97.9899,TRUE
+Rebuilt,,,0,2,0,0.0000,,,,,FALSE
+Redken,8 cosmetics,21819 mariette buksti gram,0,8,0,0.0000,0.2718,0.2153,85,80.2101,TRUE
 Refectocil,,,0,4,0,0.0000,,,,,FALSE
 Regatta,,,0,1,0,0.0000,,,,,FALSE
 Reima,,,0,1,0,0.0000,,,,,FALSE
 Remington,,,0,11,0,0.0000,,,,,FALSE
 Remo,,,0,1,0,0.0000,,,,,FALSE
-Resteröds,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.3490,0.1540,34.0000,111.0000,TRUE
+Resteröds,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.3706,0.2066,32,110.7881,TRUE
 Rethinkit,,,0,2,0,0.0000,,,,,FALSE
-RevitaLash,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3710,0.2240,6.0000,78.0000,TRUE
-Revlon,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.5890,0.4770,15.0000,65.0000,TRUE
+RevitaLash,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.3637,0.2236,6,79.1505,TRUE
+Revlon,1 home,21819 mariette buksti gram,0,2,0,0.0000,0.6042,0.4902,14,64.3895,TRUE
 Revolution Beauty,,,0,1,0,0.0000,,,,,FALSE
 RevolutionRace,,,0,6,0,0.0000,,,,,FALSE
 Re—inc,,,0,1,0,0.0000,,,,,FALSE
 Rhino Horn,,,0,1,0,0.0000,,,,,FALSE
 Ringsted Dun,,,0,1,0,0.0000,,,,,FALSE
-Rituals,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0670,0.0670,155.0000,100.0000,TRUE
+Rituals,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0654,0.0667,155,100.0883,TRUE
 Roborock,,,0,5,0,0.0000,,,,,FALSE
 Rocket Espresso,,,0,1,0,0.0000,,,,,FALSE
 Rockit,,,0,1,0,0.0000,,,,,FALSE
 Rosti Mepal,,,0,8,0,0.0000,,,,,FALSE
-Round Lab,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.8640,0.7010,15.0000,56.0000,TRUE
+Round Lab,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.8741,0.7684,15,55.7488,TRUE
 Roundup,,,0,1,0,0.0000,,,,,FALSE
-Royal Copenhagen,1 home,21819 mariette buksti gram,0,18,0,0.0000,0.4430,0.3000,291.0000,97.0000,TRUE
+Royal Copenhagen,1 home,21819 mariette buksti gram,0,18,0,0.0000,0.4336,0.2847,297,97.4122,TRUE
 Rubie's,,,0,1,0,0.0000,,,,,FALSE
-Rudolph Care,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.0710,0.0490,44.0000,98.0000,TRUE
+Rudolph Care,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.0706,0.0449,43,98.4029,TRUE
 Rulopak,,,0,1,0,0.0000,,,,,FALSE
 Røde Kors,,,0,1,0,0.0000,,,,,FALSE
 Rømer,,,0,3,0,0.0000,,,,,FALSE
 SALTO KS,,,0,1,0,0.0000,,,,,FALSE
 SB12,,,0,1,0,0.0000,,,,,FALSE
 SCARPA,,,0,1,0,0.0000,,,,,FALSE
-SELECT,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.5660,0.1250,146.0000,94.0000,TRUE
+SELECT,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.2832,0.1199,121,92.4174,TRUE
 SENZ,,,0,7,0,0.0000,,,,,FALSE
 SEPHORA,,,0,3,0,0.0000,,,,,FALSE
-SILFEN,7 w access,25070 adam massigeh,0,2,0,0.0000,0.6160,0.5890,7.0000,111.0000,TRUE
+SILFEN,7 w access,25070 adam massigeh,0,2,0,0.0000,0.4151,0.5893,3,93.8820,TRUE
 SIPO,,,0,1,0,0.0000,,,,,FALSE
 SKOLYX,,,0,1,0,0.0000,,,,,FALSE
 SOLS,,,0,1,0,0.0000,,,,,FALSE
@@ -860,19 +868,19 @@ STADA,,,0,1,0,0.0000,,,,,FALSE
 STAR NUTRITION,,,0,1,0,0.0000,,,,,FALSE
 STARDROPS,,,0,1,0,0.0000,,,,,FALSE
 STOFF Nage,,,0,1,0,0.0000,,,,,FALSE
-SUI AVA,7 w access,25070 adam massigeh,0,1,0,0.0000,0.5430,0.3330,158.0000,98.0000,FALSE
-Sabre Paris,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.0720,0.0590,45.0000,98.0000,TRUE
+SUI AVA,7 w access,25070 adam massigeh,0,1,0,0.0000,0.6081,0.3333,75,97.4955,FALSE
+Sabre Paris,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.0604,0.0429,43,98.7427,TRUE
 Sage Appliances,,,0,8,0,0.0000,,,,,FALSE
 Saint Laurent,,,0,8,0,0.0000,,,,,FALSE
-Salomon,3 mens,20415 lotte skovaa,0,28,0,0.0000,0.2690,0.1860,121.0000,87.0000,TRUE
+Salomon,3 mens,20415 lotte skovaa,0,28,0,0.0000,0.2671,0.1854,116,87.1204,TRUE
 Salt & Stone,,,0,1,0,0.0000,,,,,FALSE
 Salus,,,0,3,0,0.0000,,,,,FALSE
 Samsung,,,0,14,0,0.0000,,,,,FALSE
-Samsøe & Samsøe,5 women,25070 adam massigeh,0,1,0,0.0000,0.4800,0.2520,100.0000,104.0000,TRUE
+Samsøe & Samsøe,5 women,25070 adam massigeh,0,1,0,0.0000,0.4980,0.2517,94,101.9705,TRUE
 Sandoz,,,0,2,0,0.0000,,,,,FALSE
 Sandstrøm,,,0,1,0,0.0000,,,,,FALSE
-Sanzi Beauty,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.1510,0.0670,122.0000,95.0000,TRUE
-Saucony,3 mens,20415 lotte skovaa,0,8,0,0.0000,0.4730,0.5440,57.0000,80.0000,TRUE
+Sanzi Beauty,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.1539,0.0667,124,94.4633,TRUE
+Saucony,3 mens,20415 lotte skovaa,0,8,0,0.0000,0.4628,0.3725,58,79.9366,TRUE
 Sauna4home,,,0,1,0,0.0000,,,,,FALSE
 Say,,,0,1,0,0.0000,,,,,FALSE
 Scandic Greenhouse,,,0,1,0,0.0000,,,,,FALSE
@@ -881,16 +889,17 @@ Scholl,,,0,10,0,0.0000,,,,,FALSE
 Schwarzkopf,,,0,9,0,0.0000,,,,,FALSE
 Schylling,,,0,3,0,0.0000,,,,,FALSE
 Scitec Nutrition,,,0,1,0,0.0000,,,,,FALSE
-Sebra,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.1180,0.0670,107.0000,96.0000,TRUE
+Sebra,2 kids,20415 lotte skovaa,0,1,0,0.0000,0.3648,0.3333,57,78.8749,FALSE
+Second Female,5 women,25070 adam massigeh,0,1,0,0.0000,0.6015,0.3333,38,111.8283,FALSE
 Segway-Ninebot,,,0,7,0,0.0000,,,,,FALSE
-Selected,5 women,25070 adam massigeh,0,2,0,0.0000,0.4860,0.3330,297.0000,103.0000,FALSE
+Selected,5 women,25070 adam massigeh,0,2,0,0.0000,0.4362,0.2500,292,104.6210,FALSE
 Sembol,,,0,1,0,0.0000,,,,,FALSE
 Seniorlife,,,0,1,0,0.0000,,,,,FALSE
 Sensilab,,,0,2,0,0.0000,,,,,FALSE
 Senze,,,0,4,0,0.0000,,,,,FALSE
 Shark,,,0,4,0,0.0000,,,,,FALSE
 Shimano,,,0,3,0,0.0000,,,,,FALSE
-Shiseido,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6020,0.5630,290.0000,69.0000,TRUE
+Shiseido,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6102,0.5750,290,68.5635,TRUE
 Shock Absorber,,,0,1,0,0.0000,,,,,FALSE
 Shus,,,0,1,0,0.0000,,,,,FALSE
 Sideral,,,0,1,0,0.0000,,,,,FALSE
@@ -898,14 +907,14 @@ Siemens,,,0,24,0,0.0000,,,,,FALSE
 Sigvaris,,,0,1,0,0.0000,,,,,FALSE
 Sika,,,0,1,0,0.0000,,,,,FALSE
 Sika Footwear,,,0,1,0,0.0000,,,,,FALSE
-Sistema,,,0,2,0,0.0000,,,,,FALSE
-Sisters Point,5 women,25070 adam massigeh,0,1,0,0.0000,0.5280,0.0040,98.0000,122.0000,TRUE
+Sistema,,,0,3,0,0.0000,,,,,FALSE
+Sisters Point,5 women,25070 adam massigeh,0,1,0,0.0000,0.5147,0.0034,92,123.6217,TRUE
 Siv,,,0,1,0,0.0000,,,,,FALSE
 Sjö & Hav,,,0,1,0,0.0000,,,,,FALSE
 Skagen Clothing,,,0,1,0,0.0000,,,,,FALSE
-Skall Studio,,,0,2,0,0.0000,,,,,FALSE
-Skechers,3 mens,20415 lotte skovaa,0,11,0,0.0000,0.4370,0.3090,37.0000,90.0000,TRUE
-Skin1004,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.7920,0.7260,53.0000,59.0000,TRUE
+Skall Studio,,,0,3,0,0.0000,,,,,FALSE
+Skechers,3 mens,20415 lotte skovaa,0,12,0,0.0000,0.4512,0.3377,37,88.9692,TRUE
+Skin1004,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.7833,0.7236,53,59.6096,TRUE
 Skulpturfigur.Dk,,,0,1,0,0.0000,,,,,FALSE
 Sky,,,0,1,0,0.0000,,,,,FALSE
 Slate Jewelry,,,0,1,0,0.0000,,,,,FALSE
@@ -913,13 +922,13 @@ Sleep Better,,,0,1,0,0.0000,,,,,FALSE
 Smart Stickers,,,0,1,0,0.0000,,,,,FALSE
 SmartStore,,,0,1,0,0.0000,,,,,FALSE
 Smartphoto,,,0,1,0,0.0000,,,,,FALSE
-Smeg,1 home,21819 mariette buksti gram,0,3,0,0.0000,0.2420,0.2400,108.0000,85.0000,TRUE
-Smellwell,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.1200,0.1590,5.0000,90.0000,TRUE
+Smeg,1 home,21819 mariette buksti gram,0,3,0,0.0000,0.2394,0.2330,109,84.5800,TRUE
+Smellwell,3 mens,20415 lotte skovaa,0,1,0,0.0000,0.1017,0.1179,4,91.0612,TRUE
 Snickers,,,0,1,0,0.0000,,,,,FALSE
 Snoreeze,,,0,1,0,0.0000,,,,,FALSE
 SodaStream,,,0,4,0,0.0000,,,,,FALSE
-Sofie Schnoor,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.7340,0.4350,276.0000,85.0000,TRUE
-Sol de Janeiro,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2470,0.2190,63.0000,83.0000,FALSE
+Sofie Schnoor,2 kids,20415 lotte skovaa,0,4,0,0.0000,0.7319,0.4318,272,83.2104,TRUE
+Sol de Janeiro,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2364,0.2099,60,83.5145,FALSE
 Solar,,,0,2,0,0.0000,,,,,FALSE
 Solar Plus,,,0,1,0,0.0000,,,,,FALSE
 Solaray,,,0,19,0,0.0000,,,,,FALSE
@@ -928,46 +937,46 @@ Souper Cubes,,,0,1,0,0.0000,,,,,FALSE
 Spand,,,0,1,0,0.0000,,,,,FALSE
 Specialized,,,0,1,0,0.0000,,,,,FALSE
 Spegelshoppen,,,0,1,0,0.0000,,,,,FALSE
-Spiegelau,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2590,0.1170,40.0000,88.0000,TRUE
+Spiegelau,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2587,0.1170,40,87.6020,TRUE
 Splash About,,,0,1,0,0.0000,,,,,FALSE
 Sportsbuddy,,,0,1,0,0.0000,,,,,FALSE
-Spring Copenhagen,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2560,0.0710,75.0000,101.0000,TRUE
-Stanley,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.1470,0.1130,53.0000,96.0000,TRUE
+Spring Copenhagen,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3956,0.3333,136,84.0545,TRUE
+Stanley,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.1443,0.1121,54,95.4774,TRUE
 Steba,,,0,1,0,0.0000,,,,,FALSE
 Steel Function,,,0,1,0,0.0000,,,,,FALSE
 Steelmate,,,0,3,0,0.0000,,,,,FALSE
 Stelrad,,,0,1,0,0.0000,,,,,FALSE
-Stelton,1 home,21819 mariette buksti gram,0,5,0,0.0000,0.1440,0.0930,141.0000,97.0000,TRUE
+Stelton,1 home,21819 mariette buksti gram,0,5,0,0.0000,0.1430,0.0849,141,97.5006,TRUE
 Steradent,,,0,1,0,0.0000,,,,,FALSE
 Sterling Power,,,0,1,0,0.0000,,,,,FALSE
 Steve Madden,,,0,1,0,0.0000,,,,,TRUE
-Stokke,2 kids,20415 lotte skovaa,0,3,0,0.0000,0.1480,0.1410,38.0000,101.0000,TRUE
+Stokke,2 kids,20415 lotte skovaa,0,3,0,0.0000,0.1458,0.1413,30,99.8956,TRUE
 Storage Solutions,,,0,1,0,0.0000,,,,,FALSE
 Story,,,0,3,0,0.0000,,,,,FALSE
 Stradivarius,,,0,8,0,0.0000,,,,,FALSE
 Stryker,,,0,1,0,0.0000,,,,,FALSE
-Studio Feder,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3640,0.2500,49.0000,98.0000,TRUE
-Summerbird,11 food,61164 jacob bøgeholdt nielsen,0,1,0,0.0000,0.2030,0.2060,17.0000,84.0000,FALSE
+Studio Feder,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3740,0.2500,48,98.1058,TRUE
+Summerbird,11 food,61164 jacob bøgeholdt nielsen,0,1,0,0.0000,0.2034,0.2063,17,83.6956,FALSE
 Sungboon Editor,,,0,2,0,0.0000,,,,,FALSE
 SupCare,,,0,2,0,0.0000,,,,,FALSE
 SuperSox,,,0,1,0,0.0000,,,,,FALSE
 Superolie,,,0,1,0,0.0000,,,,,FALSE
 Swiffer,,,0,2,0,0.0000,,,,,FALSE
-Södahl,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.2700,0.1550,188.0000,91.0000,TRUE
+Södahl,1 home,21819 mariette buksti gram,0,9,0,0.0000,0.2645,0.1427,187,91.4295,TRUE
 Søstrene Grene,,,0,4,0,0.0000,,,,,FALSE
 T-fal,,,0,7,0,0.0000,,,,,FALSE
 TE Connectivity,,,0,1,0,0.0000,,,,,FALSE
 TECH-PROTECT,,,0,3,0,0.0000,,,,,FALSE
 TENA,,,0,4,0,0.0000,,,,,FALSE
-TIRTIR,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.4660,0.3900,19.0000,71.0000,TRUE
+TIRTIR,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.4611,0.3895,19,71.6709,TRUE
 TTP,,,0,1,0,0.0000,,,,,FALSE
 Taiyo Yuden,,,0,1,0,0.0000,,,,,FALSE
-Tangle Teezer,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2560,0.2560,2.0000,112.0000,FALSE
+Tangle Teezer,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.2556,0.2556,2,125.6404,FALSE
 TePe,,,0,1,0,0.0000,,,,,FALSE
 TecTake,,,0,1,0,0.0000,,,,,FALSE
 Technivorm,,,0,4,0,0.0000,,,,,FALSE
 Tekla,,,0,1,0,0.0000,,,,,FALSE
-Temashop,,,0,1,0,0.0000,,,,,FALSE
+Temashop,,,0,2,0,0.0000,,,,,FALSE
 Tempur,,,0,1,0,0.0000,,,,,FALSE
 Termo,,,0,1,0,0.0000,,,,,FALSE
 Teva,,,0,1,0,0.0000,,,,,TRUE
@@ -975,74 +984,74 @@ Texas,,,0,4,0,0.0000,,,,,FALSE
 Thames & Kosmos,,,0,2,0,0.0000,,,,,FALSE
 The Birth Poster,,,0,1,0,0.0000,,,,,FALSE
 The Gel Collection,,,0,1,0,0.0000,,,,,FALSE
-The North Face,3 mens,20415 lotte skovaa,0,8,0,0.0000,0.3180,0.2310,145.0000,91.0000,TRUE
+The North Face,3 mens,20415 lotte skovaa,0,9,0,0.0000,0.3320,0.2302,140,89.0736,TRUE
 The Original Big Wheel,,,0,2,0,0.0000,,,,,FALSE
 The Unbranded Brand,,,0,4,0,0.0000,,,,,FALSE
-TheNap,,,0,19,0,0.0000,,,,,FALSE
+TheNap,,,0,20,0,0.0000,,,,,FALSE
 Thea,,,0,1,0,0.0000,,,,,FALSE
 Thealoz,,,0,2,0,0.0000,,,,,FALSE
 Thermex,,,0,1,0,0.0000,,,,,FALSE
-Thermos,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2640,0.0760,12.0000,91.0000,TRUE
+Thermos,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.2643,0.0763,12,91.0721,TRUE
 Thibaut,,,0,1,0,0.0000,,,,,FALSE
 Tiger Balm,,,0,1,0,0.0000,,,,,FALSE
-Timberland,3 mens,25070 adam massigeh,0,6,0,0.0000,0.7180,0.4860,29.0000,86.0000,TRUE
+Timberland,3 mens,25070 adam massigeh,0,6,0,0.0000,0.7274,0.5492,29,84.0703,TRUE
 Tommee Tippee,,,0,2,0,0.0000,,,,,FALSE
-Too Faced,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0070,0.0010,55.0000,112.0000,FALSE
+Too Faced,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0073,0.0013,47,116.3343,FALSE
 Toppik,,,0,1,0,0.0000,,,,,FALSE
 Torriden,,,0,1,0,0.0000,,,,,FALSE
-Tradition,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.1350,0.1030,151.0000,93.0000,TRUE
+Tradition,1 home,21819 mariette buksti gram,0,6,0,0.0000,0.1345,0.1027,152,92.6438,TRUE
 Trendcarpet,,,0,5,0,0.0000,,,,,FALSE
-Tretorn,3 mens,,0,6,0,0.0000,0.1420,0.1420,1.0000,88.0000,FALSE
+Tretorn,,,0,6,0,0.0000,,,,,FALSE
 Triol,,,0,1,0,0.0000,,,,,FALSE
 Trip Trap,,,0,1,0,0.0000,,,,,FALSE
 Tristar,,,0,1,0,0.0000,,,,,FALSE
-Triumph,6 lingerie,20415 lotte skovaa,0,3,0,0.0000,0.4950,0.2870,91.0000,113.0000,TRUE
-Tromborg,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1300,0.0960,202.0000,90.0000,TRUE
-True North,,,0,4,0,0.0000,,,,,FALSE
+Triumph,6 lingerie,20415 lotte skovaa,0,3,0,0.0000,0.5239,0.2978,91,109.8146,TRUE
+Tromborg,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1327,0.0959,188,91.5918,TRUE
+True North,,,0,5,0,0.0000,,,,,FALSE
 Trump,,,0,1,0,0.0000,,,,,FALSE
 Tunturi,,,0,1,0,0.0000,,,,,FALSE
-Tweezerman,8 cosmetics,,0,2,0,0.0000,0.1460,0.1300,29.0000,89.0000,TRUE
+Tweezerman,8 cosmetics,,0,2,0,0.0000,0.1575,0.1308,29,88.7960,TRUE
 Twistshake,,,0,3,0,0.0000,,,,,FALSE
 U-Care,,,0,1,0,0.0000,,,,,FALSE
-UGG,7 w access,25070 adam massigeh,0,16,0,0.0000,0.5490,0.4800,93.0000,77.0000,FALSE
+UGG,7 w access,25070 adam massigeh,0,17,0,0.0000,0.5474,0.4784,94,74.7325,FALSE
 UNIPRODO,,,0,1,0,0.0000,,,,,FALSE
 UNIQ,,,0,1,0,0.0000,,,,,FALSE
 UNIQLO,,,0,5,0,0.0000,,,,,FALSE
 URSAPHARM,,,0,1,0,0.0000,,,,,FALSE
-UYUNI,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.4390,0.3330,158.0000,82.0000,FALSE
+UYUNI,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.4436,0.3334,156,81.5912,FALSE
 Ultra Clean,,,0,1,0,0.0000,,,,,FALSE
 Umberto Giannini,,,0,1,0,0.0000,,,,,FALSE
-Under Armour,3 mens,20415 lotte skovaa,0,5,0,0.0000,0.3290,0.1970,125.0000,87.0000,TRUE
+Under Armour,3 mens,20415 lotte skovaa,0,5,0,0.0000,0.3392,0.2083,121,86.5773,TRUE
 Unikalk,,,0,6,0,0.0000,,,,,FALSE
 United Scientific,,,0,1,0,0.0000,,,,,FALSE
-Urban Decay,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1160,0.0670,14.0000,110.0000,TRUE
+Urban Decay,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.1145,0.0667,14,108.2941,TRUE
 Urban Outfitters,,,0,1,0,0.0000,,,,,FALSE
 Urberg,,,0,4,0,0.0000,,,,,FALSE
 Urtegaarden,,,0,7,0,0.0000,,,,,FALSE
 Urtekram,,,0,1,0,0.0000,,,,,FALSE
 V-TAC,,,0,1,0,0.0000,,,,,FALSE
 VAUDE,,,0,1,0,0.0000,,,,,FALSE
-VILA,5 women,25070 adam massigeh,0,4,0,0.0000,0.2750,0.2580,31.0000,100.0000,TRUE
+VILA,5 women,25070 adam massigeh,0,4,0,0.0000,0.2730,0.2577,31,99.7157,TRUE
 Vagabond Shoemakers,,,0,3,0,0.0000,,,,,FALSE
 Val Med,,,0,9,0,0.0000,,,,,FALSE
-Valentino,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.3500,0.2640,50.0000,79.0000,TRUE
-Vanilla Copenhagen,2 kids,,0,1,0,0.0000,0.1820,0.1480,54.0000,96.0000,TRUE
-Vans,3 mens,20415 lotte skovaa,0,5,0,0.0000,0.8170,0.6020,29.0000,73.0000,TRUE
+Valentino,8 cosmetics,21819 mariette buksti gram,0,6,0,0.0000,0.3811,0.2732,45,80.9079,TRUE
+Vanilla Copenhagen,2 kids,,0,1,0,0.0000,0.2563,0.0714,5,115.4324,TRUE
+Vans,3 mens,20415 lotte skovaa,0,5,0,0.0000,0.8086,0.6042,27,73.6318,TRUE
 Veet,,,0,4,0,0.0000,,,,,FALSE
 Venderby's,,,0,1,0,0.0000,,,,,FALSE
 Veneta,,,0,1,0,0.0000,,,,,FALSE
 Venilia,,,0,1,0,0.0000,,,,,FALSE
-Vero Moda,5 women,25070 adam massigeh,0,23,0,0.0000,0.9330,0.6670,5.0000,93.0000,FALSE
-Versace,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.4240,0.3820,97.0000,84.0000,TRUE
-ViSSEVASSE,1 home,,0,1,0,0.0000,0.2360,0.2690,4.0000,108.0000,TRUE
-Viamaja,,,0,31,0,0.0000,,,,,FALSE
+Vero Moda,5 women,25070 adam massigeh,0,23,0,0.0000,1.0002,0.8333,4,108.7136,FALSE
+Versace,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.4687,0.4170,87,84.0200,TRUE
+ViSSEVASSE,1 home,,0,1,0,0.0000,0.2135,0.2342,3,108.9984,TRUE
+Viamaja,,,0,33,0,0.0000,,,,,FALSE
 Vichy,,,0,5,0,0.0000,,,,,FALSE
 Vicks,,,0,1,0,0.0000,,,,,FALSE
 Viking Footwear,,,0,5,0,0.0000,,,,,FALSE
-Viktor&Rolf,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.5740,0.6020,21.0000,69.0000,TRUE
+Viktor&Rolf,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6095,0.6063,21,67.2688,TRUE
 Vileda,,,0,3,0,0.0000,,,,,FALSE
 Vincent Longo,,,0,1,0,0.0000,,,,,FALSE
-Vipp,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3650,0.3660,102.0000,78.0000,FALSE
+Vipp,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.3651,0.3658,102,78.1172,FALSE
 Vit,,,0,1,0,0.0000,,,,,FALSE
 Vita Yummy,,,0,1,0,0.0000,,,,,FALSE
 VitaCare,,,0,1,0,0.0000,,,,,FALSE
@@ -1052,94 +1061,96 @@ VitaePro,,,0,1,0,0.0000,,,,,FALSE
 Vitavia,,,0,1,0,0.0000,,,,,FALSE
 Vitility,,,0,1,0,0.0000,,,,,FALSE
 Vivita™,,,0,1,0,0.0000,,,,,FALSE
-Voksi,,,0,5,0,0.0000,,,,,FALSE
+Voksi,,,0,6,0,0.0000,,,,,FALSE
 Vortex Racing,,,0,1,0,0.0000,,,,,FALSE
-WONDERSKIN,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.3450,0.3460,81.0000,89.0000,TRUE
+WONDERSKIN,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.3317,0.2757,86,87.8980,TRUE
 WORX,,,0,6,0,0.0000,,,,,FALSE
-Wahl,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.4390,0.4080,21.0000,77.0000,TRUE
+Wahl,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.4385,0.4018,21,76.8355,TRUE
 Wasco,,,0,14,0,0.0000,,,,,FALSE
 Watery,,,0,1,0,0.0000,,,,,FALSE
 Wattson,,,0,2,0,0.0000,,,,,FALSE
-Weather Report,3 mens,20415 lotte skovaa,0,6,0,0.0000,0.0990,0.0990,4.0000,91.0000,TRUE
+Weather Report,3 mens,20415 lotte skovaa,0,6,0,0.0000,0.0994,0.0994,4,91.2042,TRUE
 Weber,,,0,2,0,0.0000,,,,,FALSE
 Weekday,,,0,9,0,0.0000,,,,,FALSE
 Weiber,,,0,1,0,0.0000,,,,,FALSE
 WeightWorld,,,0,17,0,0.0000,,,,,FALSE
-Weleda,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.4150,0.3610,41.0000,74.0000,TRUE
-Wella,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.5170,0.4710,56.0000,69.0000,TRUE
+Weleda,8 cosmetics,21819 mariette buksti gram,0,2,0,0.0000,0.4047,0.3614,41,73.8723,TRUE
+Wella,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.5256,0.4848,56,68.2875,TRUE
 Wellvita,,,0,1,0,0.0000,,,,,FALSE
 Wera,,,0,1,0,0.0000,,,,,FALSE
 Westwing,,,0,3,0,0.0000,,,,,FALSE
-Wheat,2 kids,20415 lotte skovaa,0,15,0,0.0000,0.2420,0.0740,152.0000,98.0000,TRUE
+Wheat,2 kids,20415 lotte skovaa,0,15,0,0.0000,0.2345,0.0724,154,97.4845,TRUE
 Whirlpool,,,0,1,0,0.0000,,,,,FALSE
-Whistler,3 mens,,0,3,0,0.0000,0.3020,0.3050,5.0000,93.0000,TRUE
+Whistler,3 mens,,0,3,0,0.0000,0.2270,0.1721,4,96.7416,TRUE
 Widmann,,,0,2,0,0.0000,,,,,FALSE
 Wilbers,,,0,1,0,0.0000,,,,,FALSE
 Wild,,,0,1,0,0.0000,,,,,FALSE
 Winther Studio,,,0,1,0,0.0000,,,,,FALSE
 Wispy,,,0,2,0,0.0000,,,,,FALSE
 Withings,,,0,1,0,0.0000,,,,,FALSE
-Woden,7 w access,25070 adam massigeh,0,7,0,0.0000,0.2380,0.2300,70.0000,94.0000,TRUE
-Wood Wood,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.5030,0.3340,114.0000,93.0000,FALSE
-Wrangler,5 women,20415 lotte skovaa,0,1,0,0.0000,0.5550,0.4270,13.0000,120.0000,TRUE
+Woden,7 w access,25070 adam massigeh,0,7,0,0.0000,0.3083,0.2513,80,87.0971,FALSE
+Wood Wood,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.2847,0.2500,70,110.5781,TRUE
+Wrangler,5 women,20415 lotte skovaa,0,1,0,0.0000,0.5607,0.4267,13,125.2859,TRUE
 Xiaomi,,,0,1,0,0.0000,,,,,FALSE
-Xlash,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0710,0.0670,28.0000,95.0000,TRUE
-Xocolatl,11 food,61164 jacob bøgeholdt nielsen,0,1,0,0.0000,0.1570,0.1760,9.0000,92.0000,FALSE
-Y.A.S,5 women,25070 adam massigeh,0,1,0,0.0000,0.4570,0.3470,35.0000,111.0000,TRUE
+Xlash,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.0709,0.0669,28,94.7673,TRUE
+Xocolatl,11 food,61164 jacob bøgeholdt nielsen,0,1,0,0.0000,0.1549,0.1738,8,93.1091,FALSE
+Y.A.S,5 women,25070 adam massigeh,0,1,0,0.0000,0.4656,0.3474,35,109.6467,TRUE
 YETI,,,0,1,0,0.0000,,,,,FALSE
 Yeelight,,,0,1,0,0.0000,,,,,FALSE
-Yes,,,0,1,0,0.0000,,,,,FALSE
+Yes,,,0,2,0,0.0000,,,,,FALSE
 Youngblood,,,0,1,0,0.0000,,,,,FALSE
+Yuaia,,,0,1,0,0.0000,,,,,FALSE
 Yuaia Haircare,,,0,14,0,0.0000,,,,,FALSE
 Yummii Yummii,,,0,1,0,0.0000,,,,,FALSE
 ZARKOPERFUME,,,0,3,0,0.0000,,,,,FALSE
 ZENZ Organic,,,0,1,0,0.0000,,,,,FALSE
 ZTE,,,0,1,0,0.0000,,,,,FALSE
-ZWILLING,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1440,0.0840,227.0000,101.0000,TRUE
-Zebla,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.2230,0.2200,9.0000,83.0000,TRUE
+ZWILLING,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1399,0.0800,228,102.2320,TRUE
+Zebla,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.2212,0.2176,8,82.8681,TRUE
 Zeller Present,,,0,1,0,0.0000,,,,,FALSE
 Zig Zag,,,0,7,0,0.0000,,,,,FALSE
 Zone Perfect,,,0,1,0,0.0000,,,,,FALSE
 Zwitscherbox,,,0,1,0,0.0000,,,,,FALSE
-adidas,3 mens,20415 lotte skovaa,0,126,0,0.0000,0.3510,0.2730,1663.0000,87.0000,TRUE
+adidas,3 mens,20415 lotte skovaa,0,130,0,0.0000,0.3549,0.2707,1619,86.2382,TRUE
 aida,,,0,6,0,0.0000,,,,,FALSE
-arena,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.5910,0.4050,26.0000,87.0000,TRUE
+arena,3 mens,20415 lotte skovaa,0,2,0,0.0000,0.7084,0.4415,18,87.9781,TRUE
 benuta,,,0,3,0,0.0000,,,,,FALSE
-bisgaard,2 kids,25070 adam massigeh,0,18,0,0.0000,0.2830,0.1440,54.0000,98.0000,TRUE
+bisgaard,2 kids,25070 adam massigeh,0,20,0,0.0000,0.2947,0.1436,54,97.1965,TRUE
 buchan,,,0,2,0,0.0000,,,,,FALSE
 d-c-fix,,,0,2,0,0.0000,,,,,FALSE
-dermalogica,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6430,0.4530,109.0000,66.0000,FALSE
+dermalogica,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,0.6390,0.4495,109,65.9880,FALSE
 e-skilte,,,0,1,0,0.0000,,,,,FALSE
 e.l.f.,,,0,3,0,0.0000,,,,,FALSE
 edding,,,0,1,0,0.0000,,,,,FALSE
 essence,,,0,3,0,0.0000,,,,,FALSE
-essie,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.2540,0.1950,149.0000,83.0000,TRUE
+essie,8 cosmetics,21819 mariette buksti gram,0,4,0,0.0000,0.2479,0.1902,151,82.3171,TRUE
 fati,,,0,1,0,0.0000,,,,,FALSE
-ferm LIVING,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1280,0.0700,195.0000,94.0000,TRUE
+ferm LIVING,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.1323,0.0770,135,95.0324,TRUE
 formoline,,,0,4,0,0.0000,,,,,FALSE
-ghd,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.1430,0.1050,49.0000,94.0000,TRUE
+ghd,8 cosmetics,21819 mariette buksti gram,0,3,0,0.0000,0.1401,0.1000,50,93.8434,TRUE
 glowie,,,0,2,0,0.0000,,,,,FALSE
 haruharu Wonder USA Official,,,0,1,0,0.0000,,,,,FALSE
 hylo,,,0,4,0,0.0000,,,,,FALSE
-iRobot,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.5750,0.5750,1.0000,63.0000,FALSE
+iRobot,1 home,21819 mariette buksti gram,0,1,0,0.0000,0.5752,0.5752,1,63.4853,FALSE
 iets frans...,,,0,1,0,0.0000,,,,,FALSE
 invisibobble,,,0,1,0,0.0000,,,,,FALSE
 kraes,,,0,2,0,0.0000,,,,,FALSE
-lala Berlin,7 w access,25070 adam massigeh,0,1,0,0.0000,0.1890,0.1890,4.0000,129.0000,FALSE
-love & divine,5 women,25070 adam massigeh,0,1,0,0.0000,0.1870,0.0040,124.0000,127.0000,TRUE
+lala Berlin,7 w access,25070 adam massigeh,0,1,0,0.0000,0.1895,0.1895,4,124.6357,TRUE
+love & divine,5 women,25070 adam massigeh,0,1,0,0.0000,0.1891,0.0040,125,126.2543,TRUE
 mama;licious,,,0,2,0,0.0000,,,,,FALSE
-milk_shake,8 cosmetics,,0,2,0,0.0000,0.7060,0.6560,66.0000,61.0000,TRUE
+milk_shake,8 cosmetics,,0,2,0,0.0000,0.7069,0.6559,66,60.8168,TRUE
 next,,,0,5,0,0.0000,,,,,FALSE
 noname,,,0,1,0,0.0000,,,,,FALSE
 numoco,,,0,1,0,0.0000,,,,,FALSE
 organicup-allmatters,,,0,2,0,0.0000,,,,,FALSE
-oval square,5 women,25070 adam massigeh,0,1,0,0.0000,188.4980,0.4290,30.0000,79.0000,TRUE
+oval square,5 women,25070 adam massigeh,0,1,0,0.0000,188.4982,0.4286,30,79.1822,TRUE
 phenumb,,,0,3,0,0.0000,,,,,FALSE
 prev,,,0,1,0,0.0000,,,,,FALSE
 proSan,,,0,1,0,0.0000,,,,,FALSE
+reer,,,0,1,0,0.0000,,,,,FALSE
 satana,,,0,3,0,0.0000,,,,,FALSE
 stylpro,,,0,1,0,0.0000,,,,,FALSE
-tarte,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,,,,107.0000,FALSE
+tarte,8 cosmetics,21819 mariette buksti gram,0,1,0,0.0000,,,,109.2299,FALSE
 tesa,,,0,1,0,0.0000,,,,,FALSE
 vidaXL,,,0,3,0,0.0000,,,,,FALSE
 wasco clean,,,0,2,0,0.0000,,,,,FALSE
