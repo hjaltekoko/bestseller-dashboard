@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T10:49:05Z",
+  "generated_at": "2026-10-08T07:16:06Z",
   "merchant_report_date": "2026-09-07",
-  "brands": 2481,
-  "in_stock_bestsellers": 1046,
-  "suggestions": 3058,
-  "priced_brands": 1539,
+  "brands": 2485,
+  "in_stock_bestsellers": 975,
+  "suggestions": 3095,
+  "products": 1910,
+  "priced_brands": 1541,
   "quality": "ok",
-  "quality_reasons": [],
-  "note": "Seeded 2026-10-07: Merchant Center figures from the healthy 5 October delivery of the 7 September snapshot, PriceShape, discount and campaign columns from the 7 October run. No product list existed yet for that delivery."
+  "quality_reasons": []
 }
