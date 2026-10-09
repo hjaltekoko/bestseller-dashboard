@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-10-08T07:16:06Z",
+  "generated_at": "2026-10-09T07:16:24Z",
   "merchant_report_date": "2026-09-07",
-  "brands": 2485,
-  "in_stock_bestsellers": 975,
-  "suggestions": 3095,
-  "products": 1910,
-  "priced_brands": 1541,
-  "quality": "ok",
-  "quality_reasons": []
+  "brands": 2477,
+  "in_stock_bestsellers": 80,
+  "suggestions": 4049,
+  "products": 1808,
+  "priced_brands": 1530,
+  "quality": "rejected",
+  "quality_reasons": [
+    "in-stock bestsellers fell from 975 to 80 (less than half of the last good run on 2026-10-08)"
+  ]
 }
