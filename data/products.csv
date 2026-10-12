@@ -177,7 +177,7 @@ Apparel & Accessories,225,429,LOW,FLAT,Seam Detail Turtleneck Long Knitted Sweat
 Apparel & Accessories,226,206,LOW,SINKER,adidas Adistar Control 5,adidas,Apparel & Accessories > Shoes,"04068815837699,04068812059650,04068812053993",NOT_IN_INVENTORY
 Apparel & Accessories,227,246,LOW,FLAT,Bisgaard Kids Evon Tex,bisgaard,Apparel & Accessories > Shoes,"05715243708808,05715243708815,05715243708846",IN_STOCK
 Apparel & Accessories,229,464,LOW,FLAT,New Balance 1906L,New Balance,Apparel & Accessories > Shoes,"00198688468745,00198688469353,00198688469360",NOT_IN_INVENTORY
-Apparel & Accessories,230,353,LOW,FLAT,Hummel Basic Socks,Hummel,Apparel & Accessories > Clothing > Underwear & Socks > Socks,"05700490657412,05700490657436,05700490657443",IN_STOCK
+Apparel & Accessories,230,353,LOW,FLAT,Hummel Basic Socks,Hummel,Apparel & Accessories > Clothing > Underwear & Socks > Socks,"05700490657412,05700490657436,05700490657443",NOT_IN_INVENTORY
 Apparel & Accessories,231,397,LOW,FLAT,Mikk-Line Nylon Suit Solid Kids',Mikk-Line,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Outerwear,"05715073468705,05715073471255,05715073802585",NOT_IN_INVENTORY
 Apparel & Accessories,232,84,LOW,SINKER,Hunter Downpour Tall Boot,Hunter,Apparel & Accessories > Shoes,"05063447402375,05063447330647,05063447402351",IN_STOCK
 Apparel & Accessories,234,300,LOW,FLAT,New Balance Men's 2002R,New Balance,Apparel & Accessories > Shoes,"00196432152513,00196432152728,00196432152520",IN_STOCK
@@ -742,7 +742,7 @@ Apparel & Accessories,1027,2179,VERY_LOW,FLAT,Hoka Men's Arahi 8,Hoka One One,Ap
 Apparel & Accessories,1029,934,VERY_LOW,FLAT,Kids Angulus Glitter Tex-Boot Glitter Velcro,Angulus,Apparel & Accessories > Shoes,"05714408621747,05714408951790,05714408858129",IN_STOCK
 Apparel & Accessories,1030,1370,VERY_LOW,FLAT,Children's Mikk-Line Nylon Jacket,Mikk-Line,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Outerwear,"05715073544423,05715073544560,05715073470807",NOT_IN_INVENTORY
 Apparel & Accessories,1031,1204,VERY_LOW,FLAT,New Surplus,Neo Noir,Apparel & Accessories > Clothing > Shirts & Tops,"05715641305920,05715641416060,05715641416053",IN_STOCK
-Apparel & Accessories,1032,825,VERY_LOW,FLAT,Barbour Women's Cottingham Wax Jacket,Barbour,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05063669359327,05063669359365,05063669359334",NOT_IN_INVENTORY
+Apparel & Accessories,1032,825,VERY_LOW,FLAT,Barbour Women's Cottingham Wax Jacket,Barbour,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05063669359327,05063669359365,05063669359334",IN_STOCK
 Apparel & Accessories,1033,696,VERY_LOW,SINKER,Neo Noir Women Fenli Shirt Blouse,Neo Noir,Apparel & Accessories > Clothing > Shirts & Tops,"05715641565140,05715641565133,05715641565126",IN_STOCK
 Apparel & Accessories,1036,2194,VERY_LOW,FLAT,Mens adidas Handball Spezial,adidas,Apparel & Accessories > Shoes,"04060512040815,04067888603682,04069987886713",NOT_IN_INVENTORY
 Apparel & Accessories,1038,6555,VERY_LOW,FLAT,Women's adidas Blousy Oversized Track Top,adidas,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"04069994276927,04069994273186,04069994273216",NOT_IN_INVENTORY
@@ -880,7 +880,7 @@ Apparel & Accessories,1229,1837,VERY_LOW,FLAT,Nike Women's Air Max 90,Nike,Appar
 Apparel & Accessories,1231,1774,VERY_LOW,FLAT,Bison AOP Superflex 5 Pocket Bukser,Bison,Apparel & Accessories > Clothing > Pants,"05715789010830,05715651757344,05715789011103",NOT_IN_INVENTORY
 Apparel & Accessories,1232,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Salomon XT-6 | Brun | Størrelse: 42 2/3 | Unisex | Sneakers | NAKED CPH,Salomon,Apparel & Accessories > Shoes,,NOT_IN_INVENTORY
 Apparel & Accessories,1234,1749,VERY_LOW,FLAT,Oval Square Active Hood Jacket Kvinde Black Dunjakker Str,oval square,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715409371662,05715409371488,05715409371471",IN_STOCK
-Apparel & Accessories,1235,3144,VERY_LOW,FLAT,Object Strickjacke Rippstrick Wickel Cardigan Women's,Object,Apparel & Accessories > Clothing > Shirts & Tops,"05715801529692,05715801688351,05715801688344",IN_STOCK
+Apparel & Accessories,1235,3144,VERY_LOW,FLAT,Object Strickjacke Rippstrick Wickel Cardigan Women's,Object,Apparel & Accessories > Clothing > Shirts & Tops,"05715801529692,05715801688351,05715801688344",NOT_IN_INVENTORY
 Apparel & Accessories,1237,797,VERY_LOW,FLAT,Tailored Plunge Longline Corset,NA-KD,Apparel & Accessories > Clothing > Shirts & Tops,"07325949613375,07325949613382,07325949613368",NOT_IN_INVENTORY
 Apparel & Accessories,1239,3374,VERY_LOW,FLAT,Joha Brown Jumpsuit Baby,Joha,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Sleepwear,,IN_STOCK
 Apparel & Accessories,1242,2532,VERY_LOW,FLAT,Nike Women's Free Metcon 7 Shoes,Nike,Apparel & Accessories > Shoes,"00198728791680,00198959523937,00198728785115",IN_STOCK
@@ -903,7 +903,7 @@ Apparel & Accessories,1268,637,VERY_LOW,SINKER,Arena Women's Solid Team Challeng
 Apparel & Accessories,1269,1508,VERY_LOW,FLAT,liiteguard Ultralight Sports socks,Liiteguard,Apparel & Accessories > Clothing > Underwear & Socks > Socks,"05714776003343,05714776003336,05714776003350",IN_STOCK
 Apparel & Accessories,1270,1208,VERY_LOW,FLAT,ONLY Wideleg Trousers Women's Onlmiles WIDE LEG FIT Wideleg Trousers Trousers,ONLY,Apparel & Accessories > Clothing > Pants,"05715950254629,05715948651058,05715948651096",IN_STOCK
 Apparel & Accessories,1271,944,VERY_LOW,FLAT,Pieces Barrel Leg Jeans Women,PIECES,Apparel & Accessories > Clothing > Pants,"05715908846586,05715908846524,05715947693257",IN_STOCK
-Apparel & Accessories,1273,2165,VERY_LOW,FLAT,Men's Asics GT-2000 14,ASICS,Apparel & Accessories > Shoes,"04571633327414,04570158932585,04570158919456",NOT_IN_INVENTORY
+Apparel & Accessories,1273,2165,VERY_LOW,FLAT,Men's Asics GT-2000 14,ASICS,Apparel & Accessories > Shoes,"04571633327414,04570158932585,04570158919456",IN_STOCK
 Apparel & Accessories,1274,858,VERY_LOW,FLAT,The North Face Boys' Zipline Rain Jacket,The North Face,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"00197642747414,00197642747674",NOT_IN_INVENTORY
 Apparel & Accessories,1276,1049,VERY_LOW,FLAT,Men's adidas Fc Copenhagen 26/27 Away Jersey,adidas,Apparel & Accessories > Clothing > Shirts & Tops,"04069993097516,04069993097523,04069993097547",IN_STOCK
 Apparel & Accessories,1277,1399,VERY_LOW,FLAT,adidas Men's VL Court 3.0,adidas,Apparel & Accessories > Shoes,"04067889047027,04067903109878,04067903117521",NOT_IN_INVENTORY
@@ -1004,7 +1004,7 @@ Apparel & Accessories,1431,907,VERY_LOW,FLAT,Baby Joha Wool Mittens,Joha,Apparel
 Apparel & Accessories,1432,3424,VERY_LOW,FLAT,New BALANCE 204L,New Balance,Apparel & Accessories > Shoes,"00198688530220,00198687187500,00198688528548",NOT_IN_INVENTORY
 Apparel & Accessories,1435,2795,VERY_LOW,FLAT,Nike Tiempo Maestro Elite FG Soccer Cleats,Nike,Apparel & Accessories > Shoes,"00198729936578,00198726593965,00198729898838",IN_STOCK
 Apparel & Accessories,1437,497,VERY_LOW,SINKER,ASICS Men's Gel-DS Trainer 14,ASICS,Apparel & Accessories > Shoes,"04571633236433,04571633817502,04573690100689",NOT_IN_INVENTORY
-Apparel & Accessories,1438,195,VERY_LOW,SINKER,Bareen Women's Logo Stretch Long Sleeve,Bareen,Apparel & Accessories > Clothing > Shirts & Tops,"05740027847336,05740027847039,05740027847343",IN_STOCK
+Apparel & Accessories,1438,195,VERY_LOW,SINKER,Bareen Women's Logo Stretch Long Sleeve,Bareen,Apparel & Accessories > Clothing > Shirts & Tops,"05740027847336,05740027847039,05740027847343",NOT_IN_INVENTORY
 Apparel & Accessories,1439,2492,VERY_LOW,FLAT,Weather Report Dayton Wasserdichte Stretch Funktions Parka,Weather Report,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715325322410,05715863360035,05715571578340",NOT_IN_INVENTORY
 Apparel & Accessories,1440,3217,VERY_LOW,FLAT,Lollys Laundry Fairhaven Wool Sweater,Lollys Laundry,Apparel & Accessories > Clothing > Shirts & Tops,"05712793388252,05712793388276,05712793521536",IN_STOCK
 Apparel & Accessories,1441,2300,VERY_LOW,FLAT,Georg Jensen Damask Children's Bathrobe,Georg Jensen,Apparel & Accessories > Clothing > Sleepwear & Loungewear > Robes,"05708150225377,05708150225346,05708150225339",NOT_IN_INVENTORY
@@ -1120,7 +1120,7 @@ Health & Beauty,56,15,HIGH,FLAT,K18 AirWash Dry Shampoo,K18,Health & Beauty > Pe
 Health & Beauty,57,11,HIGH,FLAT,L'Oréal Paris L'Oreal Paris Revitalift Laser Eye Bag Instant Eraser,L'Oréal Paris,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,03600524186234,NOT_IN_INVENTORY
 Health & Beauty,59,137,HIGH,RISER,Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum,Anua,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,08809640739019,OUT_OF_STOCK
 Health & Beauty,60,80,HIGH,RISER,Philips OneBlade Pro,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689027137,IN_STOCK
-Health & Beauty,62,348,HIGH,RISER,RevitaLash Advanced Eyelash Conditioner,RevitaLash,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"00818426021901,00893689001228,00810047210030",IN_STOCK
+Health & Beauty,62,348,HIGH,RISER,RevitaLash Advanced Eyelash Conditioner,RevitaLash,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"00818426021901,00893689001228,00810047210030",OUT_OF_STOCK
 Health & Beauty,63,126,HIGH,RISER,Nutri Color Filters Revlon,Revlon,Health & Beauty > Personal Care > Hair Care > Hair Color,"08007376047136,08007376047235,08007376047013",NOT_IN_INVENTORY
 Health & Beauty,64,44,HIGH,FLAT,Hair mask K18 Molecular Repair,K18,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"00858511001128,00858511001135,00858511001098",NOT_IN_INVENTORY
 Health & Beauty,66,37,HIGH,FLAT,glowie Eyelash serum,glowie,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,05700002303813,NOT_IN_INVENTORY
@@ -1131,7 +1131,7 @@ Health & Beauty,74,34,HIGH,FLAT,Dr.Althea 345 Relief Cream,Dr. Althea,Health & B
 Health & Beauty,78,30,HIGH,FLAT,Clinique Moisture Surge 100H Auto-Replenishing Hydrator,Clinique,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"00192333066911,00192333066928,00192333066935",IN_STOCK
 Health & Beauty,80,52,MEDIUM,FLAT,M2 Beauté Eyelash Activating Serum 4 ml,M2 Beauté,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,04260180219951,NOT_IN_INVENTORY
 Health & Beauty,82,59,MEDIUM,FLAT,Donna Born In Roma Valentino Eau de Parfum,Valentino,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614272761421,03614272761438,03614272761445",IN_STOCK
-Health & Beauty,84,29,MEDIUM,SINKER,The Ordinary Salicylic Acid 2% Solution,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,00769915199581,OUT_OF_STOCK
+Health & Beauty,84,29,MEDIUM,SINKER,The Ordinary Salicylic Acid 2% Solution,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,00769915199581,IN_STOCK
 Health & Beauty,91,32,MEDIUM,SINKER,Prada Paradoxe Eau de Parfum,Prada,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614273760713,03614273760652,03614273760164",IN_STOCK
 Health & Beauty,95,84,MEDIUM,FLAT,Lavinde Copenhagen Beyond Volume & Curl Mascara,LAVINDE COPENHAGEN,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"05714377700016,05700002067333,05714377700023",IN_STOCK
 Health & Beauty,97,162,MEDIUM,FLAT,The Ordinary Multi-Peptide Lash and Brow Serum,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,00769915230420,IN_STOCK
