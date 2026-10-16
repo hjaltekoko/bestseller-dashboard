@@ -210,7 +210,7 @@ Apparel & Accessories,268,156,LOW,SINKER,New BALANCE 204L,New Balance,Apparel & 
 Apparel & Accessories,269,213,LOW,SINKER,Man Jeans Wrangler Texas Stretch,Wrangler,Apparel & Accessories > Clothing > Pants,"05401139441217,05401139208773,05414321894098",IN_STOCK
 Apparel & Accessories,270,331,LOW,FLAT,Bisgaard Kids Ellis Tex Boots,bisgaard,Apparel & Accessories > Shoes,"05715243709812,05714163112931,05715243730274",NOT_IN_INVENTORY
 Apparel & Accessories,271,516,LOW,FLAT,Levi's 501 90s Women's Jeans,Levi’s,Apparel & Accessories > Clothing > Pants,"05401187413532,05401187413662,05401187413525",IN_STOCK
-Apparel & Accessories,272,145,LOW,SINKER,Woman Yas Thela Jacket,Y.A.S,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715912459567,05715907947956,05715907947925",NOT_IN_INVENTORY
+Apparel & Accessories,272,145,LOW,SINKER,Woman Yas Thela Jacket,Y.A.S,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715912459567,05715907947956,05715907947925",IN_STOCK
 Apparel & Accessories,273,275,LOW,FLAT,Children's EN FANT Printed Coverall Chocolate Chip,EN FANT,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Outerwear,"05713438375729,05713438375699,05713438375712",NOT_IN_INVENTORY
 Apparel & Accessories,274,409,LOW,FLAT,ASICS Men's Novablast 5,ASICS,Apparel & Accessories > Shoes,"04570158255486,04571633388491,04571633354687",NOT_IN_INVENTORY
 Apparel & Accessories,275,577,LOW,FLAT,Nike Girls' Pro Shorts,Nike,Apparel & Accessories > Clothing > Shorts,"00194501908115,00194501908108,00199012130567",NOT_IN_INVENTORY
@@ -950,7 +950,7 @@ Apparel & Accessories,1348,2308,VERY_LOW,FLAT,ICHI Women Blazer,Ichi,Apparel & A
 Apparel & Accessories,1350,818,VERY_LOW,FLAT,Women's Noisy May Nmkilah L/S Scarfshirt,Noisy May,Apparel & Accessories > Clothing > Shirts & Tops,"05715998705237,05715998705244,05715998705299",IN_STOCK
 Apparel & Accessories,1351,2009,VERY_LOW,FLAT,Only Jeans 'ONLGIANNA' female blue plain colored,ONLY,Apparel & Accessories > Clothing > Pants,"05715733038101,05715733894509,05715733894448",IN_STOCK
 Apparel & Accessories,1352,1815,VERY_LOW,FLAT,New Balance Men's 574,New Balance,Apparel & Accessories > Shoes,"00198686440088,00198686440040,00198686440057",NOT_IN_INVENTORY
-Apparel & Accessories,1356,1928,VERY_LOW,FLAT,Jjxx Relaxed Fit Shirt Women,Jjxx,Apparel & Accessories > Clothing > Shirts & Tops,"05715905745264,05715913484292,05715913484308",NOT_IN_INVENTORY
+Apparel & Accessories,1356,1928,VERY_LOW,FLAT,Jjxx Relaxed Fit Shirt Women,Jjxx,Apparel & Accessories > Clothing > Shirts & Tops,"05715905745264,05715913484292,05715913484308",IN_STOCK
 Apparel & Accessories,1359,1263,VERY_LOW,FLAT,The North Face Boys' Reversible Perrito Jacket,The North Face,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"00197642736449,00197642736470,00197642736395",NOT_IN_INVENTORY
 Apparel & Accessories,1361,2958,VERY_LOW,FLAT,Kids' Wheat Adi Tech Snowsuit,Wheat,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Outerwear,"05715596064309,05715596922197,05715596064316",NOT_IN_INVENTORY
 Apparel & Accessories,1362,1723,VERY_LOW,FLAT,Nike Women's Air Max 270,Nike,Apparel & Accessories > Shoes,"00887226241888,00198730212876,00198480916239",IN_STOCK
@@ -1144,7 +1144,7 @@ Health & Beauty,115,113,MEDIUM,FLAT,Meraki Hand Soap,Meraki,Health & Beauty > Pe
 Health & Beauty,117,189,MEDIUM,RISER,Philips Nose Trimmer,Philips,Health & Beauty > Personal Care > Shaving & Grooming,"08710103924005,08710103932543,08710103924012",IN_STOCK
 Health & Beauty,121,67,MEDIUM,FLAT,Colour Refresh Maria Nila,Maria Nila,Health & Beauty > Personal Care > Hair Care > Hair Color,"07391681037007,07391681407428,07391681037045",IN_STOCK
 Health & Beauty,122,152,MEDIUM,FLAT,Philips Mg5931/15 Series 5000 All-in-one Trimmer Hair Clipper,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689044356,NOT_IN_INVENTORY
-Health & Beauty,131,122,MEDIUM,FLAT,The Ordinary Multi Peptide Serum for Hair Density,The Ordinary,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,"00769915195910,00769915231915,00769915194647",OUT_OF_STOCK
+Health & Beauty,131,122,MEDIUM,FLAT,The Ordinary Multi Peptide Serum for Hair Density,The Ordinary,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,"00769915195910,00769915231915,00769915194647",IN_STOCK
 Health & Beauty,138,365,MEDIUM,RISER,Valentino Donna Vendetta Eau de Parfum,Valentino,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614274798296,03614274798272,03614274798302",IN_STOCK
 Health & Beauty,139,267,MEDIUM,RISER,Biotherm Deo Pure Antiperspirant Roll-On,Biotherm,Health & Beauty > Personal Care > Deodorant & Anti-Perspirant,03367729018981,IN_STOCK
 Health & Beauty,141,219,MEDIUM,RISER,Gloss Absolu Bain Hydra Glaze Shampoo,Kérastase,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"03474637283452,03474637283384,03474637283414",IN_STOCK
@@ -1215,7 +1215,7 @@ Health & Beauty,309,248,LOW,FLAT,Color Renew Color Depositing mask Semi-permanen
 Health & Beauty,312,835,LOW,RISER,Dyson Airstrait Straightener,Dyson,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Hair Straighteners,"05025155113080,05025155070710,05025155112397",IN_STOCK
 Health & Beauty,313,685,LOW,RISER,Xlash Eyelash Serum,Xlash,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"07350128930783,07350128930806",IN_STOCK
 Health & Beauty,315,227,LOW,FLAT,Olaplex No.3 Plus Complete Repair Treatment,Olaplex,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"00810177860273,00810177860983,00810177860266",IN_STOCK
-Health & Beauty,319,112,LOW,SINKER,The Ordinary Retinol Squalane,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"00769915196009,00769915196016,00769915195996",OUT_OF_STOCK
+Health & Beauty,319,112,LOW,SINKER,The Ordinary Retinol Squalane,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"00769915196009,00769915196016,00769915195996",IN_STOCK
 Health & Beauty,322,343,LOW,FLAT,Lancôme Lancome Idole Lash Lifting Volumizing Mascara,Lancôme,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"03614273078306,03614273066365,03614274306477",IN_STOCK
 Health & Beauty,323,416,LOW,FLAT,ESSIE NAIL POLISH,essie,Health & Beauty > Personal Care > Cosmetics > Nail Care > Nail Polishes,"00000030107205,00000030095526,00000030095434",IN_STOCK
 Health & Beauty,326,254,LOW,FLAT,Clinique Almost Lipstick Honey Pink,Clinique,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup,"00020714004507,00020714782702,00192333300855",IN_STOCK
@@ -1239,7 +1239,7 @@ Health & Beauty,372,124,LOW,SINKER,The Ordinary The Clear Set,The Ordinary,Healt
 Health & Beauty,379,223,LOW,FLAT,Purito Oat In Calming Gel Cream,PURITO,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,08809563101054,IN_STOCK
 Health & Beauty,387,561,LOW,RISER,Philips Shaver Series 3000X,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689019033,NOT_IN_INVENTORY
 Health & Beauty,389,263,LOW,FLAT,NYX Slim Lip Pencil,NYX Professional Makeup,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup,"00800897108205,00800897108120,00800897108106",IN_STOCK
-Health & Beauty,393,354,LOW,FLAT,Hugo Boss Bottled Beyond EDP For Her,HUGO BOSS,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03616307208536,03616307208543,03616307208550",OUT_OF_STOCK
+Health & Beauty,393,354,LOW,FLAT,Hugo Boss Bottled Beyond EDP For Her,HUGO BOSS,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03616307208536,03616307208543,03616307208550",IN_STOCK
 Health & Beauty,394,557,LOW,RISER,Beauty of Joseon Relief Sun Aqua-Fresh,Beauty of Joseon,Health & Beauty > Personal Care > Cosmetics > Skin Care > Sunscreen,08809968130277,NOT_IN_INVENTORY
 Health & Beauty,395,414,LOW,FLAT,Beauté Pacifique Beaute Pacifique Creme Paradoxe Chilean Day Cream 50ml,Beauté Pacifique,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,05705676001188,IN_STOCK
 Health & Beauty,396,175,LOW,FLAT,Medicube Zero Pore Pad 2.0,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents,08800256119066,OUT_OF_STOCK
@@ -1467,7 +1467,7 @@ Health & Beauty,1070,922,VERY_LOW,FLAT,L'Oreal Paris Magic Retouch Spray,L'Oréa
 Health & Beauty,1071,604,VERY_LOW,FLAT,Idole Eau de Parfum Lancome,Lancôme,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614272629370,03614272639638,03614273069175",IN_STOCK
 Health & Beauty,1073,1626,VERY_LOW,FLAT,Beurer EM 49 Electrostimulator,Beurer,Health & Beauty > Health Care > Occupational & Physical Therapy Equipment > Electrical Muscle Stimulators,04211125662059,IN_STOCK
 Health & Beauty,1074,1225,VERY_LOW,FLAT,BaByliss Tight Curls Wand,BaByliss,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Curling Irons,03030050153620,NOT_IN_INVENTORY
-Health & Beauty,1076,1200,VERY_LOW,FLAT,CND RescueRXx Daily Keratin Treatment,CND,Health & Beauty > Personal Care > Cosmetics > Nail Care > Nail Polishes,"00639370907635,00639370907642",OUT_OF_STOCK
+Health & Beauty,1076,1200,VERY_LOW,FLAT,CND RescueRXx Daily Keratin Treatment,CND,Health & Beauty > Personal Care > Cosmetics > Nail Care > Nail Polishes,"00639370907635,00639370907642",IN_STOCK
 Health & Beauty,1077,508,VERY_LOW,SINKER,Maison Margiela Replica Jazz Club Eau de Toilette,Maison Margiela,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614273185868,03605521932105",IN_STOCK
 Health & Beauty,1079,3008,VERY_LOW,FLAT,Merit The Minimalist Foundation and Concealer Perfecting Complexion Stick,Merit Beauty,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00840163402910,00840163402927,00840163402873",IN_STOCK
 Health & Beauty,1080,2342,VERY_LOW,FLAT,MAC Lip Pencil,M·A·C,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup,00773602066407,NOT_IN_INVENTORY
@@ -1509,7 +1509,7 @@ Health & Beauty,1161,1650,VERY_LOW,FLAT,Braun Series 5 Electric Shaver 52-B7000c
 Health & Beauty,1164,1320,VERY_LOW,FLAT,Hourglass Vanish Airbrush Concealer,Hourglass,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00877231009580,00810063696719,00850014440060",IN_STOCK
 Health & Beauty,1165,2985,VERY_LOW,FLAT,COSRX The Peptide Collagen Hydrogel Eye Patch,COSRX,Health & Beauty > Personal Care > Cosmetics > Skin Care > Skin Care Masks & Peels,08809598456983,NOT_IN_INVENTORY
 Health & Beauty,1167,1455,VERY_LOW,FLAT,Olaplex No.4C Bond Maintenance Clarifying Shampoo,Olaplex,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"00850018802581,00850018802710,00850018802765",OUT_OF_STOCK
-Health & Beauty,1170,498,VERY_LOW,SINKER,Beauty of Joseon Glow Replenishing Rice Milk,Beauty of Joseon,Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents,08809968130239,IN_STOCK
+Health & Beauty,1170,498,VERY_LOW,SINKER,Beauty of Joseon Glow Replenishing Rice Milk,Beauty of Joseon,Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents,08809968130239,OUT_OF_STOCK
 Health & Beauty,1171,1560,VERY_LOW,FLAT,Fenty Beauty Gloss Bomb Stix High-Shine Gloss Stick,Fenty Beauty,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup,"00840026678377,00840026683920,00840026668026",IN_STOCK
 Health & Beauty,1175,3225,VERY_LOW,FLAT,Braun Silk-epil 3d Epilator,Braun,Health & Beauty > Personal Care > Shaving & Grooming > Hair Removal > Epilators,"08700216963206,07500435225328",NOT_IN_INVENTORY
 Health & Beauty,1176,1362,VERY_LOW,FLAT,Burberry Goddess Eau de Parfum,Burberry,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,03616302020645,IN_STOCK
@@ -1542,7 +1542,7 @@ Health & Beauty,1216,3513,VERY_LOW,FLAT,Leg strap Select x-fitness dual layer,SE
 Health & Beauty,1217,1667,VERY_LOW,FLAT,Yves Saint Laurent Lash Clash Extreme Volume Mascara,Saint Laurent,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"03614273601092,03614274375596,03614274375602",IN_STOCK
 Health & Beauty,1221,876,VERY_LOW,FLAT,Dior Backstage Glow Maximizer Palette,Dior,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"03348901770552,03348901770576,03348901770590",NOT_IN_INVENTORY
 Health & Beauty,1222,1755,VERY_LOW,FLAT,Huda Beauty Lip Contour Stain,HUDA BEAUTY,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup,"06294018406938,06294018409656,06294018409663",IN_STOCK
-Health & Beauty,1223,1532,VERY_LOW,FLAT,NYX Professional Makeup Ultimate Shadow Palette,NYX Professional Makeup,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"00800897246501,00800897246464,00800897246488",OUT_OF_STOCK
+Health & Beauty,1223,1532,VERY_LOW,FLAT,NYX Professional Makeup Ultimate Shadow Palette,NYX Professional Makeup,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"00800897246501,00800897246464,00800897246488",IN_STOCK
 Health & Beauty,1227,1741,VERY_LOW,FLAT,Nail Lacquer OPI,OPI,Health & Beauty > Personal Care > Cosmetics > Nail Care > Nail Polishes,"00094100005904,00094100000589,04064665021066",NOT_IN_INVENTORY
 Health & Beauty,1228,413,VERY_LOW,SINKER,The Ordinary Natural Moisturizing Factors + Inulin Body Lotion,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,00769915233919,IN_STOCK
 Health & Beauty,1231,1686,VERY_LOW,FLAT,Viktor Rolf Spicebomb Extreme Eau de Parfum,Viktor&Rolf,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614270659652,03614270659706",IN_STOCK
@@ -1779,7 +1779,7 @@ Home & Garden,855,1108,LOW,RISER,Ninja Luxe Café Pro,Ninja,Home & Garden > Kitc
 Home & Garden,861,760,LOW,RISER,Philips handheld steam iron,Philips,Home & Garden > Household Appliances > Laundry Appliances > Garment Steamers,08720389043772,NOT_IN_INVENTORY
 Home & Garden,863,875,LOW,RISER,Kenwood side-by-side ksbsddi26e,Kenwood,Home & Garden > Kitchen & Dining > Kitchen Appliances > Refrigerators,05017416859554,NOT_IN_INVENTORY
 Home & Garden,864,0,LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,DeLonghi Magnifica Evo,De'Longhi,Home & Garden > Kitchen & Dining > Kitchen Appliances > Coffee Makers & Espresso Machines > Espresso Machines,08004399021419,IN_STOCK
-Home & Garden,866,4657,LOW,RISER,Kids National Geographic Gemstone Advent Calendar,National Geographic,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,00810070624101,IN_STOCK
+Home & Garden,866,4657,LOW,RISER,Kids National Geographic Gemstone Advent Calendar,National Geographic,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,00810070624101,NOT_IN_INVENTORY
 Home & Garden,867,755,LOW,RISER,Fågelfors træpiller 8 mm,Microsoft,Home & Garden > Fireplace & Wood Stove Accessories > Firewood & Fuel,,NOT_IN_INVENTORY
 Home & Garden,869,822,LOW,RISER,Forno Spin Gas Pizzaoven 40×40cm,Morsø,Home & Garden > Kitchen & Dining > Kitchen Appliances > Toasters & Grills > Pizza Makers & Ovens,05708722329304,NOT_IN_INVENTORY
 Home & Garden,877,1084,LOW,RISER,Georg Jensen Damask Terry Facecloth,Georg Jensen,Home & Garden > Linens & Bedding > Towels > Bath Towels & Washcloths,"05708150228361,05708150200602,05708150211424",NOT_IN_INVENTORY
@@ -1838,10 +1838,10 @@ Home & Garden,1165,2085,LOW,RISER,Eva Solo Professional Roasting pan with Grid,E
 Home & Garden,1166,1271,LOW,RISER,Shark PowerDetect Speed Luxe Collection ia3246chtiv,Shark,Home & Garden > Household Appliances > Vacuums,"00622356399784,00622356399791,00622356399807",NOT_IN_INVENTORY
 Home & Garden,1167,3966,LOW,RISER,Adventskalender 24er 2026,Maybelline,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,04056048192623,NOT_IN_INVENTORY
 Home & Garden,1172,1633,LOW,RISER,Nordlux Scorpius Outdoor Wall Lamp IP33,Nordlux,Home & Garden > Lighting > Lighting Fixtures > Wall Light Fixtures,"05701581917958,05701581011021,05701581916951",NOT_IN_INVENTORY
-Home & Garden,1183,866,LOW,RISER,Barbour Thornproof Wax Dressing,Barbour,Home & Garden > Household Supplies > Household Cleaning Supplies > Fabric & Upholstery Protectors,00725077002770,OUT_OF_STOCK
+Home & Garden,1183,866,LOW,RISER,Barbour Thornproof Wax Dressing,Barbour,Home & Garden > Household Supplies > Household Cleaning Supplies > Fabric & Upholstery Protectors,00725077002770,IN_STOCK
 Home & Garden,1186,3425,LOW,RISER,National Geographic Dinosaur Advent Calendar,National Geographic,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,00810070622862,NOT_IN_INVENTORY
 Home & Garden,1191,4312,LOW,RISER,Södra Norr træpiller 6 mm 832 kg. Levering til døren. Dag-til-dag levering.,Norr,Home & Garden > Fireplace & Wood Stove Accessories > Firewood & Fuel,,NOT_IN_INVENTORY
-Home & Garden,1198,1657,LOW,RISER,Georg Jensen Bloom Botanica Vase,Georg Jensen,Home & Garden > Decor > Vases,05713275078753,OUT_OF_STOCK
+Home & Garden,1198,1657,LOW,RISER,Georg Jensen Bloom Botanica Vase,Georg Jensen,Home & Garden > Decor > Vases,05713275078753,IN_STOCK
 Home & Garden,1206,2100,LOW,RISER,Rösti Margrethe Bowl Set Units,Rosti Mepal,Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Mixing Bowls,"05722000299363,05722000299332,05722000299349",IN_STOCK
 Home & Garden,1208,471,LOW,FLAT,Royal Copenhagen Iris Shell Dish,Royal Copenhagen,Home & Garden > Kitchen & Dining > Tableware > Dinnerware > Bowls,"05705140758150,05705140758792",IN_STOCK
 Home & Garden,1210,2230,LOW,RISER,Link 1 Meter Track Light,Nordlux,Home & Garden > Lighting > Track Lighting > Track Lighting Rails,"05704924007187,05701581273382,05701581356382",NOT_IN_INVENTORY
