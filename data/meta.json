@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T08:16:04Z",
+  "generated_at": "2026-10-28T08:16:26Z",
   "merchant_report_date": "2026-10-12",
-  "brands": 3665,
-  "in_stock_bestsellers": 2604,
-  "suggestions": 10205,
-  "products": 5529,
-  "priced_brands": 1530,
+  "brands": 3661,
+  "in_stock_bestsellers": 2537,
+  "suggestions": 10227,
+  "products": 5500,
+  "priced_brands": 1531,
   "quality": "ok",
   "quality_reasons": []
 }
