@@ -254,7 +254,7 @@ Apparel & Accessories,378,1091,LOW,RISER,Boys The North Face Never Stop Syntheti
 Apparel & Accessories,380,397,LOW,RISER,Kids Mikk-Line Leo Uni Snow Pant AOP,Mikk-Line,Apparel & Accessories > Clothing > Outerwear > Snow Pants & Suits,"05715073623791,05715073623746,05715073623753",NOT_IN_INVENTORY
 Apparel & Accessories,382,292,LOW,FLAT,Baby Joha Cardigan,Joha,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops,"05715346032558,05705492328353,05715346032572",NOT_IN_INVENTORY
 Apparel & Accessories,383,335,LOW,FLAT,Levi's Women's 501 90s Jeans,Levi’s,Apparel & Accessories > Clothing > Pants,"05401187413525,05401187413532,05401187413556",IN_STOCK
-Apparel & Accessories,384,148,LOW,FLAT,Kids Bundgaard Bloom,Bundgaard,Apparel & Accessories > Shoes,"05711875824077,05711875824091,05711875824084",IN_STOCK
+Apparel & Accessories,384,148,LOW,FLAT,Kids Bundgaard Bloom,Bundgaard,Apparel & Accessories > Shoes,"05711875824077,05711875824091,05711875824084",OUT_OF_STOCK
 Apparel & Accessories,385,300,LOW,FLAT,Viking Track Mid WP 2V Baby,Viking Footwear,Apparel & Accessories > Shoes,"07054978217246,07054978217239,07054978217215",IN_STOCK
 Apparel & Accessories,386,204,LOW,FLAT,Christmas pyjamas Name It for Kids,NAME IT,Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Sleepwear,"05715914249678,05715914249555,05715914201508",NOT_IN_INVENTORY
 Apparel & Accessories,388,354,LOW,FLAT,Kids Bisgaard Eddie Snow Boots,bisgaard,Apparel & Accessories > Shoes,"05715243455238,05715243455108,05715243455153",IN_STOCK
@@ -632,7 +632,7 @@ Apparel & Accessories,1008,856,VERY_LOW,FLAT,Nike Mercurial Superfly 10 Academy,
 Apparel & Accessories,1009,895,VERY_LOW,FLAT,Girl Hummel Leaf Tex Coat,Hummel,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715819546230,05715819546353,05700498161775",NOT_IN_INVENTORY
 Apparel & Accessories,1013,500,VERY_LOW,FLAT,adidas Adistar Control 5,adidas,Apparel & Accessories > Shoes,"04068812055874,04068815837699,04068814333307",NOT_IN_INVENTORY
 Apparel & Accessories,1016,1491,VERY_LOW,FLAT,Man Jack & Jones Quilted Jacket,JACK & JONES,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715309904007,05715427510203,05715724889811",NOT_IN_INVENTORY
-Apparel & Accessories,1018,1154,VERY_LOW,FLAT,Mos Mosh Mmnova Winter coat Women's,Mos Mosh,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715591474875,05715591481408,05715591474882",NOT_IN_INVENTORY
+Apparel & Accessories,1018,1154,VERY_LOW,FLAT,Mos Mosh Mmnova Winter coat Women's,Mos Mosh,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715591474875,05715591481408,05715591474882",IN_STOCK
 Apparel & Accessories,1019,505,VERY_LOW,FLAT,adidas Kids F50 Hyperfast Elite Laceless FG Soccer Cleats,adidas,Apparel & Accessories > Shoes,"04068818075326,04069989082670,04068818075333",NOT_IN_INVENTORY
 Apparel & Accessories,1021,347,VERY_LOW,SINKER,Jbs Socks male,JBS,Apparel & Accessories > Clothing > Underwear & Socks > Socks,"05709405503745,05709405503738,05709405503752",IN_STOCK
 Apparel & Accessories,1022,680,VERY_LOW,FLAT,Kids Melton Textured slippers,Melton,Apparel & Accessories > Shoes,"05712644962198,05712644549399,05712644962037",IN_STOCK
@@ -1246,7 +1246,7 @@ Apparel & Accessories,2098,2197,VERY_LOW,FLAT,Nike Women's Shox Z,Nike,Apparel &
 Apparel & Accessories,2100,2082,VERY_LOW,FLAT,Liiteguard Running Gloves 2in1,Liiteguard,Apparel & Accessories > Clothing Accessories > Gloves & Mittens,"05714776011577,05714776011560,05714776017807",NOT_IN_INVENTORY
 Apparel & Accessories,2101,1415,VERY_LOW,FLAT,Mos Mosh Nova Square Down Coat Kvinder,Mos Mosh,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,,NOT_IN_INVENTORY
 Apparel & Accessories,2102,2452,VERY_LOW,FLAT,The North Face Women's Hydrenalite City Long Down Hooded Parka,The North Face,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"00197804089918,00197804089772,00197804114429",IN_STOCK
-Apparel & Accessories,2104,3014,VERY_LOW,FLAT,Bundgaard Mio Baby,Bundgaard,Apparel & Accessories > Shoes,"05711875813187,05711875813316,05711875771371",IN_STOCK
+Apparel & Accessories,2104,3014,VERY_LOW,FLAT,Bundgaard Mio Baby,Bundgaard,Apparel & Accessories > Shoes,"05711875813187,05711875813316,05711875771371",OUT_OF_STOCK
 Apparel & Accessories,2105,793,VERY_LOW,FLAT,Asics Gel-Nunobiki,ASICS,Apparel & Accessories > Shoes,"04571633840852,04571633840722,04571633825842",NOT_IN_INVENTORY
 Apparel & Accessories,2106,1220,VERY_LOW,FLAT,Nike Kids' Grade School P-6000 Shoes,Nike,Apparel & Accessories > Shoes,"00198961616740,00198961472230,00198961628651",NOT_IN_INVENTORY
 Apparel & Accessories,2107,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Hummel Gradient Skirty Long Sleeve Leotard,Hummel,Apparel & Accessories > Clothing > Skirts,"05715917218589,05715917218619,05715917218596",NOT_IN_INVENTORY
@@ -2948,7 +2948,7 @@ Baby & Toddler,314,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Liewo
 Baby & Toddler,322,184,VERY_LOW,SINKER,Bugaboo Thermolite Performance Footmuff,Bugaboo,Baby & Toddler > Baby Transport Accessories > Baby Transport Liners & Sacks,"08717447191186,08717447622727,08717447327219",NOT_IN_INVENTORY
 Baby & Toddler,329,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Konges Sløjd Konges 3 Pack Muslin Cloth,Konges Sløjd,Baby & Toddler > Diapering > Diapers,"05715404228091,05715681334836,05715681334850",IN_STOCK
 Baby & Toddler,331,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Bugaboo Fox Cameleon High Performance Rain Cover,Bugaboo,Baby & Toddler > Baby Transport Accessories > Baby Stroller Accessories,08717447087960,IN_STOCK
-Baby & Toddler,333,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Sebra Woodland Activity Panel Wooden,Sebra,Baby & Toddler > Baby Toys & Activity Equipment > Baby Activity Toys,05704680070814,OUT_OF_STOCK
+Baby & Toddler,333,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Sebra Woodland Activity Panel Wooden,Sebra,Baby & Toddler > Baby Toys & Activity Equipment > Baby Activity Toys,05704680070814,IN_STOCK
 Baby & Toddler,334,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips Avent Reusable Breast Milk Storage Cups,Avent,Baby & Toddler > Nursing & Feeding > Breast Milk Storage Containers,"08710103671657,08710103671688",IN_STOCK
 Baby & Toddler,339,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,BIBS Baby on the Way,BIBS,Baby & Toddler > Baby Health > Pacifiers & Teethers,05713795274710,NOT_IN_INVENTORY
 Baby & Toddler,348,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Name It Pure Cashmere Yvetti 3-pack Scarf Bib Noos,NAME IT,Baby & Toddler > Nursing & Feeding,05715670052062,NOT_IN_INVENTORY
@@ -2962,7 +2962,7 @@ Health & Beauty,4,4,VERY_HIGH,FLAT,Eyelash Growth Serum,Sanzi Beauty,Health & Be
 Health & Beauty,7,11,VERY_HIGH,RISER,Celimax The Vita A Retinal Shot Tightening Booster,Celimax,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,08809700320812,IN_STOCK
 Health & Beauty,10,14,HIGH,FLAT,Kérastase Nutritive 8H Magic Night Serum,Kérastase,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,"03474637269111,03474637155025,03474636721832",IN_STOCK
 Health & Beauty,19,15,HIGH,FLAT,Medicube PDRN Pink Collagen Volume Multi Balm,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"08800366241305,08800289467707",IN_STOCK
-Health & Beauty,22,20,HIGH,FLAT,Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum,Anua,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,08809640739019,IN_STOCK
+Health & Beauty,22,20,HIGH,FLAT,Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum,Anua,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,08809640739019,OUT_OF_STOCK
 Health & Beauty,27,45,HIGH,FLAT,Colour Refresh Maria Nila,Maria Nila,Health & Beauty > Personal Care > Hair Care > Hair Color,"07391681037007,07391681407398,07391681407411",IN_STOCK
 Health & Beauty,29,28,HIGH,FLAT,K18 AirWash Dry Shampoo,K18,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,00858511000817,IN_STOCK
 Health & Beauty,30,25,HIGH,FLAT,Dr.Althea 345 Relief Cream,Dr. Althea,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,08809447256221,IN_STOCK
@@ -3055,7 +3055,7 @@ Health & Beauty,283,308,LOW,FLAT,The Ordinary Natural Moisturizing Factors + HA,
 Health & Beauty,286,245,LOW,SINKER,4HIM TestoBalance 60 stk tabletter,New Nordic,Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements,07350153340304,NOT_IN_INVENTORY
 Health & Beauty,287,169,LOW,SINKER,ANUA Heartleaf Quercetinol Pore Deep Cleansing Foam,Anua,Health & Beauty > Personal Care > Cosmetics > Skin Care > Facial Cleansers,"08809640735622,08809640734427,08809640738296",IN_STOCK
 Health & Beauty,292,279,LOW,FLAT,Cosmic Kylie Jenner Eau de Parfum,Kylie Cosmetics,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"04064941116219,04064941111504,04064941111719",IN_STOCK
-Health & Beauty,296,304,LOW,FLAT,Medicube Zero Pore Pad 2.0,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents,08800256119066,OUT_OF_STOCK
+Health & Beauty,296,304,LOW,FLAT,Medicube Zero Pore Pad 2.0,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Toners & Astringents,08800256119066,IN_STOCK
 Health & Beauty,298,252,LOW,SINKER,ESSIE NAIL POLISH,essie,Health & Beauty > Personal Care > Cosmetics > Nail Care > Nail Polishes,"00000030095519,00000030095526,00000030095793",IN_STOCK
 Health & Beauty,300,324,LOW,FLAT,AESTURA Atobarrier 365 Cream,Aestura,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"08809925181717,08809013342402",NOT_IN_INVENTORY
 Health & Beauty,303,391,LOW,FLAT,L'oréal Paris Elvital Growth Booster Hair Serum Against Hair Loss,L'Oréal Paris,Health & Beauty > Personal Care > Hair Care > Hair Loss Treatments,03600524222963,NOT_IN_INVENTORY
@@ -3075,7 +3075,7 @@ Health & Beauty,338,272,LOW,SINKER,Kerastase Elixir Ultime L'Huile Oil,Kérastas
 Health & Beauty,341,128,LOW,SINKER,MEDICUBE Collagen Jelly Cream,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"08800256119004,08800256112227,08800256118991",IN_STOCK
 Health & Beauty,343,280,LOW,FLAT,Uomo Born In Roma Valentino Eau de Toilette,Valentino,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614272761452,03614272761469,03614274632811",IN_STOCK
 Health & Beauty,344,443,LOW,FLAT,Excellence L'oreal Creme Permanent Hair,L'Oréal Paris,Health & Beauty > Personal Care > Hair Care > Hair Color,"05703147063444,05703147063482,05703147063451",NOT_IN_INVENTORY
-Health & Beauty,346,290,LOW,FLAT,Medicube Zero Pore Blackhead Mud Mask,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Skin Care Masks & Peels,08800289474880,IN_STOCK
+Health & Beauty,346,290,LOW,FLAT,Medicube Zero Pore Blackhead Mud Mask,Medicube,Health & Beauty > Personal Care > Cosmetics > Skin Care > Skin Care Masks & Peels,08800289474880,OUT_OF_STOCK
 Health & Beauty,349,323,LOW,FLAT,BARK DNA Brow Styling Gel,BARK™DNA,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,05744005950131,IN_STOCK
 Health & Beauty,357,160,LOW,SINKER,Armani I Will Eau de Parfum,Armani,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614274492170,03614274578690,03614274578683",IN_STOCK
 Health & Beauty,360,374,LOW,FLAT,Kérastase Magic Night Spring Coffret,Kérastase,Health & Beauty > Personal Care > Hair Care > Hair Care Kits,03474637353780,NOT_IN_INVENTORY
@@ -3318,7 +3318,7 @@ Health & Beauty,1095,984,VERY_LOW,FLAT,Kérastase Gloss Absolu Insta Glaze Condi
 Health & Beauty,1096,1284,VERY_LOW,FLAT,GHD Platinum+ Styler,ghd,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Hair Straighteners,"05060777128265,05060777128364,05060777128418",IN_STOCK
 Health & Beauty,1097,1070,VERY_LOW,FLAT,Babyliss Hair Dryer D570DE,BaByliss,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Hair Dryers,03030050153378,NOT_IN_INVENTORY
 Health & Beauty,1100,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,L'Oréal Professionnel Tecni Art Fix Design Spray 200ml,L'Oréal Paris,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,00000030160002,IN_STOCK
-Health & Beauty,1104,1480,VERY_LOW,FLAT,Dyson Supersonic Nural Hair Dryer,Dyson,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Hair Dryers,"05025155118245,05025155112328,05025155120538",OUT_OF_STOCK
+Health & Beauty,1104,1480,VERY_LOW,FLAT,Dyson Supersonic Nural Hair Dryer,Dyson,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Hair Dryers,"05025155118245,05025155112328,05025155120538",IN_STOCK
 Health & Beauty,1106,1036,VERY_LOW,FLAT,New Nordic Gastro Gel Food Supplement Natural Acid Relief 60 pills,New Nordic,Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements,05021807453733,NOT_IN_INVENTORY
 Health & Beauty,1107,1287,VERY_LOW,FLAT,Libre Intense Eau de Parfum Yves Saint Laurent,Saint Laurent,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614273069533,03614273069557,03614274479720",IN_STOCK
 Health & Beauty,1108,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Volume Conditioner Lowengrip Build&Bounce Thickening Conditioner,Löwengrip,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,07350073863358,IN_STOCK
@@ -3359,7 +3359,7 @@ Health & Beauty,1202,1702,VERY_LOW,FLAT,"L""Oreal Paris True Match Lumi Glotion 
 Health & Beauty,1204,1049,VERY_LOW,FLAT,Nilens Jord Greatest Hits Gaveæske,Nilens Jord,Health & Beauty > Personal Care > Cosmetics > Skin Care,05709994027707,IN_STOCK
 Health & Beauty,1207,1301,VERY_LOW,FLAT,Olaplex No.4C Bond Maintenance Clarifying Shampoo,Olaplex,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"00850018802581,00810177860440,00850018802710",NOT_IN_INVENTORY
 Health & Beauty,1210,1275,VERY_LOW,FLAT,Maybelline Fit Me Matte + Poreless Powder,Maybelline,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,00041554083408,NOT_IN_INVENTORY
-Health & Beauty,1211,959,VERY_LOW,FLAT,NYX Professional Makeup NYX Professional Buttermelt Bronzer,NYX Professional Makeup,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00800897254698,00800897254735,00800897254704",IN_STOCK
+Health & Beauty,1211,959,VERY_LOW,FLAT,NYX Professional Makeup NYX Professional Buttermelt Bronzer,NYX Professional Makeup,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00800897254698,00800897254735,00800897254704",OUT_OF_STOCK
 Health & Beauty,1212,1098,VERY_LOW,FLAT,The Ordinary Natural Moisturizing Factors + Inulin Body Lotion,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,00769915233919,IN_STOCK
 Health & Beauty,1215,980,VERY_LOW,FLAT,L'Oréal Elvive Glycolic Gloss Shampoo,L'Oréal Paris,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"03600524127947,03600524230678,03600524230685",NOT_IN_INVENTORY
 Health & Beauty,1216,1183,VERY_LOW,FLAT,Dior Backstage Glow Maximizer Palette,Dior,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"03348901770552,03348901770576,03348901770569",NOT_IN_INVENTORY
@@ -3566,7 +3566,6 @@ Health & Beauty,1809,2172,VERY_LOW,FLAT,Redken Amino Mint Shampoo,Redken,Health 
 Health & Beauty,1810,1509,VERY_LOW,FLAT,Anti-Yellow Conditioner - Ida Warg Silver Conditioner,IDA WARG Beauty,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,07340074775170,IN_STOCK
 Health & Beauty,1811,1657,VERY_LOW,FLAT,Miu Miu Miutine Eau de Parfum,Miu Miu,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614274569155,03614274569148,03614274569131",IN_STOCK
 Health & Beauty,1813,1842,VERY_LOW,FLAT,The Ordinary Multi-Peptide + HA Serum,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"00769915231885,00769915231892",IN_STOCK
-Health & Beauty,1814,2684,VERY_LOW,FLAT,Gun-Britt Dry Texture Cream 100 ml,Gun-Britt,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,05708176567505,IN_STOCK
 Health & Beauty,1818,2948,VERY_LOW,FLAT,Innersense I Create Curl Memory,Innersense Organic Beauty,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,"00810121310878,00810121310892,00810121311752",IN_STOCK
 Health & Beauty,1821,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Holger Wax Tromborg,Tromborg,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,05704904781182,IN_STOCK
 Health & Beauty,1825,1180,VERY_LOW,FLAT,Azzaro The Most Wanted Parfum,Azzaro,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,03614273638869,NOT_IN_INVENTORY
@@ -3821,7 +3820,6 @@ Health & Beauty,2528,2752,VERY_LOW,FLAT,SOME BY MI AHA BHA PHA 30 Days Miracle A
 Health & Beauty,2531,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Depend Cosmetic Gel iQ Remover Oil Method 1,Depend,Health & Beauty > Personal Care > Cosmetics > Nail Care > Nail Polish Removers,07040442903005,IN_STOCK
 Health & Beauty,2533,2052,VERY_LOW,FLAT,Beurer BC 27 Blood Pressure Monitor,Beurer,Health & Beauty > Health Care > Biometric Monitors > Blood Pressure Monitors,04211125659042,NOT_IN_INVENTORY
 Health & Beauty,2534,2174,VERY_LOW,FLAT,Lancome Bi Facil,Lancôme,Health & Beauty > Personal Care > Cosmetics > Skin Care > Makeup Removers,"00000030148130,03147758030334",IN_STOCK
-Health & Beauty,2537,3357,VERY_LOW,FLAT,Milk Makeup Matte Bronzer Stick,Milk Makeup,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00840157414868,00840157414851,00840157414844",IN_STOCK
 Health & Beauty,2538,777,VERY_LOW,SINKER,Madagascar Centella Light Cleansing Oil SKIN1004,Skin1004,Health & Beauty > Personal Care > Cosmetics > Skin Care > Facial Cleansers,"08809576261110,08809913830481,08809913831150",IN_STOCK
 Health & Beauty,2545,2256,VERY_LOW,FLAT,Maybelline Super Stay Lumi-Matte Foundation,Maybelline,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"03600531691974,03600531691899,03600531691929",IN_STOCK
 Health & Beauty,2548,2027,VERY_LOW,FLAT,Nilens Jord Tinted Day Cream 30 ml,Nilens Jord,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"05709994020517,05709994011294,05709994013854",IN_STOCK
@@ -3939,7 +3937,7 @@ Health & Beauty,2832,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Per
 Health & Beauty,2833,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Mason Pearson Pocket Bristle & Nylon Brush,Mason Pearson,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes,"05014516001241,05014516005249,05014516004242",IN_STOCK
 Health & Beauty,2835,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Maria Nila Structure Repair Shampoo,Maria Nila,Health & Beauty > Personal Care > Hair Care > Shampoo & Conditioner,"07391681036000,07391681036031,07391681036055",IN_STOCK
 Health & Beauty,2836,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,The Ordinary Rice Lipids + Ectoin Microemulsion,The Ordinary,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"00769915236743,00769915236415",IN_STOCK
-Health & Beauty,2837,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,L Oreal Volume Million Lashes Mascara,L'Oréal Paris,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"03600521821152,03600521846292",IN_STOCK
+Health & Beauty,2837,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,L Oreal Volume Million Lashes Mascara,L'Oréal Paris,Health & Beauty > Personal Care > Cosmetics > Makeup > Eye Makeup,"03600521821152,03600521846292",OUT_OF_STOCK
 Health & Beauty,2841,2150,VERY_LOW,FLAT,Clarins Double Serum Foundation,Clarins,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"03666057362668,03666057362606,03666057362620",IN_STOCK
 Health & Beauty,2847,2255,VERY_LOW,FLAT,Hermes Terre D'Hermes Eau de Toilette Spray,Hermès,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03346130009603,03346130009610,03346131400041",IN_STOCK
 Health & Beauty,2848,1466,VERY_LOW,FLAT,Laneige Lip Sleeping Mask,LANEIGE,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lip Balms & Treatments,"08809803532549,08809925200029,08800283638578",IN_STOCK
@@ -4123,7 +4121,7 @@ Health & Beauty,3312,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Hai
 Health & Beauty,3314,3028,VERY_LOW,FLAT,Charlotte Tilbury Mini Airbrush Flawless Finish Setting Powder,Charlotte Tilbury,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"05056446644525,05056446644556,05056446644532",NOT_IN_INVENTORY
 Health & Beauty,3316,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Sanzi Beauty Gua Sha,Sanzi Beauty,Health & Beauty > Personal Care > Cosmetics > Cosmetic Tools > Skin Care Tools,"05745000386239,05745000386253",IN_STOCK
 Health & Beauty,3318,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Jean Paul Gaultier Le Male Deodorant Stick,Jean Paul Gaultier,Health & Beauty > Personal Care > Deodorant & Anti-Perspirant,08435415060400,IN_STOCK
-Health & Beauty,3320,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Baby Cheeks Blush Stick Westman Atelier,Westman-Atelier,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00810102032881,00810102030139",IN_STOCK
+Health & Beauty,3320,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Baby Cheeks Blush Stick Westman Atelier,Westman-Atelier,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"00810102032881,00810102030139",OUT_OF_STOCK
 Health & Beauty,3322,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Medicube Zero Pore Pad 2.0 (70 stk) - Makeup lagersalg,Medicube,Health & Beauty > Personal Care > Cotton Balls,08800256119066,NOT_IN_INVENTORY
 Health & Beauty,3324,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Centellian24 Madeca Cream Time Reverse Zero,Centellian24,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,"08806109105385,08806109105392",IN_STOCK
 Health & Beauty,3325,2629,VERY_LOW,FLAT,Giorgio Armani Emporio Armani Eau de Parfum Spray,Armani,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614274222135,03614273070256",IN_STOCK
@@ -4205,7 +4203,7 @@ Home & Garden,9,6,VERY_HIGH,RISER,LEGO City Advent Calendar 2026,LEGO,Home & Gar
 Home & Garden,10,24,VERY_HIGH,RISER,Stanley Transit FlipTop Mug,Stanley,Home & Garden > Kitchen & Dining > Food & Beverage Carriers,"01210001906730,01200185029776,01210001906617",IN_STOCK
 Home & Garden,14,32,VERY_HIGH,RISER,Summerbird Èdition Noël Calendar,Summerbird,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,05709451045206,IN_STOCK
 Home & Garden,15,18,VERY_HIGH,RISER,Køb Kenwood mikroovn k17msb21e på tilbud,Kenwood,Home & Garden > Kitchen & Dining > Kitchen Appliances > Microwave Ovens,05017416799294,NOT_IN_INVENTORY
-Home & Garden,17,13,HIGH,FLAT,Rituals Classic Advent Calendar,Rituals,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,08719134219333,IN_STOCK
+Home & Garden,17,13,HIGH,FLAT,Rituals Classic Advent Calendar,Rituals,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,08719134219333,NOT_IN_INVENTORY
 Home & Garden,21,35,HIGH,FLAT,Philips Ep2220/10 Superautomatic Coffee Machine,Philips,Home & Garden > Kitchen & Dining > Kitchen Appliances > Coffee Makers & Espresso Machines > Espresso Machines,08710103877424,NOT_IN_INVENTORY
 Home & Garden,24,25,HIGH,FLAT,Georg Jensen 2026 Christmas Mobile,Georg Jensen,Home & Garden > Decor > Seasonal & Holiday Decorations > Holiday Ornaments,05713275276425,IN_STOCK
 Home & Garden,25,38,HIGH,FLAT,Georg Jensen Damask Terry towel,Georg Jensen,Home & Garden > Linens & Bedding > Towels > Bath Towels & Washcloths,"05708150221850,05708150200565,05708150194772",NOT_IN_INVENTORY
@@ -4749,7 +4747,7 @@ Home & Garden,2461,2008,VERY_LOW,FLAT,Bodum Travel Mug,BODUM,Home & Garden > Kit
 Home & Garden,2464,4559,VERY_LOW,FLAT,Soap Dispenser Vipp,Vipp,Home & Garden > Bathroom Accessories > Soap & Lotion Dispensers,"05705953090300,05705953090409,05705953204158",IN_STOCK
 Home & Garden,2465,4315,VERY_LOW,FLAT,Eva Trio Multi Frying pan,Eva Solo,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Cookware > Skillets & Frying Pans,"05706631282239,05706631282222",IN_STOCK
 Home & Garden,2470,3245,VERY_LOW,FLAT,Dyson V16 Piston Animal Handheld Vacuum Cleaner,Dyson,Home & Garden > Household Appliances > Vacuums,05025155114834,IN_STOCK
-Home & Garden,2471,2743,VERY_LOW,FLAT,Eva Solo Professional Rye Bread Tin 3 L 211122,Eva Solo,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Bakeware > Bread Pans & Molds,05706631228244,IN_STOCK
+Home & Garden,2471,2743,VERY_LOW,FLAT,Eva Solo Professional Rye Bread Tin 3 L 211122,Eva Solo,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Bakeware > Bread Pans & Molds,05706631228244,OUT_OF_STOCK
 Home & Garden,2491,4094,VERY_LOW,FLAT,KitchenAid Artisan Food Processor with 5KSM125EAC Basic Kit,KitchenAid,Home & Garden > Kitchen & Dining > Kitchen Appliances > Food Mixers & Blenders,05413184200794,IN_STOCK
 Home & Garden,2495,3436,VERY_LOW,FLAT,Gastrotools The Complete 5-ply Set,Gastrotools,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Cookware > Cookware Sets,05745001431044,NOT_IN_INVENTORY
 Home & Garden,2497,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips Master Value Dimmable LED 11.2W Frosted E27 GLS/A60,Philips,Home & Garden > Lighting > Light Bulbs,08719514347946,NOT_IN_INVENTORY
@@ -4848,7 +4846,7 @@ Home & Garden,2942,2693,VERY_LOW,FLAT,Legio Nova bowl set 3 pcs. 0.25 + 0.5 + 1.
 Home & Garden,2945,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Joha Wool wash detergent,Joha,Home & Garden > Household Supplies > Laundry Supplies > Laundry Detergent,05703059630420,NOT_IN_INVENTORY
 Home & Garden,2946,3146,VERY_LOW,FLAT,Smeg Multiuse Grill 50's Style Gloss,Smeg,Home & Garden > Kitchen & Dining > Kitchen Appliances > Toasters & Grills,"08017709354329,08017709354312,08017709354282",NOT_IN_INVENTORY
 Home & Garden,2957,5362,VERY_LOW,FLAT,EDGY knagerække i træ | Karamel med messing knager | 60 cm - 6 knager,Nordal,Home & Garden > Decor > Coat & Hat Racks,,NOT_IN_INVENTORY
-Home & Garden,2966,2799,VERY_LOW,FLAT,Mill & Mortar Organic Spice Advent Calendar in Wooden Chest,Mill & Mortar,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,05710175300274,IN_STOCK
+Home & Garden,2966,2799,VERY_LOW,FLAT,Mill & Mortar Organic Spice Advent Calendar in Wooden Chest,Mill & Mortar,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,05710175300274,OUT_OF_STOCK
 Home & Garden,2968,3087,VERY_LOW,FLAT,Fellow Aiden Precision Coffee Maker,Fellow,Home & Garden > Kitchen & Dining > Kitchen Appliances > Coffee Makers & Espresso Machines > Drip Coffee Makers,01230000155977,NOT_IN_INVENTORY
 Home & Garden,2969,2753,VERY_LOW,FLAT,Royal Copenhagen Alfabet Højhankskop 33 cl,Royal Copenhagen,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,"05705140757986,05705140757993",IN_STOCK
 Home & Garden,2973,2205,VERY_LOW,FLAT,Gold Quality Leather Grease,Sika,Home & Garden > Household Supplies > Shoe Care & Tools,05706979008027,IN_STOCK
@@ -5004,7 +5002,7 @@ Home & Garden,3675,3277,VERY_LOW,FLAT,Philips STH7060/80 Portable Hand Iron 7000
 Home & Garden,3683,3722,VERY_LOW,FLAT,Mixed Mallows Julekalender 2026,The Mallows,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,,NOT_IN_INVENTORY
 Home & Garden,3690,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Stanley Café-To-Go Travel Mug,Stanley,Home & Garden > Kitchen & Dining > Food & Beverage Carriers,"01200185069864,01210001906853,01210001965133",NOT_IN_INVENTORY
 Home & Garden,3692,5768,VERY_LOW,FLAT,Eva Solo Eva Trio Professional Frying Pan 20 cm Slip-Let Laser Titanium,Eva Solo,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Cookware > Skillets & Frying Pans,"05706631277280,05706631277266,05706631277273",NOT_IN_INVENTORY
-Home & Garden,3699,1212,VERY_LOW,FLAT,Sebra Bed Canopy,Sebra,Home & Garden > Linens & Bedding > Bedding > Bed Canopies,"05704680069672,05704680069658,05704680059246",OUT_OF_STOCK
+Home & Garden,3699,1212,VERY_LOW,FLAT,Sebra Bed Canopy,Sebra,Home & Garden > Linens & Bedding > Bedding > Bed Canopies,"05704680069672,05704680069658,05704680059246",IN_STOCK
 Home & Garden,3701,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Ib Laursen Christmas Candle,Ib Laursen,Home & Garden > Decor > Home Fragrances > Candles,05709898365554,NOT_IN_INVENTORY
 Home & Garden,3706,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Bodum Rejsekrus 35 cl Rustfrit stål/plastik,BODUM,Home & Garden > Kitchen & Dining > Food & Beverage Carriers,00699965660758,NOT_IN_INVENTORY
 Home & Garden,3709,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Spiegelau ølglas med gravering - Eget foto,Spiegelau,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Beer Glasses,,NOT_IN_INVENTORY
@@ -5170,7 +5168,7 @@ Home & Garden,4454,5044,VERY_LOW,FLAT,Verpan VP Globe Pendant,Verpan,Home & Gard
 Home & Garden,4460,4774,VERY_LOW,FLAT,Fritz Hansen Kaiser Idell Luxus Table Lamp,Republic of Fritz Hansen,Home & Garden > Lighting > Lamps,"05702377209080,05702377014080,05702370000653",IN_STOCK
 Home & Garden,4466,2386,VERY_LOW,FLAT,Ninja AutoBarista Pro Fully Automatic Espresso Machine,Ninja,Home & Garden > Kitchen & Dining > Kitchen Appliances > Coffee Makers & Espresso Machines > Espresso Machines,00622356363433,NOT_IN_INVENTORY
 Home & Garden,4484,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips HR1501/00 Electric food chopper 1 L 450 W Black,Philips,Home & Garden > Kitchen & Dining > Kitchen Appliances > Food Mixers & Blenders,08720389066535,NOT_IN_INVENTORY
-Home & Garden,4486,3921,VERY_LOW,FLAT,Georg Jensen Bernadotte Vase,Georg Jensen,Home & Garden > Decor > Vases,05713275065814,IN_STOCK
+Home & Garden,4486,3921,VERY_LOW,FLAT,Georg Jensen Bernadotte Vase,Georg Jensen,Home & Garden > Decor > Vases,05713275065814,OUT_OF_STOCK
 Home & Garden,4505,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Humdakin Knitted Dishcloth,HUMDAKIN,Home & Garden > Linens & Bedding > Towels > Kitchen Towels,"05713391015588,05713391026959,05713391025648",IN_STOCK
 Home & Garden,4508,4249,VERY_LOW,FLAT,HAY Nelson Saucer Bubble Pendant,HAY,Home & Garden > Lighting > Lighting Fixtures > Ceiling Light Fixtures,"05710441275022,05710441275039,05710441275046",IN_STOCK
 Home & Garden,4510,3355,VERY_LOW,FLAT,KitchenAid Artisan Stand Mixer,KitchenAid,Home & Garden > Kitchen & Dining > Kitchen Appliances > Food Mixers & Blenders,"05413184400286,05413184601676,05413184120634",IN_STOCK
