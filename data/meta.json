@@ -1,14 +1,11 @@
 {
-  "generated_at": "2026-11-09T08:16:16Z",
+  "generated_at": "2026-11-10T08:16:15Z",
   "merchant_report_date": "2026-10-19",
-  "brands": 3575,
-  "in_stock_bestsellers": 0,
-  "suggestions": 13194,
-  "products": 4988,
+  "brands": 3574,
+  "in_stock_bestsellers": 2200,
+  "suggestions": 10840,
+  "products": 5406,
   "priced_brands": 1519,
-  "quality": "rejected",
-  "quality_reasons": [
-    "Merchant Center reports zero in-stock bestsellers",
-    "in-stock bestsellers fell from 2293 to 0 (less than half of the last good run on 2026-11-08)"
-  ]
+  "quality": "ok",
+  "quality_reasons": []
 }
