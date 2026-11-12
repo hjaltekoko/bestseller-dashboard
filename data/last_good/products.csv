@@ -1776,7 +1776,7 @@ Apparel & Accessories,3056,3879,VERY_LOW,FLAT,Vero Moda Trousers Women's Vmnova 
 Apparel & Accessories,3057,1615,VERY_LOW,FLAT,Birkenstock Women's Boston Braided Suede,Birkenstock,Apparel & Accessories > Shoes,"04066648075790,04066648075837,04066648075707",NOT_IN_INVENTORY
 Apparel & Accessories,3059,2046,VERY_LOW,FLAT,Vero Moda dame jumpsuit VMMILLAS,Vero Moda,Apparel & Accessories > Clothing > One-Pieces > Jumpsuits & Rompers,"05715825184372,05715825185485,05715825184334",NOT_IN_INVENTORY
 Apparel & Accessories,3060,2525,VERY_LOW,FLAT,Crocs Women's Classic Platform Clog,Crocs,Apparel & Accessories > Shoes,"00198445492952,00198445158070,00198445158025",NOT_IN_INVENTORY
-Apparel & Accessories,3064,3192,VERY_LOW,FLAT,Oval Square Active Hood Jacket Kvinde Black Dunjakker Str,oval square,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715409371488,05715409371495,05715409371594",OUT_OF_STOCK
+Apparel & Accessories,3064,3192,VERY_LOW,FLAT,Oval Square Active Hood Jacket Kvinde Black Dunjakker Str,oval square,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715409371488,05715409371495,05715409371594",NOT_IN_INVENTORY
 Apparel & Accessories,3066,2286,VERY_LOW,FLAT,On Men's Cloudtilt,On,Apparel & Accessories > Shoes,"07615537569307,07615537438429,07615537438542",NOT_IN_INVENTORY
 Apparel & Accessories,3067,3359,VERY_LOW,FLAT,Whistler Cassa Winter boots Women's,Whistler,Apparel & Accessories > Shoes,"05715738337339,05715738337308,05715738337360",NOT_IN_INVENTORY
 Apparel & Accessories,3068,1864,VERY_LOW,FLAT,Bareen Women's Active Stretch Tee,Bareen,Apparel & Accessories > Clothing > Shirts & Tops,"05740027836873,05740027826652,05740027826645",IN_STOCK
@@ -2329,7 +2329,7 @@ Apparel & Accessories,4107,3158,VERY_LOW,FLAT,Konges Sløjd Roli Dress Girl,Kong
 Apparel & Accessories,4109,3310,VERY_LOW,FLAT,Fjallraven Stina Jacket Women's,Fjällräven,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"07323450986766,07323450121198,07323450760120",NOT_IN_INVENTORY
 Apparel & Accessories,4110,3472,VERY_LOW,FLAT,Under Armour Men's HeatGear Short Sleeve Shirt,Under Armour,Apparel & Accessories > Clothing > Shirts & Tops,"00194513917648,00194513909773,00194513917600",NOT_IN_INVENTORY
 Apparel & Accessories,4111,1290,VERY_LOW,FLAT,Bareen Oversized Crewneck Ss26 Seasonal Mand Deep Green Kortærmede T-shirts Str,Bareen,Apparel & Accessories > Clothing > Shirts & Tops,"05740027898567,05740027824894,05740027824887",IN_STOCK
-Apparel & Accessories,4112,3426,VERY_LOW,FLAT,Levi's Women's Ribcage Bell Jeans,Levi’s,Apparel & Accessories > Clothing > Pants,"05401187001975,05401187001883,05401187001906",IN_STOCK
+Apparel & Accessories,4112,3426,VERY_LOW,FLAT,Levi's Women's Ribcage Bell Jeans,Levi’s,Apparel & Accessories > Clothing > Pants,"05401187001975,05401187001883,05401187001906",NOT_IN_INVENTORY
 Apparel & Accessories,4115,4455,VERY_LOW,FLAT,New Surplus,Neo Noir,Apparel & Accessories > Clothing > Shirts & Tops,"05715641416053,05715641305913,05715641305920",IN_STOCK
 Apparel & Accessories,4124,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,BY IC Adaic Shirt dress Women's,BYIC,Apparel & Accessories > Clothing > Dresses,"05714725092329,05714725092305,05714725092312",IN_STOCK
 Apparel & Accessories,4125,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Kids' Joha Undershirt,Joha,Apparel & Accessories > Clothing > Shirts & Tops,"05715346159262,05715346159354,05715346159286",NOT_IN_INVENTORY
@@ -3596,7 +3596,7 @@ Health & Beauty,1921,2082,VERY_LOW,FLAT,Philips 1000 S1142/00 Shaver,Philips,Hea
 Health & Beauty,1923,1839,VERY_LOW,FLAT,Beautiful Skin Sun Kissed Glow Bronzer Charlotte Tilbury,Charlotte Tilbury,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup,"05056446609333,05056446609326,05056446609340",IN_STOCK
 Health & Beauty,1925,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips 5000 Series Body Groomer Bg5475/15 Shaver,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689026895,IN_STOCK
 Health & Beauty,1928,1923,VERY_LOW,FLAT,Philips 7000 series Body Groomer BG7475/15 2D flex head and dual trim-shave system,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689027090,NOT_IN_INVENTORY
-Health & Beauty,1934,489,VERY_LOW,SINKER,Philips Series 7000 Multigroom 17-in-1 Hair & Beard Trimmer,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689044950,IN_STOCK
+Health & Beauty,1934,489,VERY_LOW,SINKER,Philips Series 7000 Multigroom 17-in-1 Hair & Beard Trimmer,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689044950,OUT_OF_STOCK
 Health & Beauty,1938,1058,VERY_LOW,FLAT,Fenty Beauty Gloss Bomb Stix High-Shine Gloss Stick,Fenty Beauty,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup,"00840026678667,00840026678377,00840026683951",IN_STOCK
 Health & Beauty,1942,3261,VERY_LOW,FLAT,Bmi-balance + Prebiotika,Diverse,Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements,05706327094108,NOT_IN_INVENTORY
 Health & Beauty,1950,2448,VERY_LOW,FLAT,Dr.Jart+ Cryo-V Jawline Lifting Mask,Dr.Jart+,Health & Beauty > Personal Care > Cosmetics > Skin Care > Skin Care Masks & Peels,01210001223943,IN_STOCK
@@ -3905,7 +3905,7 @@ Health & Beauty,2773,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,"NA
 Health & Beauty,2774,2192,VERY_LOW,FLAT,Abib PDRN Retinal Eye Patch Glow Jelly,Abib,Health & Beauty > Personal Care > Cosmetics > Skin Care > Skin Care Masks & Peels,08800280692283,NOT_IN_INVENTORY
 Health & Beauty,2777,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Valentino Born In Roma Donna Extradose Parfum,Valentino,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"03614274351019,03614274351064,03614274350753",IN_STOCK
 Health & Beauty,2778,2126,VERY_LOW,FLAT,The INKEY List Azelaic Acid Serum 10%,The INKEY List,Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion & Moisturizer,05060879824119,IN_STOCK
-Health & Beauty,2781,3329,VERY_LOW,FLAT,"Select Profcare Tape 5,0cm x 5m",SELECT,Health & Beauty > Health Care > First Aid > Medical Tape & Bandages,"05703543053933,05703543053919,05703543053926",IN_STOCK
+Health & Beauty,2781,3329,VERY_LOW,FLAT,"Select Profcare Tape 5,0cm x 5m",SELECT,Health & Beauty > Health Care > First Aid > Medical Tape & Bandages,"05703543053933,05703543053919,05703543053926",NOT_IN_INVENTORY
 Health & Beauty,2784,2391,VERY_LOW,FLAT,Philips 3000X Series X3051 Shaver,Philips,Health & Beauty > Personal Care > Shaving & Grooming,08720689019019,NOT_IN_INVENTORY
 Health & Beauty,2787,2750,VERY_LOW,FLAT,Maria Nila Gloss Coat,Maria Nila,Health & Beauty > Personal Care > Hair Care > Hair Styling Products,07391681407312,OUT_OF_STOCK
 Health & Beauty,2788,1780,VERY_LOW,FLAT,Jean Paul Gaultier Le Beau Le Parfum,Jean Paul Gaultier,Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne,"08435415062213,08435415062190",IN_STOCK
@@ -4411,7 +4411,7 @@ Home & Garden,861,879,LOW,FLAT,Rosti Classic Spoon Set 4,Rosti Mepal,Home & Gard
 Home & Garden,864,632,LOW,FLAT,Herring tealight 2 pcs / set,Sirius,Home & Garden > Decor > Home Fragrances > Candles,05707310807606,NOT_IN_INVENTORY
 Home & Garden,877,1079,LOW,RISER,Georg Jensen Damask Terry towel 40x70cm,Georg Jensen,Home & Garden > Linens & Bedding > Towels > Bath Towels & Washcloths,"05708150194642,05708150194765,05708150221843",NOT_IN_INVENTORY
 Home & Garden,878,895,LOW,FLAT,Royal Copenhagen Star Fluted Christmas Mug,Royal Copenhagen,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,05705140701293,IN_STOCK
-Home & Garden,888,759,LOW,FLAT,Noble Bedding 140 x 200 cm pillowcase 60 x 63 cm,Södahl,Home & Garden > Linens & Bedding > Bedding > Duvet Covers,"05722000328001,05722000319337,05722000328155",IN_STOCK
+Home & Garden,888,759,LOW,FLAT,Noble Bedding 140 x 200 cm pillowcase 60 x 63 cm,Södahl,Home & Garden > Linens & Bedding > Bedding > Duvet Covers,"05722000328001,05722000319337,05722000328155",OUT_OF_STOCK
 Home & Garden,890,592,LOW,FLAT,Rosti Hasselback Cutter,Rosti Mepal,Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Kitchen Slicers,05722000375784,IN_STOCK
 Home & Garden,891,775,LOW,FLAT,Kay Bojesen Oak Lovebirds,Kay Bojesen,Home & Garden > Decor > Artwork,05709513392040,IN_STOCK
 Home & Garden,895,542,LOW,FLAT,Royal Copenhagen White Fluted Bowl,Royal Copenhagen,Home & Garden > Kitchen & Dining > Tableware > Dinnerware > Plates,"05705140711162,05705140720515",IN_STOCK
@@ -4649,7 +4649,7 @@ Home & Garden,2037,0,LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips Fa
 Home & Garden,2038,1621,LOW,RISER,Kay Bojesen Monkey,Kay Bojesen,Home & Garden > Decor > Artwork,05709513142508,IN_STOCK
 Home & Garden,2040,3706,LOW,RISER,Georg Jensen Bernadotte Dessert Spoon,Georg Jensen,Home & Garden > Kitchen & Dining > Tableware > Flatware,05713275066224,IN_STOCK
 Home & Garden,2048,0,LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Konges Sløjd - Thermo Bottle - Lemon Squeeze Me,Konges Sløjd,Home & Garden > Kitchen & Dining > Food & Beverage Carriers,,NOT_IN_INVENTORY
-Home & Garden,2066,1432,LOW,RISER,Vista Shower Curtain 180 x 200 cm,Södahl,Home & Garden > Bathroom Accessories > Shower Curtains,"05722000333968,05722000333951,05722000333944",IN_STOCK
+Home & Garden,2066,1432,LOW,RISER,Vista Shower Curtain 180 x 200 cm,Södahl,Home & Garden > Bathroom Accessories > Shower Curtains,"05722000333968,05722000333951,05722000333944",OUT_OF_STOCK
 Home & Garden,2068,2509,LOW,RISER,Georg Jensen 2026 Heart,Georg Jensen,Home & Garden > Decor > Seasonal & Holiday Decorations > Holiday Ornaments,05713275276821,IN_STOCK
 Home & Garden,2073,4161,LOW,RISER,Eva Trio grydesæt 4 dele Rustfrit Stål,Eva Solo,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Cookware > Cookware Sets,05706631257701,NOT_IN_INVENTORY
 Home & Garden,2075,1782,LOW,RISER,Royal Copenhagen White Fluted Small Bowl,Royal Copenhagen,Home & Garden > Kitchen & Dining > Tableware > Dinnerware > Bowls,05705140735267,IN_STOCK
@@ -4735,6 +4735,7 @@ Home & Garden,2471,2743,VERY_LOW,FLAT,Eva Solo Professional Rye Bread Tin 3 L 21
 Home & Garden,2491,4094,VERY_LOW,FLAT,KitchenAid Artisan Food Processor with 5KSM125EAC Basic Kit,KitchenAid,Home & Garden > Kitchen & Dining > Kitchen Appliances > Food Mixers & Blenders,05413184200794,IN_STOCK
 Home & Garden,2495,3436,VERY_LOW,FLAT,Gastrotools The Complete 5-ply Set,Gastrotools,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Cookware > Cookware Sets,05745001431044,NOT_IN_INVENTORY
 Home & Garden,2497,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips Master Value Dimmable LED 11.2W Frosted E27 GLS/A60,Philips,Home & Garden > Lighting > Light Bulbs,08719514347946,NOT_IN_INVENTORY
+Home & Garden,2498,2290,VERY_LOW,FLAT,Arabia Moomin Mug 0.3 L Gift Of Love 1086422,Mummi,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,06411801028942,IN_STOCK
 Home & Garden,2503,1724,VERY_LOW,FLAT,Secto Design Octo 4241 Small Pendant,Secto Design,Home & Garden > Lighting > Lighting Fixtures > Ceiling Light Fixtures,"06430053140936,06430053140929,06430053140912",IN_STOCK
 Home & Garden,2507,4435,VERY_LOW,FLAT,Philips 4.6W GU10 Led Light Bulbs,Philips,Home & Garden > Lighting > Light Bulbs,08718696586013,NOT_IN_INVENTORY
 Home & Garden,2509,4317,VERY_LOW,FLAT,Global 3 Piece Knife Set,Global,Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Kitchen Knives,04943691253804,NOT_IN_INVENTORY
@@ -5289,6 +5290,7 @@ Home & Garden,5128,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Vandf
 Home & Garden,5129,3906,VERY_LOW,FLAT,Nordlux Oja 29 Ceiling Lamp IP20 2700K Step Dim,Nordlux,Home & Garden > Lighting > Lighting Fixtures > Ceiling Light Fixtures,05704924016394,NOT_IN_INVENTORY
 Home & Garden,5137,5709,VERY_LOW,FLAT,Fossflakes Comfort U-Pillow incl. Cover,Fossflakes,Home & Garden > Linens & Bedding > Bedding > Pillows,05708222007719,IN_STOCK
 Home & Garden,5142,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Studio Feder Ava Bath Mat 50x80 cm,Studio Feder,Home & Garden > Bathroom Accessories > Bath Mats & Rugs,"05714439038064,05714439038088,05714439038071",IN_STOCK
+Home & Garden,5147,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Moomin Arabia Moomin Mug,Mummi,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,06411801026726,OUT_OF_STOCK
 Home & Garden,5148,2977,VERY_LOW,FLAT,Georg Jensen 1996 Anniversary Mobile,Georg Jensen,Home & Garden > Decor > Seasonal & Holiday Decorations > Holiday Ornaments,05713275277002,IN_STOCK
 Home & Garden,5166,5481,VERY_LOW,FLAT,Quilts of Denmark Duvet FEJØ Duvet Muscovy down 140 x 200 cm WARM,Quilts of Denmark,Home & Garden > Linens & Bedding > Bedding > Quilts & Comforters,"05768892550304,05768892550335",IN_STOCK
 Home & Garden,5169,3747,VERY_LOW,FLAT,Christmas Baubles & Tree Accessories,Sirius,Home & Garden > Decor > Home Fragrances > Candles,05707310362259,IN_STOCK
@@ -5314,7 +5316,7 @@ Home & Garden,5261,5066,VERY_LOW,FLAT,Stanley Easy Carry Outdoor Cooler,Stanley,
 Home & Garden,5263,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,12 Days of Glow Discovery,Pixi,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,00885190370504,NOT_IN_INVENTORY
 Home & Garden,5264,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,NINE Jewelry | Adventskalender | Spar over 60% | 4 Smykker,NINE,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,,NOT_IN_INVENTORY
 Home & Garden,5270,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Royal Copenhagen Star Fluted Christmas Advent Candle,Royal Copenhagen,Home & Garden > Decor > Home Fragrances > Candles,05705140756101,OUT_OF_STOCK
-Home & Garden,5272,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Dyson Hot+cool Air Purifier,Dyson,Home & Garden > Household Appliances > Climate Control Appliances > Air Purifiers,05025155099865,OUT_OF_STOCK
+Home & Garden,5272,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Dyson Hot+cool Air Purifier,Dyson,Home & Garden > Household Appliances > Climate Control Appliances > Air Purifiers,05025155099865,IN_STOCK
 Home & Garden,5273,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Meraki Towel Clips 10 Pack Dishcloths 308090001,Cisco,Home & Garden > Household Supplies > Laundry Supplies > Clothespins,05707644419674,NOT_IN_INVENTORY
 Home & Garden,5275,3510,VERY_LOW,FLAT,Hyggepakken JULEKALENDER 2026,Karamel Kompagniet,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,,NOT_IN_INVENTORY
 Home & Garden,5277,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Philips Na552/00 9l Air Fryer,Philips,Home & Garden > Kitchen & Dining > Kitchen Appliances > Deep Fryers,08720389049286,NOT_IN_INVENTORY
