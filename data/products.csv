@@ -1811,6 +1811,7 @@ Apparel & Accessories,2877,4934,VERY_LOW,FLAT,Name It Girls Sequin Blouson Jacke
 Apparel & Accessories,2878,6167,VERY_LOW,FLAT,Dr Martens Women's 1460 Pascal,Dr. Martens,Apparel & Accessories > Shoes,"00190665742121,00190665741957,00190665636222",IN_STOCK
 Apparel & Accessories,2881,4134,VERY_LOW,FLAT,Selected Long Sleeve Shirt Men,Selected,Apparel & Accessories > Clothing > Shirts & Tops,"05715907452245,05715907452191,05715907452085",NOT_IN_INVENTORY
 Apparel & Accessories,2883,3426,VERY_LOW,FLAT,CULTURE Dress female,Culture,Apparel & Accessories > Clothing > Dresses,"05715375368772,05715299013796,05715375368796",IN_STOCK
+Apparel & Accessories,2887,6082,VERY_LOW,FLAT,LULU Copenhagen Rudolph,LULU Copenhagen,Apparel & Accessories > Jewelry > Earrings,05713263037373,NOT_IN_INVENTORY
 Apparel & Accessories,2889,3217,VERY_LOW,FLAT,Markberg Maudembg Mittens Bags,Markberg,Apparel & Accessories > Clothing Accessories > Gloves & Mittens,"05711423089026,05711423064115,05711423071755",NOT_IN_INVENTORY
 Apparel & Accessories,2892,1880,VERY_LOW,FLAT,BLS HAFNIA Samurai Winter Jacket | Jackets > Padded Jackets | Black | L | Men,BLS Hafnia,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715029071911,05715029072079,05715029053528",IN_STOCK
 Apparel & Accessories,2893,5161,VERY_LOW,FLAT,adidas Women's Essentials Knit Cardigan,adidas,Apparel & Accessories > Clothing > Shirts & Tops,"04069991402220,04069991432913,04069991432937",NOT_IN_INVENTORY
@@ -3762,6 +3763,7 @@ Apparel & Accessories,6378,8468,VERY_LOW,FLAT,Becksöndergaard Telma Solid Socks
 Apparel & Accessories,6379,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Mango Women's sandals,MANGO,Apparel & Accessories > Shoes,"08447692249171,08447692265744,08447542487401",IN_STOCK
 Apparel & Accessories,6380,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Salomon Shakeout Cap,Salomon,Apparel & Accessories > Clothing Accessories > Hats,"00198720366398,00198720366695,00198720173958",NOT_IN_INVENTORY
 Apparel & Accessories,6382,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Sif Jakobs Ellera Grande,Sif Jakobs,Apparel & Accessories > Jewelry > Earrings,"05710698061546,05710698061508,05710698064684",NOT_IN_INVENTORY
+Apparel & Accessories,6383,7424,VERY_LOW,FLAT,LULU Copenhagen Bouquet Earring,LULU Copenhagen,Apparel & Accessories > Jewelry > Earrings,"05713263032682,05713263032637",NOT_IN_INVENTORY
 Apparel & Accessories,6385,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,The North Face Men's Evolution Simple Dome,The North Face,Apparel & Accessories > Clothing > Pants,"00197804175635,00198269101924,00197804175673",NOT_IN_INVENTORY
 Apparel & Accessories,6386,7373,VERY_LOW,FLAT,Kids Huttelihut Hat Knit Alpaca Pompom,Huttelihut,Apparel & Accessories > Clothing Accessories > Hats,"05713438494260,05713438935473,05713438935480",IN_STOCK
 Apparel & Accessories,6392,4455,VERY_LOW,FLAT,Fransa Blazer 'Zablazer female,Fransa,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,"05715753972379,05715753972096,05713346947223",IN_STOCK
@@ -12522,6 +12524,7 @@ Home & Garden,10885,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Roya
 Home & Garden,10888,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Pasta bowl Bitz,Bitz,Home & Garden > Kitchen & Dining > Tableware > Dinnerware > Bowls,"05722000111948,05722000111931,05722000112006",NOT_IN_INVENTORY
 Home & Garden,10889,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Blomsterbergs muffin swirl tin,Blomsterbergs,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Bakeware > Muffin & Pastry Pans,05722000392415,IN_STOCK
 Home & Garden,10893,921,VERY_LOW,SINKER,iRobot ASP. PLUS 675 Black,iRobot,Home & Garden > Household Appliances > Vacuums,05061083615470,NOT_IN_INVENTORY
+Home & Garden,10896,11101,VERY_LOW,FLAT,ALESSI Juicy Salif Citrus Squeezer,Alessi,Home & Garden > Kitchen & Dining > Kitchen Appliances > Juicers,,NOT_IN_INVENTORY
 Home & Garden,10902,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Fitted sheet Södahl organic Calm,Södahl,Home & Garden > Linens & Bedding > Bedding > Bed Sheets,"05722000328261,05722000155973,05722000328209",IN_STOCK
 Home & Garden,10904,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,OBH Nordica Delight Hand Mixer 400 W Grey,OBH Nordica,Home & Garden > Kitchen & Dining > Kitchen Appliances > Food Mixers & Blenders,05708642067904,IN_STOCK
 Home & Garden,10905,9964,VERY_LOW,FLAT,Bitz Set of cups Black,Bitz,Home & Garden > Kitchen & Dining > Tableware > Drinkware > Mugs,05722008212364,NOT_IN_INVENTORY
@@ -12587,6 +12590,7 @@ Home & Garden,11145,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Lyng
 Home & Garden,11146,5400,VERY_LOW,FLAT,Witt SPIKE90W Loftemhætte/Emfang,Witt,Home & Garden > Kitchen & Dining > Kitchen Appliances > Range Hoods,05707582372406,NOT_IN_INVENTORY
 Home & Garden,11148,10853,VERY_LOW,FLAT,Bing & Grøndahl Christmas plate 2027,Royal Copenhagen,Home & Garden > Kitchen & Dining > Tableware > Dinnerware > Plates,05705140758822,NOT_IN_INVENTORY
 Home & Garden,11150,9671,VERY_LOW,FLAT,KitchenAid Artisan K400 Blender,KitchenAid,Home & Garden > Kitchen & Dining > Kitchen Appliances > Food Mixers & Blenders,"08003437239793,05413184906931,05413184906535",IN_STOCK
+Home & Garden,11152,10364,VERY_LOW,FLAT,Alessi Kettle,Alessi,Home & Garden > Kitchen & Dining > Cookware & Bakeware > Cookware > Stovetop Kettles,"08003299011858,08003299939404,08003299363285",NOT_IN_INVENTORY
 Home & Garden,11154,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Georg Jensen Bernadotte Stainless Steel Sauce Boat,Georg Jensen,Home & Garden > Kitchen & Dining > Tableware > Serveware > Gravy Boats,05713275279044,NOT_IN_INVENTORY
 Home & Garden,11157,0,VERY_LOW,RELATIVE_DEMAND_CHANGE_TYPE_ENUM_UNSPECIFIED,Disney Disney Stitch Advent Calendar,Disney,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,04043946331513,NOT_IN_INVENTORY
 Home & Garden,11160,2827,VERY_LOW,FLAT,MYA Cosmetics 24 Beauty Surprises Advent Calendar Makeup Calendar with Eyeshadows,Mya Cosmetics,Home & Garden > Decor > Seasonal & Holiday Decorations > Advent Calendars,08436024375985,IN_STOCK
